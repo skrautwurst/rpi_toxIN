@@ -18,8 +18,8 @@ download from PDB to /rpi_toxIN/sequence_data/toxirna_seq_pdb.fasta
 /rpi_toxIN/sequence_data/toxirna_seq_literature1.fasta  
 Blower et al., 2012  
 include all organisms, which are additional to the ones from Fineran et al. (2009), RNA sequences added from Table S1
-  > |||
-  |-|-|
+  > |||  
+  |-|-|  
   Actinobacillus ureae ATCC 25976  
   Bacillus cereus Rock 1-15  
   Bryantella formatexigens DSM 14469  
