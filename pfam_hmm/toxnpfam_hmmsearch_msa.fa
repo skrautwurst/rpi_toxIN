@@ -1,0 +1,685 @@
+# STOCKHOLM 1.0
+# WARNING: seq names have been made unique by adding a prefix of "<seq#>|"
+
+#=GS 000|WP_062150987.1/2-158   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Beggiatoa leptomitoformis]
+#=GS 001|WP_062150987.1/2-158   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Beggiatoa leptomitoformis]
+#=GS 002|WP_052306562.1/4-159   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Clostridium botulinum]
+#=GS 003|WP_005981365.1/4-162   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Fusobacterium ulcerans]
+#=GS 004|WP_005981365.1/4-162   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Fusobacterium ulcerans]
+#=GS 005|WP_107195477.1/1-160   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Megasphaera stantonii]
+#=GS 006|WP_095123441.1/1-160   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Streptococcus acidominimus]
+#=GS 007|WP_014918282.1/5-162   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Lactobacillus helveticus]
+#=GS 008|WP_014918282.1/5-162   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Lactobacillus helveticus]
+#=GS 009|WP_014918282.1/5-162   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Lactobacillus helveticus]
+#=GS 010|WP_014563063.1/5-162   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Lactobacillus helveticus]
+#=GS 011|WP_054607212.1/5-162   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Lactobacillus helveticus]
+#=GS 012|WP_012621620.1/7-172   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [[Haemophilus] parasuis]
+#=GS 013|WP_012621620.1/7-172   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [[Haemophilus] parasuis]
+#=GS 014|WP_012621620.1/7-172   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [[Haemophilus] parasuis]
+#=GS 015|WP_012621620.1/7-172   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Glaesserella parasuis]
+#=GS 016|WP_012621620.1/7-172   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [[Haemophilus] parasuis]
+#=GS 017|WP_044009037.1/7-172   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [[Haemophilus] parasuis]
+#=GS 018|WP_088020451.1/1-152   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Bacillus horikoshii]
+#=GS 019|WP_014570267.1/1-156   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Lactococcus lactis]
+#=GS 020|WP_012260000.1/8-171   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Bacillus mycoides]
+#=GS 021|WP_085313506.1/8-171   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Bacillus mycoides]
+#=GS 022|WP_076777974.1/5-159   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Lachnoclostridium phocaeense]
+#=GS 023|WP_094565185.1/28-185  DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Herbaspirillum sp. meg3]
+#=GS 024|WP_117346311.1/17-191  DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Clostridium sporogenes]
+#=GS 025|WP_117850313.1/1-161   DE [subseq from] MULTISPECIES: type III toxin-antitoxin system ToxN/AbiQ family toxin [Coprobacillus]
+#=GS 026|WP_128752245.1/19-176  DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Sporanaerobacter sp. NJN-17]
+#=GS 027|WP_005541974.1/9-184   DE [subseq from] MULTISPECIES: type III toxin-antitoxin system ToxN/AbiQ family toxin [Firmicutes]
+#=GS 028|WP_047716023.1/9-184   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Streptococcus pyogenes]
+#=GS 029|WP_047716023.1/9-184   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Streptococcus pyogenes]
+#=GS 030|WP_047716023.1/9-184   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Streptococcus pyogenes]
+#=GS 031|WP_088765551.1/1-153   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Fusobacterium nucleatum]
+#=GS 032|WP_016097319.1/8-169   DE [subseq from] MULTISPECIES: type III toxin-antitoxin system ToxN/AbiQ family toxin [Bacillus]
+#=GS 033|WP_016097319.1/8-169   DE [subseq from] MULTISPECIES: type III toxin-antitoxin system ToxN/AbiQ family toxin [Bacillus]
+#=GS 034|WP_016097319.1/8-169   DE [subseq from] MULTISPECIES: type III toxin-antitoxin system ToxN/AbiQ family toxin [Bacillus]
+#=GS 035|WP_016097319.1/8-169   DE [subseq from] MULTISPECIES: type III toxin-antitoxin system ToxN/AbiQ family toxin [Bacillus]
+#=GS 036|WP_117347322.1/1-175   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Clostridium sporogenes]
+#=GS 037|WP_100026970.1/5-176   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Fusobacterium periodonticum]
+#=GS 038|WP_038672278.1/5-171   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Ruminococcus bicirculans]
+#=GS 039|WP_020429515.1/6-156   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Paenibacillus riograndensis]
+#=GS 040|WP_094374045.1/8-171   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Bacillus cytotoxicus]
+#=GS 041|WP_094374045.1/8-171   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Bacillus cytotoxicus]
+#=GS 042|WP_094374045.1/8-171   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Bacillus cytotoxicus]
+#=GS 043|WP_094374045.1/8-171   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Bacillus cytotoxicus]
+#=GS 044|WP_094374045.1/8-171   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Bacillus cytotoxicus]
+#=GS 045|WP_094374045.1/8-171   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Bacillus cytotoxicus]
+#=GS 046|WP_094374045.1/8-171   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Bacillus cytotoxicus]
+#=GS 047|WP_094374045.1/8-171   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Bacillus cytotoxicus]
+#=GS 048|WP_094374045.1/8-171   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Bacillus cytotoxicus]
+#=GS 049|WP_094374045.1/8-171   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Bacillus cytotoxicus]
+#=GS 050|WP_000182255.1/8-169   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Bacillus thuringiensis]
+#=GS 051|WP_000182254.1/8-169   DE [subseq from] MULTISPECIES: hypothetical protein [Bacillus cereus group]
+#=GS 052|WP_000182254.1/8-169   DE [subseq from] MULTISPECIES: hypothetical protein [Bacillus cereus group]
+#=GS 053|WP_128750010.1/7-159   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Clostridium sp. JN-9]
+#=GS 054|WP_089172360.1/1-161   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Bacillus cereus]
+#=GS 055|WP_129622155.1/16-192  DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Mycoplasma glycophilum]
+#=GS 056|WP_000675374.1/1-158   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Escherichia coli]
+#=GS 057|WP_078080483.1/6-160   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Planococcus faecalis]
+#=GS 058|WP_041604955.1/5-157   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Histophilus somni]
+#=GS 059|WP_051918079.1/1-158   DE [subseq from] MULTISPECIES: type III toxin-antitoxin system ToxN/AbiQ family toxin [Enterobacterales]
+#=GS 060|WP_006587790.1/7-159   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Lactobacillus jensenii]
+#=GS 061|WP_119362912.1/1-175   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Erysipelotrichaceae bacterium GAM147]
+#=GS 062|WP_013521357.1/1-157   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Taylorella equigenitalis]
+#=GS 063|WP_013521357.1/1-157   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Taylorella equigenitalis]
+#=GS 064|WP_013521357.1/1-157   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Taylorella equigenitalis]
+#=GS 065|WP_013521357.1/1-157   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Taylorella equigenitalis]
+#=GS 066|WP_032842743.1/4-163   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Fusobacterium nucleatum]
+#=GS 067|WP_051429460.1/4-163   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Fusobacterium nucleatum]
+#=GS 068|WP_111920784.1/1-173   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Blautia sp. N6H1-15]
+#=GS 069|WP_002488419.1/24-179  DE [subseq from] MULTISPECIES: type III toxin-antitoxin system ToxN/AbiQ family toxin [Bacteria]
+#=GS 070|WP_002488419.1/24-179  DE [subseq from] MULTISPECIES: type III toxin-antitoxin system ToxN/AbiQ family toxin [Bacteria]
+#=GS 071|WP_002488419.1/24-179  DE [subseq from] MULTISPECIES: type III toxin-antitoxin system ToxN/AbiQ family toxin [Bacteria]
+#=GS 072|WP_106086058.1/3-138   DE [subseq from] hypothetical protein [Lachnospiraceae bacterium oral taxon 500]
+#=GS 073|WP_013291944.1/36-204  DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Clostridium cellulovorans]
+#=GS 074|WP_083745839.1/2-158   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [[Clostridium] innocuum]
+#=GS 075|WP_000675351.1/1-159   DE [subseq from] MULTISPECIES: type III toxin-antitoxin system ToxN/AbiQ family toxin [Enterobacteriaceae]
+#=GS 076|WP_000675351.1/1-159   DE [subseq from] MULTISPECIES: type III toxin-antitoxin system ToxN/AbiQ family toxin [Enterobacteriaceae]
+#=GS 077|WP_014466439.1/4-159   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Zymomonas mobilis]
+#=GS 078|WP_039264110.1/1-158   DE [subseq from] MULTISPECIES: type III toxin-antitoxin system ToxN/AbiQ family toxin [Enterobacter]
+#=GS 079|WP_063164501.1/1-175   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Lactobacillus reuteri]
+#=GS 080|WP_077713129.1/5-153   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Desulfotomaculum ferrireducens]
+#=GS 081|WP_082153303.1/1-159   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Lactobacillus koreensis]
+#=GS 082|WP_096228216.1/21-170  DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Gordonibacter urolithinfaciens]
+#=GS 083|WP_117346472.1/11-161  DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Clostridium sporogenes]
+#=GS 084|WP_081172077.1/9-184   DE [subseq from] hypothetical protein [Lactococcus lactis]
+#=GS 085|WP_081172077.1/9-184   DE [subseq from] hypothetical protein [Lactococcus lactis]
+#=GS 086|WP_051611733.1/1-167   DE [subseq from] hypothetical protein [Fusobacterium necrophorum]
+#=GS 087|WP_051611733.1/1-167   DE [subseq from] hypothetical protein [Fusobacterium necrophorum]
+#=GS 088|WP_006886810.1/13-169  DE [subseq from] hypothetical protein [Mycoplasma anatis]
+#=GS 089|WP_006886810.1/13-169  DE [subseq from] hypothetical protein [Mycoplasma anatis]
+#=GS 090|WP_006268767.1/4-167   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Streptococcus constellatus]
+#=GS 091|WP_006268767.1/4-167   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Streptococcus constellatus]
+#=GS 092|WP_006268767.1/4-167   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Streptococcus constellatus]
+#=GS 093|WP_014622601.1/4-167   DE [subseq from] hypothetical protein [Streptococcus equi]
+#=GS 094|WP_013854341.1/1-178   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Lactobacillus kefiranofaciens]
+#=GS 095|WP_053108533.1/2-180   DE [subseq from] MULTISPECIES: type III toxin-antitoxin system ToxN/AbiQ family toxin [Enterococcaceae]
+#=GS 096|WP_053108533.1/2-180   DE [subseq from] MULTISPECIES: type III toxin-antitoxin system ToxN/AbiQ family toxin [Enterococcaceae]
+#=GS 097|WP_053108533.1/2-180   DE [subseq from] MULTISPECIES: type III toxin-antitoxin system ToxN/AbiQ family toxin [Enterococcaceae]
+#=GS 098|WP_048733289.1/1-157   DE [subseq from] hypothetical protein [Lactobacillus koreensis]
+#=GS 099|WP_123985655.1/9-142   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Staphylococcus epidermidis]
+#=GS 100|WP_123866849.1/6-167   DE [subseq from] hypothetical protein [Enterococcus sp. FDAARGOS_553]
+#=GS 101|WP_107775333.1/1-178   DE [subseq from] hypothetical protein [Lactobacillus helveticus]
+#=GS 102|WP_107775333.1/1-178   DE [subseq from] hypothetical protein [Lactobacillus helveticus]
+#=GS 103|WP_052263122.1/5-121   DE [subseq from] type III toxin-antitoxin system ToxN/AbiQ family toxin [Xanthomonas vasicola]
+#=GS 104|WP_014563839.1/5-175   DE [subseq from] hypothetical protein [Lactobacillus helveticus]
+#=GS 105|WP_054607455.1/5-175   DE [subseq from] hypothetical protein [Lactobacillus helveticus]
+#=GS 106|WP_006886323.1/17-167  DE [subseq from] hypothetical protein [Mycoplasma anatis]
+#=GS 107|WP_006886323.1/17-167  DE [subseq from] hypothetical protein [Mycoplasma anatis]
+#=GS 108|WP_072525221.1/15-171  DE [subseq from] MULTISPECIES: hypothetical protein [Clostridiales]
+#=GS 109|WP_013700934.1/6-100   DE [subseq from] hypothetical protein [Treponema succinifaciens]
+#=GS 110|WP_012159700.1/26-135  DE [subseq from] hypothetical protein [Alkaliphilus oremlandii]
+#=GS 111|WP_021165089.1/1-162   DE [subseq from] hypothetical protein [Lactococcus lactis]
+#=GS 112|WP_081146396.1/1-162   DE [subseq from] hypothetical protein [Lactococcus lactis]
+#=GS 113|WP_002317408.1/13-158  DE [subseq from] MULTISPECIES: hypothetical protein [Enterococcus]
+#=GS 114|WP_002317408.1/13-158  DE [subseq from] MULTISPECIES: hypothetical protein [Enterococcus]
+#=GS 115|WP_002317408.1/13-158  DE [subseq from] MULTISPECIES: hypothetical protein [Enterococcus]
+#=GS 116|WP_125119801.1/3-156   DE [subseq from] hypothetical protein [Erysipelotrichaceae bacterium SG0102]
+#=GS 117|WP_019034960.1/12-106  DE [subseq from] MULTISPECIES: hypothetical protein [Firmicutes]
+#=GS 118|WP_005960590.1/9-109   DE [subseq from] toxin ToxN, type III toxin-antitoxin system domain protein [Fusobacterium necrophorum]
+#=GS 119|WP_082743202.1/9-160   DE [subseq from] hypothetical protein [Faecalibaculum rodentium]
+#=GS 120|WP_005953786.1/9-109   DE [subseq from] hypothetical protein [Fusobacterium necrophorum]
+#=GS 121|WP_080944650.1/2-96    DE [subseq from] hypothetical protein [Pseudomonas fluorescens]
+#=GS 122|WP_134107340.1/129-293 DE [subseq from] hypothetical protein [Ruthenibacterium lactatiformans]
+#=GS 123|WP_052721946.1/1-68    DE [subseq from] hypothetical protein [Pseudomonas fluorescens]
+#=GS 124|WP_012127504.1/53-150  DE [subseq from] hypothetical protein [Vibrio campbellii]
+#=GS 125|WP_012127504.1/53-150  DE [subseq from] hypothetical protein [Vibrio campbellii]
+#=GS 126|WP_107196733.1/3-73    DE [subseq from] hypothetical protein [Megasphaera stantonii]
+#=GS 127|WP_081454751.1/31-88   DE [subseq from] hypothetical protein [Treponema succinifaciens]
+#=GS 128|WP_075395808.1/27-152  DE [subseq from] MULTISPECIES: hypothetical protein [Bacillus]
+#=GS 129|WP_075395808.1/27-152  DE [subseq from] MULTISPECIES: hypothetical protein [Bacillus]
+#=GS 130|WP_075395808.1/27-152  DE [subseq from] MULTISPECIES: hypothetical protein [Bacillus]
+#=GS 131|WP_003299023.1/27-152  DE [subseq from] hypothetical protein [Bacillus thuringiensis]
+#=GS 132|WP_011244862.1/27-152  DE [subseq from] hypothetical protein [Bacillus thuringiensis]
+#=GS 133|YP_173316.1/27-152     DE [subseq from] hypothetical protein pBT9727_0073 (plasmid) [[Bacillus thuringiensis] serovar konkukian str. 97-27]
+#=GS 134|WP_080638824.1/5-45    DE [subseq from] hypothetical protein [Fusobacterium nucleatum]
+
+000|WP_062150987.1/2-158           MRLYQVETLYVEYLKK.FD......GKILNNEK.....NNNTRPYIG....VVFEI.N.N..FKYYVPLSSP..K........NKHHSWKDR..LDFVRLED.....................-GNILIAVLNINNMIPVPP..SEITELDINNE..........-SE......PYRSLLNKEYLLIKK..KEAKIIKN.
+#=GR 000|WP_062150987.1/2-158   PP 79**************.**......********.....*********....*****.*.*..**********..*........*********..********......................9*****************..***********...........99......***************..********.
+001|WP_062150987.1/2-158           MRLYQVETLYVEYLKK.FD......GKILNNEK.....NNNTRPYIG....VVFEI.N.N..FKYYVPLSSP..K........NKHHSWKDR..LDFVRLED.....................-GNILIAVLNINNMIPVPP..SEITELDINNE..........-SE......PYRSLLNKEYLLIKK..KEAKIIKN.
+#=GR 001|WP_062150987.1/2-158   PP 79**************.**......********.....*********....*****.*.*..**********..*........*********..********......................9*****************..***********...........99......***************..********.
+002|WP_052306562.1/4-159           -KIYMIDSNYITYLRS.FD......TNVALNKK....iHEGIRKYTG....IVFHV.N.D..FKYFAPMSSP..K........QKHKNISDE.qIDCVKIKK.....................---GQLGVVNLNNMIPVCD..ENLLPFHINEQ..........-EE......SYKNLLFNQFKYLNK..SKQEVKDK.
+#=GR 002|WP_052306562.1/4-159   PP .89*************.**......********....99********....*****.*.*..**********..*........********9.99*****99........................****************..**********9...........99......***************..********.
+003|WP_005981365.1/4-162           LRFYEVDLDYMEYIQK.VE......KKIMDSIN.....SKSNRKFIG....IVLKI.D.N..LDYIIPLTSP..K........EKHKKMKNN..IDFLKIDN.....................---GLLGAINFNNMFPVPK..ELHFEKDINLE..........MDI......KYKNLLINQISWCNVssNKEKIYRT.
+#=GR 003|WP_005981365.1/4-162   PP 689*************.**......********.....*********....*****.*.*..**********..*........*********..********........................****************..***********..........***......*************9878********.
+004|WP_005981365.1/4-162           LRFYEVDLDYMEYIQK.VE......KKIMDSIN.....SKSNRKFIG....IVLKI.D.N..LDYIIPLTSP..K........EKHKKMKNN..IDFLKIDN.....................---GLLGAINFNNMFPVPK..ELHFEKDINLE..........MDI......KYKNLLINQISWCNVssNKEKIYRT.
+#=GR 004|WP_005981365.1/4-162   PP 689*************.**......********.....*********....*****.*.*..**********..*........*********..********........................****************..***********..........***......*************9878********.
+005|WP_107195477.1/1-160           MRLYHVSDTYIQYLKQ.FD......EKVPDNKN.....--QKRPYVG....IVVEV.G.G..VTYYAPLSSP..K........PKHLKMKNG..KDFRKINK.....................---GVYGAINFNNMIPVPV..AELLLIDFDAI..........QDK......QYRRLLQHQYEYIKE..DEANIIKI.
+#=GR 005|WP_107195477.1/1-160   PP 79**************.**......****9877.......9******....*****.*.*..**********..*........*********..*******9........................****************..***********..........***......***************..********.
+006|WP_095123441.1/1-160           MKLYNVEDNYVDFLKT.FD......SKVPDNKI.....--EKRPFVG....VVFTI.S.G..YNFFAPLSSP..K........LKHRRMSNA..ADFHKING.....................---GSQGAINFNNMIPIPN..SELILIDIDNI..........TDE......DYKNLLNSQLRFINS..VQEILKKK.
+#=GR 006|WP_095123441.1/1-160   PP 89**************.**......****9977.......9******....*****.*.*..**********..*........*********..********........................999*************..***********..........***......***************..********.
+007|WP_014918282.1/5-162           LKLYNINPSYVDQLHN.LD......YRVEKHH-.....GKHSKPYLG....IILKI.N.N..IHYFVPLSSP..K........PKHKHMYES..LTFVKITN.....................-RSQLLSVLNINNMIPVPI..GFYHKIDINKI..........SDL......KYRDLLNAEQIACRK..KARRIIKN.
+#=GR 007|WP_014918282.1/5-162   PP 69**************.**......****775......5********....*****.*.*..**********..*........*********..********......................******************..***********..........***......***************..********.
+008|WP_014918282.1/5-162           LKLYNINPSYVDQLHN.LD......YRVEKHH-.....GKHSKPYLG....IILKI.N.N..IHYFVPLSSP..K........PKHKHMYES..LTFVKITN.....................-RSQLLSVLNINNMIPVPI..GFYHKIDINKI..........SDL......KYRDLLNAEQIACRK..KARRIIKN.
+#=GR 008|WP_014918282.1/5-162   PP 69**************.**......****775......5********....*****.*.*..**********..*........*********..********......................******************..***********..........***......***************..********.
+009|WP_014918282.1/5-162           LKLYNINPSYVDQLHN.LD......YRVEKHH-.....GKHSKPYLG....IILKI.N.N..IHYFVPLSSP..K........PKHKHMYES..LTFVKITN.....................-RSQLLSVLNINNMIPVPI..GFYHKIDINKI..........SDL......KYRDLLNAEQIACRK..KARRIIKN.
+#=GR 009|WP_014918282.1/5-162   PP 69**************.**......****775......5********....*****.*.*..**********..*........*********..********......................******************..***********..........***......***************..********.
+010|WP_014563063.1/5-162           LKLYNINPSYVDQLHN.LD......YRVEKHH-.....GKHSKPYLG....IILKI.N.N..IHYFVPLSSP..Q........PKHKHMYES..LTFVKITN.....................-RSQLLSVLNINNMIPVPI..GFYHKIDINKI..........SDL......KYRDLLNAEQIACRK..KARRIIKN.
+#=GR 010|WP_014563063.1/5-162   PP 69**************.**......****775......5********....*****.*.*..**********..*........*********..********......................******************..***********..........***......***************..********.
+011|WP_054607212.1/5-162           LKLYNINPSYVDQLHN.LD......YRVEKHH-.....GKHSKPYLG....IILKI.N.N..IHYFVPLSSP..Q........PKHKHMYES..LTFVKITN.....................-RSQLLSVLNINNMIPVPI..GFYHKIDINKI..........SDL......KYRDLFNAEQIACRK..KARRIIKN.
+#=GR 011|WP_054607212.1/5-162   PP 69**************.**......****775......5********....*****.*.*..**********..*........*********..********......................******************..***********..........***......***************..********.
+012|WP_012621620.1/7-172           LKLCRINPEYTKFLHS.ID......TRISPEKEl...dKNKRRIFVG....VVLTI.N.H..ISYFAPLSSApnT........KNNKKPFDK..RFVIKITTg...................fDNKKTIAGIKLNNMFPVLD..TVIEDIDLTKEf........eEEH......KYASLLMKEMLFINNpiNQRKIKEK.
+#=GR 012|WP_012621620.1/7-172   PP 689*************.**......********9...899999****....*****.*.*..*********9633........677777888..9999**999...................********************..**********98........7888......*************************.
+013|WP_012621620.1/7-172           LKLCRINPEYTKFLHS.ID......TRISPEKEl...dKNKRRIFVG....VVLTI.N.H..ISYFAPLSSApnT........KNNKKPFDK..RFVIKITTg...................fDNKKTIAGIKLNNMFPVLD..TVIEDIDLTKEf........eEEH......KYASLLMKEMLFINNpiNQRKIKEK.
+#=GR 013|WP_012621620.1/7-172   PP 689*************.**......********9...899999****....*****.*.*..*********9633........677777888..9999**999...................********************..**********98........7888......*************************.
+014|WP_012621620.1/7-172           LKLCRINPEYTKFLHS.ID......TRISPEKEl...dKNKRRIFVG....VVLTI.N.H..ISYFAPLSSApnT........KNNKKPFDK..RFVIKITTg...................fDNKKTIAGIKLNNMFPVLD..TVIEDIDLTKEf........eEEH......KYASLLMKEMLFINNpiNQRKIKEK.
+#=GR 014|WP_012621620.1/7-172   PP 689*************.**......********9...899999****....*****.*.*..*********9633........677777888..9999**999...................********************..**********98........7888......*************************.
+015|WP_012621620.1/7-172           LKLCRINPEYTKFLHS.ID......TRISPEKEl...dKNKRRIFVG....VVLTI.N.H..ISYFAPLSSApnT........KNNKKPFDK..RFVIKITTg...................fDNKKTIAGIKLNNMFPVLD..TVIEDIDLTKEf........eEEH......KYASLLMKEMLFINNpiNQRKIKEK.
+#=GR 015|WP_012621620.1/7-172   PP 689*************.**......********9...899999****....*****.*.*..*********9633........677777888..9999**999...................********************..**********98........7888......*************************.
+016|WP_012621620.1/7-172           LKLCRINPEYTKFLHS.ID......TRISPEKEl...dKNKRRIFVG....VVLTI.N.H..ISYFAPLSSApnT........KNNKKPFDK..RFVIKITTg...................fDNKKTIAGIKLNNMFPVLD..TVIEDIDLTKEf........eEEH......KYASLLMKEMLFINNpiNQRKIKEK.
+#=GR 016|WP_012621620.1/7-172   PP 689*************.**......********9...899999****....*****.*.*..*********9633........677777888..9999**999...................********************..**********98........7888......*************************.
+017|WP_044009037.1/7-172           LKLCRINPEYTKFLHS.ID......TRISPEKEl...dKNKRRIFVG....VVLTI.N.H..ISYFAPLSSApnT........KNNKKPFDK..RFVIKITTg...................fDNKKTIAGIKLNNMFPVLD..TVIEDIDLTKEf........eEEH......KYASLLMKEMLFINNpiNQRKIKEK.
+#=GR 017|WP_044009037.1/7-172   PP 689*************.**......********9...899999****....*****.*.*..*********9633........677777888..9999**999...................********************..**********98........7888......*************************.
+018|WP_088020451.1/1-152           MMLCGIESSYLDFLRK.TD......KNVSTDPT.....--KNRKFVG....ILFEV.N.G..YIYCAPLTSP..K........PKHKKMSDK.qPDIYKVDS.....................---GKLGLINLNNMIPVTE..SVIIRIDINKE..........PQE......DYRNLMTKQMIHIRK..DEDLIKKK.
+#=GR 018|WP_088020451.1/1-152   PP 56889***********.**......****7655.......9******....*****.*.*..**********..*........********9.99*****99........................99**************..***********..........***......***************..********.
+019|WP_014570267.1/1-156           MKLYNIREEYIDYLRT.ID......EKVPQNKG.....--EKRPFVG....IVFSI.D.R..HTYFAPLSSP..K........PKHQRMKNA..LDFHKIDK.....................----SYGVINFNNMIPVPS..SQLLLIDISGI..........TNA......TYKTLLQNQHRYIKQ..NQEVLEKK.
+#=GR 019|WP_014570267.1/1-156   PP 89**************.**......****8866.......*******....*****.*.*..**********..*........*********..******99.........................9**************..***********..........***......***************..********.
+020|WP_012260000.1/8-171           -KFYTISTKYIDYLRE.TD......SKVPFNKD.....EQHSRPYVG....VLEKI.N.G..HDYFVPLTSR..N........DKNLNSQVS..VKLFDIDN.....................-PEKRIGVLLVNNMIPVPE..KECKEIDIAEK..........TETd....pKYGNLMLKQYLFLKE..NMDRVSNK.
+#=GR 020|WP_012260000.1/8-171   PP .79*************.**......********.....*********....*****.*.*..**********..*........*********..********......................99****************..********999..........4445....6***************..********.
+021|WP_085313506.1/8-171           -KFYTISTKYIDYLRE.TD......SKVPFNKD.....EQHSRPYVG....VLEKI.N.G..HDYFVPLTSR..N........DKNLNSQVS..VKLFDIDN.....................-PEKRIGVLLVNNMIPVPE..KECKEIDIAEK..........TETd....pKYGNLMLKQYLFLKE..NMDRVSNK.
+#=GR 021|WP_085313506.1/8-171   PP .79*************.**......********.....*********....*****.*.*..**********..*........*********..********......................99****************..********999..........4445....6***************..********.
+022|WP_076777974.1/5-159           -KFYHITEAYVEYLRP.CA......PHLFYNRQe...eGRRRRKYIG....IVLHI.H.H..MDYFAPLSSF..K........EKHAAMRES..LDFVKVKN.....................-----YAVINLNNMFPVPE..GQYEYVDIARE..........EDD......KYRDLLRAEYRYIKK..MEDKIRRS.
+#=GR 022|WP_076777974.1/5-159   PP .8**************.**......*****9997...778999****....*****.*.*..**********..*........*********..********..........................**************..***********..........***......***************..********.
+023|WP_094565185.1/28-185          MRFYTVKNEYIAHLRG.VD......KNVPENY-.....-GGKRPYVG....VVIEI.N.G..CKYLAPLTSY..K........PKQDGFKNS..PAIMKLHEr...................gNPANKLGMIQLSNMIPVTD..DVVVELDLTKE..........-DP......KYQRMLQKQLEFIKT..QRDEIVDK.
+#=GR 023|WP_094565185.1/28-185  PP 89**************.**......****774.......699*****....*****.*.*..**********..*........*********..********7...................777899**************..**********9...........**......***************..********.
+024|WP_117346311.1/17-191          -KFYTIDIDYIKYLYS.YD......SEVYLNKQr...hDYENKPYVG....IIIYN.N.S..IPYFVPLTSA..K........PKHLKLKNN.gADYLVIYEninktevhk..ldiikdigngEIKKLLSVIDLKKAIPVAN..NCYHEIDIRNH..........---......KDRDLLAKEYEFCKR..KKKTIFDK.
+#=GR 024|WP_117346311.1/17-191  PP .8**************.**......*******99...99********....*****.*.*..**********..*........*********.******************..*****************************..***********...................***************..********.
+025|WP_117850313.1/1-161           MDFYRIDEKYIKFLQQ.YEkqkrgiTKVPNIKY.....SDHNKFAFG....AVMKI.N.D..IHYYVSVSSF..S........K----KQEA..NILIKVPS.....................DKKVIKGSLRFNYMIPVPE..TCLNKLVIKDI..........SDE......KYKILLNKEFRFCID..NAKRIQKK.
+#=GR 025|WP_117850313.1/1-161   PP 89**************.**9999999*******.....*********....*****.*.*..**********..8........4....3455..789*****.....................*******************..***********..........***......***************..********.
+026|WP_128752245.1/19-176          -RFYKIDLNYVKYLWK.FD......NKVQYDIYks.ddYNKKRPYIG....VVLEI.N.D..FRYFAPLEHP..R........ISHRKLKSN..PHILKINN.....................---GRHGLIAFNNMIPVKE..SQLINFDFKDE..........-DA......NYQEILRSQFIFCDN..NKERINKH.
+#=GR 026|WP_128752245.1/19-176  PP .79*************.**......***9875544.456899*****....*****.*.*..**********..*........*********..********........................999*************..**********9...........**......***************..********.
+027|WP_005541974.1/9-184           --FYTVNPDYLEYLNQ.ID......SEVYYNPS....yRNSIKPFVG....IIVGI.E.N..YNYFIPISSA..K........EKHKRWKNV.sDEHFLIYEvidnnitin..gdiykyysdeEKMHILSILDIKKMIPVPN..GCYERIEFDEL..........DDI......RYKDLFEKEYAFCLK..VKTKVLKK.
+#=GR 027|WP_005541974.1/9-184   PP ..9*************.**......******99....9*********....*****.*.*..**********..*........********9.888999************..*********9999****************..***********..........***......***************..********.
+028|WP_047716023.1/9-184           --FYTVDPDYLEYLNK.VD......SEVYYNPS....yRNSTKPFIG....VIVGI.E.N..YNYFIPVSSA..K........EKHKRWKNV.sDEHFIIYEvidnsvsiq..gdiykyysdtEKMHILSILDIKKMIPVPT..GYYEQVVFDEL..........DDD......RYKDLFEKEYAFCLS..IKEKVLNK.
+#=GR 028|WP_047716023.1/9-184   PP ..9*************.**......******99....9*********....*****.*.*..**********..*........********9.777888999*********..*********999*****************..***********..........***......***************..********.
+029|WP_047716023.1/9-184           --FYTVDPDYLEYLNK.VD......SEVYYNPS....yRNSTKPFIG....VIVGI.E.N..YNYFIPVSSA..K........EKHKRWKNV.sDEHFIIYEvidnsvsiq..gdiykyysdtEKMHILSILDIKKMIPVPT..GYYEQVVFDEL..........DDD......RYKDLFEKEYAFCLS..IKEKVLNK.
+#=GR 029|WP_047716023.1/9-184   PP ..9*************.**......******99....9*********....*****.*.*..**********..*........********9.777888999*********..*********999*****************..***********..........***......***************..********.
+030|WP_047716023.1/9-184           --FYTVDPDYLEYLNK.VD......SEVYYNPS....yRNSTKPFIG....VIVGI.E.N..YNYFIPVSSA..K........EKHKRWKNV.sDEHFIIYEvidnsvsiq..gdiykyysdtEKMHILSILDIKKMIPVPT..GYYEQVVFDEL..........DDD......RYKDLFEKEYAFCLS..IKEKVLNK.
+#=GR 030|WP_047716023.1/9-184   PP ..9*************.**......******99....9*********....*****.*.*..**********..*........********9.777888999*********..*********999*****************..***********..........***......***************..********.
+031|WP_088765551.1/1-153           MKLVIVQEDYIQYLKQ.YS......KDVKENKN.....--SSRPYVG....VILKV.G.N..QHYFAPLASP..K........PKHKTMDDK..LDFIKIKK.....................---GELGAINLNNMIPIPI..FLTKEIDLLKY..........-DK......KYQTLLKDQINWINR..NDKKLLKN.
+#=GR 031|WP_088765551.1/1-153   PP 8999************.**......****8877.......9******....*****.*.*..**********..*........*********..*******9........................9***************..**********9...........**......***************..********.
+032|WP_016097319.1/8-169           -KFYTISTEYIDYLRE.TD......SKVPFNKD.....EQHSRPYVG....VLEKI.N.G..HDYFVPLTSR..N........DKNFNSQVS..---VKLFD.....................TDEKRIGVLLVNNMIPVPE..KECKEIDIAEKt........aADP......QYGNLMLKQYLFLKE..NMDRVTNK.
+#=GR 032|WP_016097319.1/8-169   PP .79*************.**......********.....*********....*****.*.*..*********9..9........777666655.....66667.....................778****************..********9995........4566......***************..********.
+033|WP_016097319.1/8-169           -KFYTISTEYIDYLRE.TD......SKVPFNKD.....EQHSRPYVG....VLEKI.N.G..HDYFVPLTSR..N........DKNFNSQVS..---VKLFD.....................TDEKRIGVLLVNNMIPVPE..KECKEIDIAEKt........aADP......QYGNLMLKQYLFLKE..NMDRVTNK.
+#=GR 033|WP_016097319.1/8-169   PP .79*************.**......********.....*********....*****.*.*..*********9..9........777666655.....66667.....................778****************..********9995........4566......***************..********.
+034|WP_016097319.1/8-169           -KFYTISTEYIDYLRE.TD......SKVPFNKD.....EQHSRPYVG....VLEKI.N.G..HDYFVPLTSR..N........DKNFNSQVS..---VKLFD.....................TDEKRIGVLLVNNMIPVPE..KECKEIDIAEKt........aADP......QYGNLMLKQYLFLKE..NMDRVTNK.
+#=GR 034|WP_016097319.1/8-169   PP .79*************.**......********.....*********....*****.*.*..*********9..9........777666655.....66667.....................778****************..********9995........4566......***************..********.
+035|WP_016097319.1/8-169           -KFYTISTEYIDYLRE.TD......SKVPFNKD.....EQHSRPYVG....VLEKI.N.G..HDYFVPLTSR..N........DKNFNSQVS..---VKLFD.....................TDEKRIGVLLVNNMIPVPE..KECKEIDIAEKt........aADP......QYGNLMLKQYLFLKE..NMDRVTNK.
+#=GR 035|WP_016097319.1/8-169   PP .79*************.**......********.....*********....*****.*.*..*********9..9........777666655.....66667.....................778****************..********9995........4566......***************..********.
+036|WP_117347322.1/1-175           MKLYEIDSQYMEYLYK.AD......SKVLIHNS.....GNHQRKFIA....IKVLI.N.G..YKYFVPLSSP..DkrdyyndqDGQKKVQFTrvPTIKRIFNg..................npTVESYLGKLLFNNMIPVPE..GCYHEFNIFLE..........KDL......KYKGLLIDQVQILRSfkNQEDILRR.
+#=GR 036|WP_117347322.1/1-175   PP 89**************.**......********.....*********....*****.*.*..**********..76888887755566655552555557779..................999******************..***********..........***......**************9999*******.
+037|WP_100026970.1/5-176           LKFYTIDTEYMKYLRN.ID......NRVADTSIe...nKKEKRKFIG....ILLKI.D.N..KNYLAPLSSK..K........EKFLKMKNS..IDFIKINS.....................---GLEGAINLNNMIPVYN..QFISEYKVEEE..........LDV......KYKKLVQNQLSWCNEeiNKKKILES.
+#=GR 037|WP_100026970.1/5-176   PP 69**************.**......***988655...6999******....*****.*.*..**********..*........*********..********........................****************..***********..........***......***************999*******.
+038|WP_038672278.1/5-171           -KWKIINKDYLDYLREnYE......SRIPRTDY....gNDKLKPFFG....ELMRV.G.D..LAYVTQVSSA..K........PRHNKIKAN..IDFQKIIH.....................-NDVLIAVVNLNYMFPVPV..SEMTNLEYGKIeeyvdfkndtAKS......KYIDLLKREMKYIKE..--LPLENN.
+#=GR 038|WP_038672278.1/5-171   PP .5778*********977**......********....**********....*****.*.*..**********..*........*********..********......................******************..***********8888888777777......**************8....9*****.
+039|WP_020429515.1/6-156           -KICGIHPAYLDYLRA.YD......PLVSLDPK.....--HNRKFVG....IIFEV.N.G..HKYYAPLSSP..K........PKHRTIPDR.aVDVVKIDG.....................---GKLGVINLNNMIPVHK..SAIIDIDISHV..........ADV......QYRGLLTNQALFIRS..NEQAIKKK.
+#=GR 039|WP_020429515.1/6-156   PP .78999**********.**......****8866.......*******....*****.*.*..**********..*........********9.9********........................99**************..***********..........***......***************..********.
+040|WP_094374045.1/8-171           -KFYTISTKYIDYLRE.TD......NKVPFNKD.....EQHSRPYVG....VLEKI.N.G..HDYFVPLTSR..N........DKNFNSQVS..VKLFDKDN.....................-PEKRIGVLLVNNMIPVPE..KECKEIDIAEKm........eTDP......KYGNLMLKQYLFLKE..NMDRLSHK.
+#=GR 040|WP_094374045.1/8-171   PP .79*************.**......********.....*********....*****.*.*..**********..*........999999888..77777666......................899***************..********9984........3455......***************..********.
+041|WP_094374045.1/8-171           -KFYTISTKYIDYLRE.TD......NKVPFNKD.....EQHSRPYVG....VLEKI.N.G..HDYFVPLTSR..N........DKNFNSQVS..VKLFDKDN.....................-PEKRIGVLLVNNMIPVPE..KECKEIDIAEKm........eTDP......KYGNLMLKQYLFLKE..NMDRLSHK.
+#=GR 041|WP_094374045.1/8-171   PP .79*************.**......********.....*********....*****.*.*..**********..*........999999888..77777666......................899***************..********9984........3455......***************..********.
+042|WP_094374045.1/8-171           -KFYTISTKYIDYLRE.TD......NKVPFNKD.....EQHSRPYVG....VLEKI.N.G..HDYFVPLTSR..N........DKNFNSQVS..VKLFDKDN.....................-PEKRIGVLLVNNMIPVPE..KECKEIDIAEKm........eTDP......KYGNLMLKQYLFLKE..NMDRLSHK.
+#=GR 042|WP_094374045.1/8-171   PP .79*************.**......********.....*********....*****.*.*..**********..*........999999888..77777666......................899***************..********9984........3455......***************..********.
+043|WP_094374045.1/8-171           -KFYTISTKYIDYLRE.TD......NKVPFNKD.....EQHSRPYVG....VLEKI.N.G..HDYFVPLTSR..N........DKNFNSQVS..VKLFDKDN.....................-PEKRIGVLLVNNMIPVPE..KECKEIDIAEKm........eTDP......KYGNLMLKQYLFLKE..NMDRLSHK.
+#=GR 043|WP_094374045.1/8-171   PP .79*************.**......********.....*********....*****.*.*..**********..*........999999888..77777666......................899***************..********9984........3455......***************..********.
+044|WP_094374045.1/8-171           -KFYTISTKYIDYLRE.TD......NKVPFNKD.....EQHSRPYVG....VLEKI.N.G..HDYFVPLTSR..N........DKNFNSQVS..VKLFDKDN.....................-PEKRIGVLLVNNMIPVPE..KECKEIDIAEKm........eTDP......KYGNLMLKQYLFLKE..NMDRLSHK.
+#=GR 044|WP_094374045.1/8-171   PP .79*************.**......********.....*********....*****.*.*..**********..*........999999888..77777666......................899***************..********9984........3455......***************..********.
+045|WP_094374045.1/8-171           -KFYTISTKYIDYLRE.TD......NKVPFNKD.....EQHSRPYVG....VLEKI.N.G..HDYFVPLTSR..N........DKNFNSQVS..VKLFDKDN.....................-PEKRIGVLLVNNMIPVPE..KECKEIDIAEKm........eTDP......KYGNLMLKQYLFLKE..NMDRLSHK.
+#=GR 045|WP_094374045.1/8-171   PP .79*************.**......********.....*********....*****.*.*..**********..*........999999888..77777666......................899***************..********9984........3455......***************..********.
+046|WP_094374045.1/8-171           -KFYTISTKYIDYLRE.TD......NKVPFNKD.....EQHSRPYVG....VLEKI.N.G..HDYFVPLTSR..N........DKNFNSQVS..VKLFDKDN.....................-PEKRIGVLLVNNMIPVPE..KECKEIDIAEKm........eTDP......KYGNLMLKQYLFLKE..NMDRLSHK.
+#=GR 046|WP_094374045.1/8-171   PP .79*************.**......********.....*********....*****.*.*..**********..*........999999888..77777666......................899***************..********9984........3455......***************..********.
+047|WP_094374045.1/8-171           -KFYTISTKYIDYLRE.TD......NKVPFNKD.....EQHSRPYVG....VLEKI.N.G..HDYFVPLTSR..N........DKNFNSQVS..VKLFDKDN.....................-PEKRIGVLLVNNMIPVPE..KECKEIDIAEKm........eTDP......KYGNLMLKQYLFLKE..NMDRLSHK.
+#=GR 047|WP_094374045.1/8-171   PP .79*************.**......********.....*********....*****.*.*..**********..*........999999888..77777666......................899***************..********9984........3455......***************..********.
+048|WP_094374045.1/8-171           -KFYTISTKYIDYLRE.TD......NKVPFNKD.....EQHSRPYVG....VLEKI.N.G..HDYFVPLTSR..N........DKNFNSQVS..VKLFDKDN.....................-PEKRIGVLLVNNMIPVPE..KECKEIDIAEKm........eTDP......KYGNLMLKQYLFLKE..NMDRLSHK.
+#=GR 048|WP_094374045.1/8-171   PP .79*************.**......********.....*********....*****.*.*..**********..*........999999888..77777666......................899***************..********9984........3455......***************..********.
+049|WP_094374045.1/8-171           -KFYTISTKYIDYLRE.TD......NKVPFNKD.....EQHSRPYVG....VLEKI.N.G..HDYFVPLTSR..N........DKNFNSQVS..VKLFDKDN.....................-PEKRIGVLLVNNMIPVPE..KECKEIDIAEKm........eTDP......KYGNLMLKQYLFLKE..NMDRLSHK.
+#=GR 049|WP_094374045.1/8-171   PP .79*************.**......********.....*********....*****.*.*..**********..*........999999888..77777666......................899***************..********9984........3455......***************..********.
+050|WP_000182255.1/8-169           -KLYNISTEYIDYLRE.AD......SKVPFNKD.....EQHSRPYVG....VLERI.S.G..HDYFVPLTSR..N........DKNFNSQ--..-VSVKLFD.....................NDEKRIGVLLVNNMIPVPE..KECKEIDIAEKt........aADP......QYGNLMLKQYLFLKE..NMDRVTNK.
+#=GR 050|WP_000182255.1/8-169   PP .79*************.**......********.....*********....*****.*.*..*********9..9........6665555.....4466777.....................799****************..********9995........4566......***************..********.
+051|WP_000182254.1/8-169           -KFHTISTEYIDYLRE.AD......SKVPFNKD.....EQHSRPYVG....VLEKI.N.G..HDYFVPLTSR..N........DKNFNSQ--..-VSVKLFD.....................NDEKRIGVLLVNNMIPVPE..KECKEIDIAEKt........aADP......QYGNLMLKQYLFLKE..NMDRVTNK.
+#=GR 051|WP_000182254.1/8-169   PP .6889***********.**......********.....*********....*****.*.*..*********9..9........6665555.....4466777.....................799****************..********9995........4566......***************..********.
+052|WP_000182254.1/8-169           -KFHTISTEYIDYLRE.AD......SKVPFNKD.....EQHSRPYVG....VLEKI.N.G..HDYFVPLTSR..N........DKNFNSQ--..-VSVKLFD.....................NDEKRIGVLLVNNMIPVPE..KECKEIDIAEKt........aADP......QYGNLMLKQYLFLKE..NMDRVTNK.
+#=GR 052|WP_000182254.1/8-169   PP .6889***********.**......********.....*********....*****.*.*..*********9..9........6665555.....4466777.....................799****************..********9995........4566......***************..********.
+053|WP_128750010.1/7-159           --ICSVTDDYINYLRK.FD......DTIRENKN.....--QSRKFAG....VLLEI.D.E..HKYYAPLSSP..K........PKYFRISNK.aPDIFKIDD.....................---GKLGVINLNNMIPVPG..TEIIRLNIEEV..........SDE......KYKNLLRDQAKIIMM..NHKKIKAK.
+#=GR 053|WP_128750010.1/7-159   PP ..789***********.**......****9877.......*******....*****.*.*..**********..*........*********.9********........................99**************..***********..........***......***************..********.
+054|WP_089172360.1/1-161           MKIYIVKDKYINHLQK.NEp....nNKVMFNKP.....EKHPRPYVG....VVLNM.N.E..YNYFVPMSSA..K........EDRGRNLNS..RVNTAIKD.....................-GDVILANLKFNNMIPVPK..SQLSELDIKEIl........iKEP......QYGRLLEKERQFIKK..NVDNVHKK.
+#=GR 054|WP_089172360.1/1-161   PP 89**************.876....69*******.....*********....*****.*.*..**********..*........999999999..99999*99......................******************..**********98........8888......***************..********.
+055|WP_129622155.1/16-192          -SFYEIDPLYLEFLYQ.YD......SQVYWNPE....yIKNKKPFLG....VIFIE.G.G..KKYFIPLTSA..K........EKHKKLKNI.sREHFVIYEildidkaes..rmiykphdknSVIHLLAILDFKKMIPVYE..GLYKKIDFDSI..........EDK......NYKNLLDKEYNFCLN..LKDKIFDN.
+#=GR 055|WP_129622155.1/16-192  PP .69*************.**......******99....9*********....*****.*.*..**********..*........********9.89****************..*******9888899***************..***********..........***......***************..********.
+056|WP_000675374.1/1-158           MKFYVIADSYINHLVA.CD......QHVYKNK-.....--GTRPYIG....VVLEV.N.G..VEFLAPLTSY..K........EKQDKIPNS.sPLIFKMYEl...................gNEENKLGMVQINNMVPVLS..SEVELLDLSIL..........-DA......KYQNLLNMQQQFLRK..HQEELQKK.
+#=GR 056|WP_000675374.1/1-158   PP 89**************.**......****775........5******....*****.*.*..**********..*........********9.89999****9...................9999****************..***********...........**......***************..********.
+057|WP_078080483.1/6-160           LRFFRVSDDYINFLKT.ID......PRILNNSN.....ENRARPYVG....VILII.G.I..FQYYAPISSY..K.......pEKHDKIRNN..-SVIKING....................kDQTEKLAVLHINNMFPIIP..TEIEEMDFSKE..........-ER......HYERLLQKEYSYIIR..NQEDVQQK.
+#=GR 057|WP_078080483.1/6-160   PP 5799************.**......********.....*********....*****.*.*..**********..8.......5899999987...9999998....................678999**************..**********9...........99......***************..********.
+058|WP_041604955.1/5-157           LKLYRVTDHYLDFLRD.VE......PKIPMNKD.....NGKKRPFVG....IVLSI.N.G..VKYIAPLSSK..I........C-----KSQ..-SDFKVKS.....................-GGEQKATIRFAYMFPIVD..SALIEIDYTEEf........kIDF......KYTALLIKEDLYINQ..HKARIHEI.
+#=GR 058|WP_041604955.1/5-157   PP 69**************.**......********.....*********....*****.*.*..*********8..5........3.....333...3457888......................99****************..**********95........4456......***************..********.
+059|WP_051918079.1/1-158           MKFYIVSDRYISYLKT.ID......GKVPDNY-.....-NGSRPFIG....VVIEV.N.G..VSYIAPLSSP..K........PQLERINNS.kPTAFKIYNr...................kDGTEFLGVINLNYMIPVLD..NEVTLLDVDNV..........-DV......KYKNLLKKQHEYIKI..HQADIEAR.
+#=GR 059|WP_051918079.1/1-158   PP 89**************.**......****875.......59******....*****.*.*..**********..*........*********.999******7...................777899**************..***********...........**......***************..********.
+060|WP_006587790.1/7-159           -YLYNISSKYVAELHK.LD......KHVFYHHG.....-LHDRPYVG....ILIKL.D.N..FNYFAPLGSP..K........KKHKKINEN..ITFSKINY.....................-RNQFLGVINFNNMIPAPK..SMFQKINIQKI..........EDS......KYSNLLSSQLRAIQK..HSNKYKHK.
+#=GR 060|WP_006587790.1/7-159   PP .58*************.**......****9977......99******....*****.*.*..**********..*........*********..*******9......................9*****************..***********..........***......***************..********.
+061|WP_119362912.1/1-175           MKLYEIDSQYMEYLYK.AD......SKVLIHNS.....GNHQRKFIA....IKVLI.N.G..YKYFVPLSSP..DkrdyyndqDGHKKVQFTrvPTIKRIFNg..................npTVESYLGKLLFNNMILVPE..GCYHEFNVFLE..........KDL......KYKRLLINQVQVLRSfkNQEDILRR.
+#=GR 061|WP_119362912.1/1-175   PP 89**************.**......********.....*********....*****.*.*..**********..76999999989999998874455559999..................9999*****************..***********..........***......**************9999*******.
+062|WP_013521357.1/1-157           MKIYNINDEYIKKLAS.VD......TKVSHIKN.....---KRPYVG....VVFEI.H.N..FQYFAPLSSK..D........FRNKKSNDT..--FHLISE.....................--SENLGVIHINNMIPVIN.lNMISEIDINNI..........KNI......SYKNLLDNQARILRNetFTNILITK.
+#=GR 062|WP_013521357.1/1-157   PP 89**************.**......****9866........******....*****.*.*..**********..*........999999977....999999.......................9***************9.9***********..........***......**************9755677899*.
+063|WP_013521357.1/1-157           MKIYNINDEYIKKLAS.VD......TKVSHIKN.....---KRPYVG....VVFEI.H.N..FQYFAPLSSK..D........FRNKKSNDT..--FHLISE.....................--SENLGVIHINNMIPVIN.lNMISEIDINNI..........KNI......SYKNLLDNQARILRNetFTNILITK.
+#=GR 063|WP_013521357.1/1-157   PP 89**************.**......****9866........******....*****.*.*..**********..*........999999977....999999.......................9***************9.9***********..........***......**************9755677899*.
+064|WP_013521357.1/1-157           MKIYNINDEYIKKLAS.VD......TKVSHIKN.....---KRPYVG....VVFEI.H.N..FQYFAPLSSK..D........FRNKKSNDT..--FHLISE.....................--SENLGVIHINNMIPVIN.lNMISEIDINNI..........KNI......SYKNLLDNQARILRNetFTNILITK.
+#=GR 064|WP_013521357.1/1-157   PP 89**************.**......****9866........******....*****.*.*..**********..*........999999977....999999.......................9***************9.9***********..........***......**************9755677899*.
+065|WP_013521357.1/1-157           MKIYNINDEYIKKLAS.VD......TKVSHIKN.....---KRPYVG....VVFEI.H.N..FQYFAPLSSK..D........FRNKKSNDT..--FHLISE.....................--SENLGVIHINNMIPVIN.lNMISEIDINNI..........KNI......SYKNLLDNQARILRNetFTNILITK.
+#=GR 065|WP_013521357.1/1-157   PP 89**************.**......****9866........******....*****.*.*..**********..*........999999977....999999.......................9***************9.9***********..........***......**************9755677899*.
+066|WP_032842743.1/4-163           -KIYIIQEEYIDYLRQ.SD......EKVLKNKL.....--EKRPYIG....IVLKQ.G.N..FKYFSPLGSP..K........EKHKLMKRR..LDFIKIKN.....................---GELGIINLNNSIPIKG..NEIRLLDINAL..........KNSsnisdrKYGIMCEDQLIWCDN..NFEIIEKN.
+#=GR 066|WP_032842743.1/4-163   PP .89*************.**......****8876.......9******....*****.*.*..**********..*........*********..********........................9***************..*********99..........544555555***************..********.
+067|WP_051429460.1/4-163           -KIYIIQEEYIDYLRQ.SD......EKVLKNKL.....--EKRPYIG....IVLKQ.G.N..FKYFSPLGSP..K........EKHKLMKRR..LDFIKIKN.....................---GELGIINLNNSIPIKG..NEIRLLDINAL..........KNSsnisdrKYGIMCEDQLIWCDN..NFEIIEKN.
+#=GR 067|WP_051429460.1/4-163   PP .89*************.**......****8876.......9******....*****.*.*..**********..*........*********..********........................9***************..*********99..........544555555***************..********.
+068|WP_111920784.1/1-173           MRLYSISDEYINYIRK.KF......PRVYSNKEd...tRIHTRKYLG....AVIEI.E.T..HKYYIPLSSP..K........DKHDYIMVG.gKKTIRKDSlivmr..........ivagtgEKKELKGTLQIGTMIPVPD..EALELYDVGNE..........PDK......AYKDLINEEIIYIRK..NEKKIIKN.
+#=GR 068|WP_111920784.1/1-173   PP 79**************.**......*******97...7789******....*****.*.*..**********..*........777765544.34444333345555..........6669*********************..***********..........***......***************..********.
+069|WP_002488419.1/24-179          MKLYYVDEDYINELRN.VD......ERVLLNKS.....---TRPYLG....VVLSI.N.D..LNYFVPLSSP..K........E-NKKLNNQlsIKLFEVNN.....................-IQNRLGYLLFLNMIPVPD..KYLSKIDMQYI..........KEQd....lEYYNLLTNQLIFIRQ..ENQRIVNK.
+#=GR 069|WP_002488419.1/24-179  PP 89**************.**......****9976........******....*****.*.*..**********..9........5.55555554688999999......................******************..********998..........6666....69**************..********.
+070|WP_002488419.1/24-179          MKLYYVDEDYINELRN.VD......ERVLLNKS.....---TRPYLG....VVLSI.N.D..LNYFVPLSSP..K........E-NKKLNNQlsIKLFEVNN.....................-IQNRLGYLLFLNMIPVPD..KYLSKIDMQYI..........KEQd....lEYYNLLTNQLIFIRQ..ENQRIVNK.
+#=GR 070|WP_002488419.1/24-179  PP 89**************.**......****9976........******....*****.*.*..**********..9........5.55555554688999999......................******************..********998..........6666....69**************..********.
+071|WP_002488419.1/24-179          MKLYYVDEDYINELRN.VD......ERVLLNKS.....---TRPYLG....VVLSI.N.D..LNYFVPLSSP..K........E-NKKLNNQlsIKLFEVNN.....................-IQNRLGYLLFLNMIPVPD..KYLSKIDMQYI..........KEQd....lEYYNLLTNQLIFIRQ..ENQRIVNK.
+#=GR 071|WP_002488419.1/24-179  PP 89**************.**......****9976........******....*****.*.*..**********..9........5.55555554688999999......................******************..********998..........6666....69**************..********.
+072|WP_106086058.1/3-138           ----------------.--......--------.....KKRNRPFVG....IVFSI.N.G..YKYYAPLTSP..K........PKHLAMKNQ..IDFLKIKG.....................---GAWGAINLNNMIPIHE..NSLQIVNMKIL..........PTDdk.ptiNYKNLLSNQLSWCNKteNSTFITSR.
+#=GR 072|WP_106086058.1/3-138   PP ......................................789******....*****.*.*..**********..*........*********..********........................****************..*********99..........44445.777***************8778889***.
+073|WP_013291944.1/36-204          -SIYTVNTDYIEFLRS.VD......SRVLENEK....nFGNLRKYVG....VLFKI.N.N..YDYFVPLSSP..Kpsd.yvymDGFKTIRHS.vVPIYRIIEt..................seDKINFLGKLKFSSMIPAPP..SQLTLLDITSL..........-TE......DYKTLIFNQIRHIRK..KLTVLQNRh
+#=GR 073|WP_013291944.1/36-204  PP .79*************.**......******99....89********....*****.*.*..**********..*999.9999999999999.8899999888..................989999***************..***********...........9*......**************9..888888878
+074|WP_083745839.1/2-158           ------DVAYTDYLRKhID......LGISAEHRe...sVSEMRPFIG....ILMTH.D.D..IEYVIPLTSL..K........DKHKNMKKT..MDFHKING.....................---GKWGAINFNHMFPVLHdpSVYKIIRPLKD..........-VN......TYSNLLINQISWLNKteNKEMVLKK.
+#=GR 074|WP_083745839.1/2-158   PP ......668*****99799......999988776...689*******....*****.*.*..**********..*........*********..********........................99************973345555555444...........68......**************99999******.
+075|WP_000675351.1/1-159           MKFYTISSRYIEYLKG.FE......DKVPNSEDp...nYQNPKAFIG....IVLEI.Q.G..HKYLAPLTSP..K........PWHSTIKES.sPSFFKLHEn...................gVPENQLGLINLKFMIPIIE..AEVSLLDLNGM..........PNT......AYKRMLYKQLQFIRV..NSDKIAEK.
+#=GR 075|WP_000675351.1/1-159   PP 89**************.**......******999...555669****....*****.*.*..**********..*........*********.9*******97...................77799***************..***********..........***......***************..********.
+076|WP_000675351.1/1-159           MKFYTISSRYIEYLKG.FE......DKVPNSEDp...nYQNPKAFIG....IVLEI.Q.G..HKYLAPLTSP..K........PWHSTIKES.sPSFFKLHEn...................gVPENQLGLINLKFMIPIIE..AEVSLLDLNGM..........PNT......AYKRMLYKQLQFIRV..NSDKIAEK.
+#=GR 076|WP_000675351.1/1-159   PP 89**************.**......******999...555669****....*****.*.*..**********..*........*********.9*******97...................77799***************..***********..........***......***************..********.
+077|WP_014466439.1/4-159           -GFYRVDDNYINFLKE.ID......SRIRDPKD.....--NKRAYVG....IILSV.S.G..TDFLAPLTSY..K........SKQDKIRPS.tLTVFKLHEk...................nKPDNKLGMIQLGYMFPILP..SIATKIDYSNQ..........-AI......KYNRLLATQYEFIRS..EQDKIKAR.
+#=GR 077|WP_014466439.1/4-159   PP .59*************.**......****6655.......9******....*****.*.*..**********..*........*******99.8999999996...................66789***************..***********...........99......***************..********.
+078|WP_039264110.1/1-158           MKFYQISSRYISYLKE.FE......EKVPNSEDp...tYQNPKAFIG....IVLDI.Q.G..HKYLAPLTSP..K........PWHQDIKES.sPNFFKLHEn...................gVPENQLGLINLKFMIPIIE..SEVSLLDMGSM..........PDS......RYKRMLYKQLQFIRA..NSVKINEK.
+#=GR 078|WP_039264110.1/1-158   PP 89**************.**......******999...66778*****....*****.*.*..**********..*........*********.9*******97...................77799***************..***********..........***......***************..********.
+079|WP_063164501.1/1-175           MHWCQIDESYLNFLRE.YE......SRIPYMDY....gGNHYKPFFH....SLFTLeN.G..LEYVAQLNHA..Q........KRHKRMRDM..PDFKRIFIpvrr.............kngnVIKHLAAVINLNYMFPVPS..NCIQNVTAENIedvrtfkddvSKS......KYINLLAKELKVIDA..--KNLEKD.
+#=GR 079|WP_063164501.1/1-175   PP 78**************.**......********....**********....***9835.6..9*********..*........*********..******999999.............99988999***************..***********8888887777777......**************8....99****.
+080|WP_077713129.1/5-153           -KFYDIDENYIDYLKT.FD......HQVPNIRY.....SKYNKFFCG....IILQV.G.Q..HNYFAPVTSL..T........K------KQ..RTNFLIYD.....................-KGRTVSSIRFSFMVPAVP..EVVTVKDFSKL..........-PQ......TYRDLLNAELKYCNQ..NVDKIYKK.
+#=GR 080|WP_077713129.1/5-153   PP .89*************.**......********.....*********....*****.*.*..*********9..8........3......34..45689***......................******************..***********...........99......***************..********.
+081|WP_082153303.1/1-159           MQLVYVNSDYVSYLRG.FD......RRVRMNKS.....---HRPYLG....IVLSI.N.G..FRYFAPLESS..K........PGKRVNSQL.gYNVWDNPN.....................GDDDPISFLLLNDMIPVDK..ACYTPINLDSE..........KKNn....fEKYTLLLAEVNYIRP..KEEAIMER.
+#=GR 081|WP_082153303.1/1-159   PP 7999************.**......****9976........9*****....*****.*.*..**********..9........876655544.456666666.....................899****************..**********9..........8876....644468889*******..********.
+082|WP_096228216.1/21-170          LNFYTVDQAYIDELQA.IE......PKVPNVQY.....EKHNKFVCG....VLFRI.H.G..LDYFAPVSSF..T........------KSQ..KTSFVIKN.....................VNNKPVGSLRFSFMFPIPP..DLRAVKSFDEE..........-DY......QRKRLLLEEYQYCNR..KARQIVSK.
+#=GR 082|WP_096228216.1/21-170  PP 689*************.**......********.....*********....*****.*.*..**********..8..............344..45678999.....................999****************..98776666666...........99......9**************..********.
+083|WP_117346472.1/11-161          -ALYDIESDYRQYLFQ.YD......FRVNLK--.....--SGRRFVG....IIVGI.E.D..YTYFISLTSK.pL........RKNGKRRNP..RTTVEIYN.....................ESHEIIAALLINNMIPVPQ..GVYKRIDINND..........---......KYKDYLNNEYIYLKKqsTREEIERK.
+#=GR 083|WP_117346472.1/11-161  PP .58*************.**......****66.........56*****....*****.*.*..*********9.55........899999999..********.....................*******************..***********...................**************977889*****.
+084|WP_081172077.1/9-184           -DFYEIDFDYMTHLYK.HD......NNVYYHSS....yKSKLKPYIG....ILLNN.N.G..IKYFVPLTSA..K........PKHINLKLI.tKDYLMINKlvdvneqekkaiyktnpedntTKYRITSMLDLRKMIPVPE..DKYKKVELASL..........-DL......NYQFLLYEEHRFCIG..KQDMIKDY.
+#=GR 084|WP_081172077.1/9-184   PP .79*************.**......*****999....9*********....*****.*.*..**********..*........*******98.799999*99*******************99999****************..***********...........**......***************..********.
+085|WP_081172077.1/9-184           -DFYEIDFDYMTHLYK.HD......NNVYYHSS....yKSKLKPYIG....ILLNN.N.G..IKYFVPLTSA..K........PKHINLKLI.tKDYLMINKlvdvneqekkaiyktnpedntTKYRITSMLDLRKMIPVPE..DKYKKVELASL..........-DL......NYQFLLYEEHRFCIG..KQDMIKDY.
+#=GR 085|WP_081172077.1/9-184   PP .79*************.**......*****999....9*********....*****.*.*..**********..*........*******98.799999*99*******************99999****************..***********...........**......***************..********.
+086|WP_051611733.1/1-167           MYWCSIDKEYIQFLKT.ID......SRIPHAEY....gKEYFKPFFA....PLFER.N.G..LVYVSQISSA..K........PRHNKLKED..LDFFKIYS....................dKTKKLISVVNINFMFPVPK..NKITFVKYSEIdkyrkfenliEKS......NYIHLLKYELKKIDE..--KNIAAK.
+#=GR 086|WP_051611733.1/1-167   PP 6799************.**......********....99999*****....*****.*.*..**********..*........*********..*******9....................77899***************..***********9999999999999......*************98....9*****.
+087|WP_051611733.1/1-167           MYWCSIDKEYIQFLKT.ID......SRIPHAEY....gKEYFKPFFA....PLFER.N.G..LVYVSQISSA..K........PRHNKLKED..LDFFKIYS....................dKTKKLISVVNINFMFPVPK..NKITFVKYSEIdkyrkfenliEKS......NYIHLLKYELKKIDE..--KNIAAK.
+#=GR 087|WP_051611733.1/1-167   PP 6799************.**......********....99999*****....*****.*.*..**********..*........*********..*******9....................77899***************..***********9999999999999......*************98....9*****.
+088|WP_006886810.1/13-169          -GFYTVEPSYLEYLHL.QD......REVQYNPE....yRTKVKPHLG....IVVNC.N.D..QMFLVPLSSP..K........EKFNSIRNN.lYEYHKIFS.....................KEQKLIGILMIKKMIPVTF..NLISKIQFEKE..........--N......KYHHLLTEQLQIINK..LKSEITKK.
+#=GR 088|WP_006886810.1/13-169  PP .69*************.**......******99....9*********....*****.*.*..**********..*........*********.9********.....................*******************..*********99............9......***************..********.
+089|WP_006886810.1/13-169          -GFYTVEPSYLEYLHL.QD......REVQYNPE....yRTKVKPHLG....IVVNC.N.D..QMFLVPLSSP..K........EKFNSIRNN.lYEYHKIFS.....................KEQKLIGILMIKKMIPVTF..NLISKIQFEKE..........--N......KYHHLLTEQLQIINK..LKSEITKK.
+#=GR 089|WP_006886810.1/13-169  PP .69*************.**......******99....9*********....*****.*.*..**********..*........*********.9********.....................*******************..*********99............9......***************..********.
+090|WP_006268767.1/4-167           MKFYQIDTNYLNILRQ.ID......GRVPHNKEfi.grKGKSRPYIG....VMLSI.D.N..VDYFVPLSSK..K........KRSS-----..FVVMPIYD.....................DNDEQIATLMLNNMLPVPP..KHRKLLNMDGVr........iTDP......KYFDLLMNELNFLRP..RRQAIKSR.
+#=GR 090|WP_006268767.1/4-167   PP 89**************.**......*******999.98899******....*****.*.*..*********9..9........5543.......55788***.....................******************9..988888887653........3788......***************..********.
+091|WP_006268767.1/4-167           MKFYQIDTNYLNILRQ.ID......GRVPHNKEfi.grKGKSRPYIG....VMLSI.D.N..VDYFVPLSSK..K........KRSS-----..FVVMPIYD.....................DNDEQIATLMLNNMLPVPP..KHRKLLNMDGVr........iTDP......KYFDLLMNELNFLRP..RRQAIKSR.
+#=GR 091|WP_006268767.1/4-167   PP 89**************.**......*******999.98899******....*****.*.*..*********9..9........5543.......55788***.....................******************9..988888887653........3788......***************..********.
+092|WP_006268767.1/4-167           MKFYQIDTNYLNILRQ.ID......GRVPHNKEfi.grKGKSRPYIG....VMLSI.D.N..VDYFVPLSSK..K........KRSS-----..FVVMPIYD.....................DNDEQIATLMLNNMLPVPP..KHRKLLNMDGVr........iTDP......KYFDLLMNELNFLRP..RRQAIKSR.
+#=GR 092|WP_006268767.1/4-167   PP 89**************.**......*******999.98899******....*****.*.*..*********9..9........5543.......55788***.....................******************9..988888887653........3788......***************..********.
+093|WP_014622601.1/4-167           MKFYQIDTNYLNRLRQ.ID......GRVPHNKEfi.grKGKSRPYIG....VMLSI.D.N..VDYFVPLSSK..K........KRSS-----..FVVMPIYD.....................DNNEQIATLMLNNMLPVPP..KHRKLLNMEGVr........iTDP......KYFDLLMNELNFLRP..RREAIKSR.
+#=GR 093|WP_014622601.1/4-167   PP 89**************.**......*******999.98899******....*****.*.*..*********9..9........5543.......55788***.....................*******************..999999998764........4788......***************..********.
+094|WP_013854341.1/1-178           MNWCSIDETYLNYLKS.YE......SRIPYSDY....eVNHFKPFFR....PLFEI.EpG..IIFVGAISHP..Q........DRHRKMKNK..PDFRKIFIpvhg.............rdgrIKKHFAGVVHLNYMFPAPE..SAIFNVTAQNItnfrrfsteqQKS......KYIDLLNKELKVINN..-EENIASR.
+#=GR 094|WP_013854341.1/1-178   PP 89**************.**......********....99********....*****.955..7788899999..*........*********..*******999**.............**99999****************..***********9999999988888......**************6...9******.
+095|WP_053108533.1/2-180           LEWIKVDKNYLDFLRV.KE......PRIPNSEYydargRKLLKPFFS....PLFEM.N.D..LVYVTQVSHP..Q........QRHLRLRNS..ADFIKVFKpdn..............ektgGIGDFYAVVNLNYMFPVPK..ELIEKIDNSKMdtyrdfdseiEKS......RYIDLLNKQIEKIRE..--LRIEEM.
+#=GR 095|WP_053108533.1/2-180   PP 689*************.**......*****9998665556689****....*****.*.*..**********..*........*********..********999..............888777899**************..**********99999999999999......**************8....9*****.
+096|WP_053108533.1/2-180           LEWIKVDKNYLDFLRV.KE......PRIPNSEYydargRKLLKPFFS....PLFEM.N.D..LVYVTQVSHP..Q........QRHLRLRNS..ADFIKVFKpdn..............ektgGIGDFYAVVNLNYMFPVPK..ELIEKIDNSKMdtyrdfdseiEKS......RYIDLLNKQIEKIRE..--LRIEEM.
+#=GR 096|WP_053108533.1/2-180   PP 689*************.**......*****9998665556689****....*****.*.*..**********..*........*********..********999..............888777899**************..**********99999999999999......**************8....9*****.
+097|WP_053108533.1/2-180           LEWIKVDKNYLDFLRV.KE......PRIPNSEYydargRKLLKPFFS....PLFEM.N.D..LVYVTQVSHP..Q........QRHLRLRNS..ADFIKVFKpdn..............ektgGIGDFYAVVNLNYMFPVPK..ELIEKIDNSKMdtyrdfdseiEKS......RYIDLLNKQIEKIRE..--LRIEEM.
+#=GR 097|WP_053108533.1/2-180   PP 689*************.**......*****9998665556689****....*****.*.*..**********..*........*********..********999..............888777899**************..**********99999999999999......**************8....9*****.
+098|WP_048733289.1/1-157           MKLVYVDNRYISYLQQ.FD......HRVLQNKS.....---RRPYIG....PVLTV.N.N..HSYFAPFETS..K........PGKR--VNN..RLTFTIRKs..................psSNSPILSFLLINDMIPVST..RNYIPIDMDHL..........KSLs....pKKFDLLIKEQNFVRS..NRQLILQK.
+#=GR 098|WP_048733289.1/1-157   PP 899*************.**......****7755........******....*****.*.*..*******999..9........7644..344..455556555..................669999***************..***********..........6657....7999************..********.
+099|WP_123985655.1/9-142           ----------------.--......-------Y.....TDFIRPYLG....VVLSI.N.D..LNYFVPLSSP..K........E-NKKLNNQlsIKLFEVNN.....................-IQNRLGYLLFLNMIPVPD..KYLSKIDMQYI..........KEQd....lEYYNLLTNQLIFIRQ..ENQRIVNK.
+#=GR 099|WP_123985655.1/9-142   PP ................................5.....6778*****....*****.*.*..**********..9........5.55555554688999999......................******************..********998..........6666....69**************..********.
+100|WP_123866849.1/6-167           -SFYTVTDGYINYLRE.FE......SKVH-HQY.....ENEASTYVG....IVLKK.N.D..FNYFVPLSSY.sK........DKPQKDINM..RKRSQIVTrlf...............elgNLDNPLGYLLHHNMIPVPE..SELKPIILDLS..........--K......PKHQMMQKQLIFMKD..ISQNIENK.
+#=GR 100|WP_123866849.1/6-167   PP .69*************.**......***9.567.....89*******....*****.*.*..*********9.66........555544444..44444444466...............69999*****************..******99999............6......6789***********..********.
+101|WP_107775333.1/1-178           MNWCSIDETYLNYLKS.YE......SRIPYSDY....gVNHFNPFFR....PLFEI.EpG..IIFVGAISHP..Q........DRHRKMKNK..PDFRKIFIpvhg.............rdgrIKKHFAGVVHLNYMFPAPE..SAIFNVTAQNItnfrrfsteqQKS......KYIDLLNKELKVINN..-EENIASR.
+#=GR 101|WP_107775333.1/1-178   PP 89**************.**......********....99********....*****.955..7788899999..*........*********..*******999**.............**99999****************..***********9999999988888......**************6...9******.
+102|WP_107775333.1/1-178           MNWCSIDETYLNYLKS.YE......SRIPYSDY....gVNHFNPFFR....PLFEI.EpG..IIFVGAISHP..Q........DRHRKMKNK..PDFRKIFIpvhg.............rdgrIKKHFAGVVHLNYMFPAPE..SAIFNVTAQNItnfrrfsteqQKS......KYIDLLNKELKVINN..-EENIASR.
+#=GR 102|WP_107775333.1/1-178   PP 89**************.**......********....99********....*****.955..7788899999..*........*********..*******999**.............**99999****************..***********9999999988888......**************6...9******.
+103|WP_052263122.1/5-121           MKFYVVTDCYVDHLRQ.FD......AKVSFNKA.....---GRPYIG....IVLEI.Q.A..HHYFAPLTSP..K........PKHDSIRDS.lVTVFKLYDi...................dDPANKLGMIQLNNMIPAPA..SEVSLLDFSTL..........-DQ......KYCRLLSKQLRCIKS..--------.
+#=GR 103|WP_052263122.1/5-121   PP 89**************.**......****9976........9*****....*****.*.*..**********..*........*********.*******998...................88999***************..***********...........**......************985...........
+104|WP_014563839.1/5-175           MNWCSIDETYLNYLKS.YE......SRIPYSDY....gVNHFKTFFR....PLFEI.EpG..IIFVGAISHP..Q........DRHRKMKNK..PDFRKIFIpvhg.............rdgrIKKHFAGVVHLNYMFPAPE..SANFNVTAQNInnfrrfsteqQKS......KYIDLLNKELKVINN..-EENIASR.
+#=GR 104|WP_014563839.1/5-175   PP 89**************.**......********....99********....*****.955..7788899999..*........*********..*******999**.............**99999****************..*99999999998889999988888......**************6...9******.
+105|WP_054607455.1/5-175           MNWCSIDETYLNYLKS.YE......SRIPYSDY....gVNHFKTFFR....PLFEI.EpG..IIFVGAISHP..Q........DRHRKMKNK..SDFRKIFIpvhg.............rdgrIKKHFAGVVHLNYMFPAPE..SANFNVTAQNItnfrrfsteqQKS......KYIDLLNKELKVINN..-EENIASR.
+#=GR 105|WP_054607455.1/5-175   PP 89**************.**......********....99********....*****.955..7788899999..*........*********..******9999**.............**99999****************..**9999999999999999988888......**************6...9******.
+106|WP_006886323.1/17-167          --FCEIDIDYLKSLYE.FD......NEVSYNQN....yKKHIKAHLG....ILTSI.Q.N..NTFIIPLTSP..K........EKHLKISNN.sNQIEKMFD.....................QDNNSLGVLLIQKIIPVSE..ILIKRINIEKD..........--K......KYGNLILKQLNYIKK..NKARILKK.
+#=GR 106|WP_006886323.1/17-167  PP ..899***********.**......*******9....9*********....*****.*.*..**********..*........********9.99999****.....................*******************..*****999988............9......***************..********.
+107|WP_006886323.1/17-167          --FCEIDIDYLKSLYE.FD......NEVSYNQN....yKKHIKAHLG....ILTSI.Q.N..NTFIIPLTSP..K........EKHLKISNN.sNQIEKMFD.....................QDNNSLGVLLIQKIIPVSE..ILIKRINIEKD..........--K......KYGNLILKQLNYIKK..NKARILKK.
+#=GR 107|WP_006886323.1/17-167  PP ..899***********.**......*******9....9*********....*****.*.*..**********..*........********9.99999****.....................*******************..*****999988............9......***************..********.
+108|WP_072525221.1/15-171          --LCEIQRDYIKYMHD.AD......WRVSVK--.....-YNNRKFVG....LAVQI.N.G..RMFVVPLTSQ..Ttke..riaRGKKKRSAA.iTTFLKVAG.....................---EEIANLLHNNMFPVPD..DQIKPIQIDPK..........---......-VDTYLANEERQIRK..KWVEINTK.
+#=GR 108|WP_072525221.1/15-171  PP ..689***********.**......****55........58******....*****.*.*..**********..7455..554334444444.456666666........................99**************..*******9887....................8899**********..********.
+109|WP_013700934.1/6-100           LNLYYMDMKYIRDLHN.AD......DRVQSVSPq...iHKSNRPFVG....IVVIC.G.E..HKYCVPLDSA..K........EKHKTQKND..VDFTRIFD.....................-GDKLISVLNFNNMIPIDN..KFIRN------..........---......---------------..--------.
+#=GR 109|WP_013700934.1/6-100   PP 579*************.**......****99877...99********....*****.*.*..**********..*........*********..********......................******************..99876...................................................
+110|WP_012159700.1/26-135          LKFYEINTNYIQYLKK.YD......HRVPNIDY.....KEHNKFLCG....VVLDV.N.G..NKYYAPVSSL..C........------KEQ..QTNFIIKN.....................NKGKSIASLRLSFMLPVPD..RVLTIKNFKDE..........-DY......KYRRLLMEELKYLV-..--------.
+#=GR 110|WP_012159700.1/26-135  PP 69**************.**......********.....*********....*****.*.*..**********..8..............444..55678999.....................9******************..********999...........**......**********9875............
+111|WP_021165089.1/1-162           MDLYQAKDDYLTALKK.YD......SRVLVNSH.....GKTLRPYYF....LKTEI.E.G..QQYAIPFSSP..K........---ANVRFN.pFTQIYING.....................-KDQKQGRLFLINMIPFES..QAFHKIEFKKI..........ANDi...gfKYATLLDEQKDALLK..QQNIIQRK.
+#=GR 111|WP_021165089.1/1-162   PP 799*************.**......********.....*********....*****.*.*..**********..9...........445555.366777888......................9999**************..***********..........8888...99***************..********.
+112|WP_081146396.1/1-162           MDLYQAKDDYLTALKK.YD......SRVLVNSH.....GKTLRPYYF....LKTEI.E.G..QQYAIPFSSP..K........---ANVRFN.pFTQIYING.....................-KDQKQGRLFLINMIPFES..QAFHKIEFKKI..........ANDi...gfKYATLLDEQKDALLK..QQNIIQRK.
+#=GR 112|WP_081146396.1/1-162   PP 799*************.**......********.....*********....*****.*.*..**********..9...........445555.366777888......................9999**************..***********..........8888...99***************..********.
+113|WP_002317408.1/13-158          --LYVISDDYINKLKK.VD......YRVQNNYR.....--EQRLYFKsnlkISNKN.E.E..INYYVPLASA..K........ENQRSLTNK..-SVFKIYGd...................rEEKDFLGVLHINNMIPVPK..DCAKVWTPNSP.........nVDE......KYKMLVIKQAKYLKL..HESEINES.
+#=GR 113|WP_002317408.1/13-158  PP ..8*************.**......****8865.......6666665111155567.8.9..**********..*........999999976...999***98...................88999***************..****9999876.........3588......***************..********.
+114|WP_002317408.1/13-158          --LYVISDDYINKLKK.VD......YRVQNNYR.....--EQRLYFKsnlkISNKN.E.E..INYYVPLASA..K........ENQRSLTNK..-SVFKIYGd...................rEEKDFLGVLHINNMIPVPK..DCAKVWTPNSP.........nVDE......KYKMLVIKQAKYLKL..HESEINES.
+#=GR 114|WP_002317408.1/13-158  PP ..8*************.**......****8865.......6666665111155567.8.9..**********..*........999999976...999***98...................88999***************..****9999876.........3588......***************..********.
+115|WP_002317408.1/13-158          --LYVISDDYINKLKK.VD......YRVQNNYR.....--EQRLYFKsnlkISNKN.E.E..INYYVPLASA..K........ENQRSLTNK..-SVFKIYGd...................rEEKDFLGVLHINNMIPVPK..DCAKVWTPNSP.........nVDE......KYKMLVIKQAKYLKL..HESEINES.
+#=GR 115|WP_002317408.1/13-158  PP ..8*************.**......****8865.......6666665111155567.8.9..**********..*........999999976...999***98...................88999***************..****9999876.........3588......***************..********.
+116|WP_125119801.1/3-156           MHLYTVMPDYLDYLRK.NH......KNMLKNE-.....------ISG....IVIRL.S.H..WIYFIPITDL..Sd.....rdFENGRLKRS.tPAILRLYD.....................-GQTGIGKAMLANMFPVPY..KAIIPLLLNNY..........-DQ......NTQKLLQKRLDYIHK..NQKRLEKA.
+#=GR 116|WP_125119801.1/3-156   PP 789*************.*9......9999665............59*....*****.*.*..******9977..53.....34667788888.799999**9......................999***************..***********...........**......***************..********.
+117|WP_019034960.1/12-106          ----------------.--......--------.....---------....-----.-.-..----------..-........---------..--IYKYYSd...................kEKLHILSILDIKKMIPVPT..DCYERIDFNEL..........EDI......RYKDLFQKEYAFCLK..IKTKILIK.
+#=GR 117|WP_019034960.1/12-106  PP ................................................................................................4444445...................567899**************..***********..........***......***************..********.
+118|WP_005960590.1/9-109           --FYTVNPDYLEYLNQ.ID......SEVYYNLS....yRNSIKPFVG....IIVEI.E.S..YNYFIPISSA..K........EKHRRWKNV.sDEHFLIYEvidnsitin..gdiykyysdeEKMHILSILNFK-------..-----------..........---......---------------..--------.
+#=GR 118|WP_005960590.1/9-109   PP ..9*************.**......*****988....8*********....*****.*.*..**********..*........********9.888999***999999999..9999999988888888988886.................................................................
+119|WP_082743202.1/9-160           -RLYEIDKQYASYLRS.VD......SRVSVK--.....--DHRPFVG....ILVSS.G.K..QWFCIPITTQ.vV........PKSGKARRK..DVTTIIFD.....................NHQHPIAAVLYNNMLPVYP..EFIHDYEVSDP..........---......LLKELSLTELRFLNRlsIRDEIIEK.
+#=GR 119|WP_082743202.1/9-160   PP .79*************.**......****66.........56*****....*****.*.*..********99.67........999999999..78888889.....................9******************..********999...................9999**********998899*****.
+120|WP_005953786.1/9-109           --FYTVNPDYLEYLNQ.ID......SEVYYNLS....yRNSIKPFVG....IIVEI.E.S..YNYFIPISSA..K........EKHRRWKNI.sDEHFLIYEvidnsitin..gdiykyysdeEKMHILSILNFK-------..-----------..........---......---------------..--------.
+#=GR 120|WP_005953786.1/9-109   PP ..9*************.**......*****988....8*********....*****.*.*..**********..*........********9.788999***999999999..9999999988888888988886.................................................................
+121|WP_080944650.1/2-96            ----------------.--......--------.....---------....-----.-.-..----------..-........---------..---FKIHEk...................gEPSNKLGLIQLNNMIPVLE..SEIILIDLPAQ..........-EE......KYKKLLEFQIAYIKS..EQDTLKKR.
+#=GR 121|WP_080944650.1/2-96    PP .................................................................................................567775...................567899**************..**********9...........99......***************..********.
+122|WP_134107340.1/129-293         -AFYYVDPQYISSLSA.AEiqvhgiSHVPHVIY....dGRHTKFMCG....AVLHI.P.HapYMYVAPVSST..Q........--ANGIGDI..-PIMMHSG.....................SQALRKGTLRLRYMFPALP..EVLAHVDIAHV..........TSA......SYRNLLNTQLDYLRS..IHPQIASV.
+#=GR 122|WP_134107340.1/129-293 PP .79*************.**99999999999999....788999999*....*****.8.73367899****9..8..........3444443...3444444.....................578899*************..***********..........***......***************..********.
+123|WP_052721946.1/1-68            MKLYTVTDAYIAYLKG.ID......SKVLNNY-.....-GGIRPYVG....IIIEI.G.G..HKYLAPLTSY..K........AKQEKLNNN..LPTIIIIS.....................-------------------..-----------..........---......---------------..--------.
+#=GR 123|WP_052721946.1/1-68    PP 89**************.**......****774.......69******....*****.*.*..**********..*........*********..66665554..................................................................................................
+124|WP_012127504.1/53-150          ----------------.--......--------.....--GIRVYIV....IVLQI.D.E..VQYLTPLTSH..K........AKQDKLKGG.lSTIYKLHQd...................gNGYNKLGMIQLNSMNPVID..CVISELDVDPQ..........-GD......PHKSMLQCQIKFIKK..NSDKIL--.
+#=GR 124|WP_012127504.1/53-150  PP ........................................5799***....*****.*.*..**********..*........*********.9999999996...................666789**************..**********9...........99......9**************..**9996...
+125|WP_012127504.1/53-150          ----------------.--......--------.....--GIRVYIV....IVLQI.D.E..VQYLTPLTSH..K........AKQDKLKGG.lSTIYKLHQd...................gNGYNKLGMIQLNSMNPVID..CVISELDVDPQ..........-GD......PHKSMLQCQIKFIKK..NSDKIL--.
+#=GR 125|WP_012127504.1/53-150  PP ........................................5799***....*****.*.*..**********..*........*********.9999999996...................666789**************..**********9...........99......9**************..**9996...
+126|WP_107196733.1/3-73            ----------ITYLQQ.YE......PKVTNIGY.....AGHTKFVCG....IVLKI.H.D..ANYFAPISSN..T........---KKFRT-..--SFAIKN.....................NMGTILSTVRLSFMFPA--..-----------..........---......---------------..--------.
+#=GR 126|WP_107196733.1/3-73    PP ..........78****.**......********.....*********....*****.*.*..*********9..8...........44443.....478999.....................99**************6............................................................
+127|WP_081454751.1/31-88           ----------------.--......--------.....---------....-----.-.-..----------..-........---------..--------.....................-------------------..-----------..........AQA......HYKKLCIKEIEWCRK..NQEAIVKK.
+#=GR 127|WP_081454751.1/31-88   PP .....................................................................................................................................................................456......9**************..********.
+128|WP_075395808.1/27-152          ----------------.--......-------N.....KEERRLYVG....VIVKI.D.D..QNACIPFRSK..T........PNNGRVAAR..-GTFPIPS.....................-STRPEACLDLTKTLIIKE..ESYLKI--L--..........-DE......KTIKIPETQKKRINE..NIDEIQKK.
+#=GR 128|WP_075395808.1/27-152  PP ................................3.....5799*****....*****.*.*..**********..*........*99999976...7888999......................99***********99998..766443..3.............44......7789***********..********.
+129|WP_075395808.1/27-152          ----------------.--......-------N.....KEERRLYVG....VIVKI.D.D..QNACIPFRSK..T........PNNGRVAAR..-GTFPIPS.....................-STRPEACLDLTKTLIIKE..ESYLKI--L--..........-DE......KTIKIPETQKKRINE..NIDEIQKK.
+#=GR 129|WP_075395808.1/27-152  PP ................................3.....5799*****....*****.*.*..**********..*........*99999976...7888999......................99***********99998..766443..3.............44......7789***********..********.
+130|WP_075395808.1/27-152          ----------------.--......-------N.....KEERRLYVG....VIVKI.D.D..QNACIPFRSK..T........PNNGRVAAR..-GTFPIPS.....................-STRPEACLDLTKTLIIKE..ESYLKI--L--..........-DE......KTIKIPETQKKRINE..NIDEIQKK.
+#=GR 130|WP_075395808.1/27-152  PP ................................3.....5799*****....*****.*.*..**********..*........*99999976...7888999......................99***********99998..766443..3.............44......7789***********..********.
+131|WP_003299023.1/27-152          ----------------.--......-------N.....KEERRLYVG....VIVKI.D.D..QNACIPFRSK..T........PNNGRVAAR..-GTFPIPS.....................-STRPEACLDLTKTLIIKE..ESYLKI--L--..........-DE......KTIKIPETQKKRINE..NIDEIQKK.
+#=GR 131|WP_003299023.1/27-152  PP ................................3.....5799*****....*****.*.*..**********..*........*99999976...7888999......................99***********99998..766443..3.............44......7789***********..********.
+132|WP_011244862.1/27-152          ----------------.--......-------N.....KEERRLYVG....VIVKI.D.D..QNACIPFRSK..T........PNNGRVAAR..-GTFPIPS.....................-STRPEACLDLTKTLIIKE..ESYLKI--L--..........-DE......KTIKIPETQKKKINE..NIDEIQKK.
+#=GR 132|WP_011244862.1/27-152  PP ................................3.....5799*****....*****.*.*..**********..*........*99999976...7888999......................99***********99998..766443..3.............44......7789***********..********.
+133|YP_173316.1/27-152             ----------------.--......-------N.....KEERRLYVG....VIVKI.D.D..QNACIPFRSK..T........PNNGRVAAR..-GTFPIPS.....................-STRPEACLDLTKTLIIKE..ESYLKI--L--..........-DE......KTIKIPETQKKKINE..NIDEIQKK.
+#=GR 133|YP_173316.1/27-152     PP ................................3.....5799*****....*****.*.*..**********..*........*99999976...7888999......................99***********99998..766443..3.............44......7789***********..********.
+134|WP_080638824.1/5-45            ----------------.--......--------.....---------....-----.-.-..----------..-........---------..--------.....................-------------------..-----------..........---......---------------..KKELILKN.
+#=GR 134|WP_080638824.1/5-45    PP ...............................................................................................................................................................................................5699****.
+#=GC PP_cons                       789*************.**......****9988.....999******....*****.*.*..**********..9........999999988..88899999.....................899****************..*****9**999..........888......***************..********.
+#=GC RF                            xxxxxxxxxxxxxxxx.xx......xxxxxxxx.....xxxxxxxxx....xxxxx.x.x..xxxxxxxxxx..x........xxxxxxxxx..xxxxxxxx.....................xxxxxxxxxxxxxxxxxxx..xxxxxxxxxxx..........xxx......xxxxxxxxxxxxxxx..xxxxxxxx.
+
+000|WP_062150987.1/2-158           SQNIYEKVVV............KQD...SHYAKICCNFSLLEQKCLEF
+#=GR 000|WP_062150987.1/2-158   PP **********............***...*****************875
+001|WP_062150987.1/2-158           SQNIYEKVVV............KQD...SHYAKICCNFSLLEQKCLEF
+#=GR 001|WP_062150987.1/2-158   PP **********............***...*****************875
+002|WP_052306562.1/4-159           ARKLYSIVNS............GKH...KKISNRCCNFKLLEQKCMEY
+#=GR 002|WP_052306562.1/4-159   PP **********............***...******************99
+003|WP_005981365.1/4-162           AERLYKEITS............KRE..kSHFWSRCCDFILLEKIAKEY
+#=GR 003|WP_005981365.1/4-162   PP **********............776..699***************998
+004|WP_005981365.1/4-162           AERLYKEITS............KRE..kSHFWSRCCDFILLEKIAKEY
+#=GR 004|WP_005981365.1/4-162   PP **********............776..699***************998
+005|WP_107195477.1/1-160           ARALRNLFFVggd......tlkSID...KKVMQRCCCFPLLEQACRQY
+#=GR 005|WP_107195477.1/1-160   PP *****99877677......765677...******************99
+006|WP_095123441.1/1-160           AEKLYRLVGSddr......ilsNNQ...IKIKQRCINFGLLQEKMQEF
+#=GR 006|WP_095123441.1/1-160   PP ******9988888......987888...*****************986
+007|WP_014918282.1/5-162           AKLIHKFICYe..........pERH...KNINKFCCDFNKLEKYCRK-
+#=GR 007|WP_014918282.1/5-162   PP *****998874..........5556...9***************986.
+008|WP_014918282.1/5-162           AKLIHKFICYe..........pERH...KNINKFCCDFNKLEKYCRK-
+#=GR 008|WP_014918282.1/5-162   PP *****998874..........5556...9***************986.
+009|WP_014918282.1/5-162           AKLIHKFICYe..........pERH...KNINKFCCDFNKLEKYCRK-
+#=GR 009|WP_014918282.1/5-162   PP *****998874..........5556...9***************986.
+010|WP_014563063.1/5-162           AKLIHKFICYe..........pERH...KNINKFCCDFNKLEKYCRK-
+#=GR 010|WP_014563063.1/5-162   PP *****998874..........5556...9***************986.
+011|WP_054607212.1/5-162           AKLIHKFICYe..........pERH...KNINKFCCDFNKLEKYCRK-
+#=GR 011|WP_054607212.1/5-162   PP *****998874..........5556...9***************986.
+012|WP_012621620.1/7-172           ATKVYSKAIN............KK-...DNFEQYCCNFKLLEEYYQ--
+#=GR 012|WP_012621620.1/7-172   PP **********............55....577************998..
+013|WP_012621620.1/7-172           ATKVYSKAIN............KK-...DNFEQYCCNFKLLEEYYQ--
+#=GR 013|WP_012621620.1/7-172   PP **********............55....577************998..
+014|WP_012621620.1/7-172           ATKVYSKAIN............KK-...DNFEQYCCNFKLLEEYYQ--
+#=GR 014|WP_012621620.1/7-172   PP **********............55....577************998..
+015|WP_012621620.1/7-172           ATKVYSKAIN............KK-...DNFEQYCCNFKLLEEYYQ--
+#=GR 015|WP_012621620.1/7-172   PP **********............55....577************998..
+016|WP_012621620.1/7-172           ATKVYSKAIN............KK-...DNFEQYCCNFKLLEEYYQ--
+#=GR 016|WP_012621620.1/7-172   PP **********............55....577************998..
+017|WP_044009037.1/7-172           ATKVYSKAIN............KK-...DNFEQYCCNFKLLEEYYQ--
+#=GR 017|WP_044009037.1/7-172   PP **********............55....577************998..
+018|WP_088020451.1/1-152           ANKLYKIVGS............GKQ...PKLNDRCCDFIELEKAA---
+#=GR 018|WP_088020451.1/1-152   PP **********............***...**************987...
+019|WP_014570267.1/1-156           ARNLYNLCCRdih......elsAFQ...LKVKGRCVDFKKIQKEY---
+#=GR 019|WP_014570267.1/1-156   PP ********99887......764445...799*********98876...
+020|WP_012260000.1/8-171           VEKVYKDVTVqg.......kpsQKQ...KFLKGVCCDFSKLEEKCQEY
+#=GR 020|WP_012260000.1/8-171   PP *******99888.......887788...9*****************99
+021|WP_085313506.1/8-171           VEKVYKDVTVqg.......kpsHKQ...KFLKGVCCDFSKLEEKCQEY
+#=GR 021|WP_085313506.1/8-171   PP *******99888.......887888...9*****************99
+022|WP_076777974.1/5-159           ASILYRKKVE............GKK...CAAAERCIDFRRMEEMCRLY
+#=GR 022|WP_076777974.1/5-159   PP **********............***...*****************876
+023|WP_094565185.1/28-185          TTKLYKLVCT............DKN...PFYVKLSCDFANLETALQEY
+#=GR 023|WP_094565185.1/28-185  PP **********............***...******************99
+024|WP_117346311.1/17-191          TISIINYQKK............--T...NIIKFAYFNFNLLEEKMNEW
+#=GR 024|WP_117346311.1/17-191  PP 8877766655..............6...79****************99
+025|WP_117850313.1/1-161           AHKIYEMVIN............NHK...QILTDNSCDFKILEDGYRKY
+#=GR 025|WP_117850313.1/1-161   PP **********............***...*****************998
+026|WP_128752245.1/19-176          AQNTYNKVVI............KKD...PFFISICCNFKLLEEKCLKY
+#=GR 026|WP_128752245.1/19-176  PP **********............***...*****************998
+027|WP_005541974.1/9-184           VEKLYQKQKE............--T...GTIRRANCNFSELEKAMLDW
+#=GR 027|WP_005541974.1/9-184   PP *******999..............9...99*************99876
+028|WP_047716023.1/9-184           VQKIYNNQKE............--T...GIVRRANCNFEKLEDAMSKW
+#=GR 028|WP_047716023.1/9-184   PP *******999..............9...9****************998
+029|WP_047716023.1/9-184           VQKIYNNQKE............--T...GIVRRANCNFEKLEDAMSKW
+#=GR 029|WP_047716023.1/9-184   PP *******999..............9...9****************998
+030|WP_047716023.1/9-184           VQKIYNNQKE............--T...GIVRRANCNFEKLEDAMSKW
+#=GR 030|WP_047716023.1/9-184   PP *******999..............9...9****************998
+031|WP_088765551.1/1-153           SLKLYTLITK............KKN...TIFHKRCNNFKLLEEKSLDY
+#=GR 031|WP_088765551.1/1-153   PP **********............***...***************98766
+032|WP_016097319.1/8-169           VEKVYKDVTVqg.......kpsHKQ...KFLKGVCCDFPKLEEKCQEY
+#=GR 032|WP_016097319.1/8-169   PP *******99888.......887888...9*****************99
+033|WP_016097319.1/8-169           VEKVYKDVTVqg.......kpsHKQ...KFLKGVCCDFPKLEEKCQEY
+#=GR 033|WP_016097319.1/8-169   PP *******99888.......887888...9*****************99
+034|WP_016097319.1/8-169           VEKVYKDVTVqg.......kpsHKQ...KFLKGVCCDFPKLEEKCQEY
+#=GR 034|WP_016097319.1/8-169   PP *******99888.......887888...9*****************99
+035|WP_016097319.1/8-169           VEKVYKDVTVqg.......kpsHKQ...KFLKGVCCDFPKLEEKCQEY
+#=GR 035|WP_016097319.1/8-169   PP *******99888.......887888...9*****************99
+036|WP_117347322.1/1-175           AQIVYKLKKR............KSS..yNYIKLATVDFELLERNCDEW
+#=GR 036|WP_117347322.1/1-175   PP **********............999..9******************99
+037|WP_100026970.1/5-176           ALELYELIEKlhennsdklnesKKL...SGLKERCCNFKLLEEKSLDY
+#=GR 037|WP_100026970.1/5-176   PP *****99888889999999774444...899************98766
+038|WP_038672278.1/5-171           ARSLYALKYD............KPE...HVISKRCFDFKTLENGAHNW
+#=GR 038|WP_038672278.1/5-171   PP **********............***...***************99987
+039|WP_020429515.1/6-156           ASRLYSIVKS............QKQ...PKLNARCCNYIALEAAL---
+#=GR 039|WP_020429515.1/6-156   PP **********............***...**************986...
+040|WP_094374045.1/8-171           VEKVYKDVTVqg.......kpsKKQ...KFLKGICCDFSTLEEKCQEY
+#=GR 040|WP_094374045.1/8-171   PP *******99888.......897888...******************99
+041|WP_094374045.1/8-171           VEKVYKDVTVqg.......kpsKKQ...KFLKGICCDFSTLEEKCQEY
+#=GR 041|WP_094374045.1/8-171   PP *******99888.......897888...******************99
+042|WP_094374045.1/8-171           VEKVYKDVTVqg.......kpsKKQ...KFLKGICCDFSTLEEKCQEY
+#=GR 042|WP_094374045.1/8-171   PP *******99888.......897888...******************99
+043|WP_094374045.1/8-171           VEKVYKDVTVqg.......kpsKKQ...KFLKGICCDFSTLEEKCQEY
+#=GR 043|WP_094374045.1/8-171   PP *******99888.......897888...******************99
+044|WP_094374045.1/8-171           VEKVYKDVTVqg.......kpsKKQ...KFLKGICCDFSTLEEKCQEY
+#=GR 044|WP_094374045.1/8-171   PP *******99888.......897888...******************99
+045|WP_094374045.1/8-171           VEKVYKDVTVqg.......kpsKKQ...KFLKGICCDFSTLEEKCQEY
+#=GR 045|WP_094374045.1/8-171   PP *******99888.......897888...******************99
+046|WP_094374045.1/8-171           VEKVYKDVTVqg.......kpsKKQ...KFLKGICCDFSTLEEKCQEY
+#=GR 046|WP_094374045.1/8-171   PP *******99888.......897888...******************99
+047|WP_094374045.1/8-171           VEKVYKDVTVqg.......kpsKKQ...KFLKGICCDFSTLEEKCQEY
+#=GR 047|WP_094374045.1/8-171   PP *******99888.......897888...******************99
+048|WP_094374045.1/8-171           VEKVYKDVTVqg.......kpsKKQ...KFLKGICCDFSTLEEKCQEY
+#=GR 048|WP_094374045.1/8-171   PP *******99888.......897888...******************99
+049|WP_094374045.1/8-171           VEKVYKDVTVqg.......kpsKKQ...KFLKGICCDFSTLEEKCQEY
+#=GR 049|WP_094374045.1/8-171   PP *******99888.......897888...******************99
+050|WP_000182255.1/8-169           VEKVYKDVTVqg.......kpsHKQ...KFLKGVCCDFTKLEEKCQEY
+#=GR 050|WP_000182255.1/8-169   PP *******99888.......887888...9*****************99
+051|WP_000182254.1/8-169           VEKVYKDVTVqg.......kpsHKQ...KFLKGVCCDFPKLEEKCQEY
+#=GR 051|WP_000182254.1/8-169   PP *******99888.......887888...9*****************99
+052|WP_000182254.1/8-169           VEKVYKDVTVqg.......kpsHKQ...KFLKGVCCDFPKLEEKCQEY
+#=GR 052|WP_000182254.1/8-169   PP *******99888.......887888...9*****************99
+053|WP_128750010.1/7-159           AKLLYSIVNS............GTN...EKLISRCSKYKLLETKCCEY
+#=GR 053|WP_128750010.1/7-159   PP **********............***...*****************998
+054|WP_089172360.1/1-161           AHSVYTKVVD............KKL...PFFKNLCIDFKEMEKSHDS-
+#=GR 054|WP_089172360.1/1-161   PP **********............*99...**************98765.
+055|WP_129622155.1/16-192          ARKLYNWQVQ............--N...KIIRPKHCNFLLLEENMHKF
+#=GR 055|WP_129622155.1/16-192  PP *********9..............8...99***************986
+056|WP_000675374.1/1-158           ASKLYKLVSK............GVA...TGIVNMCCDFKALEDAMKTY
+#=GR 056|WP_000675374.1/1-158   PP **********............999...*****************998
+057|WP_078080483.1/6-160           ARKWYEDVIK............-GG...NFPAKISCDYKQLEKEY---
+#=GR 057|WP_078080483.1/6-160   PP **********.............55...7889**********987...
+058|WP_041604955.1/5-157           ATKTYTNAIT............-KR...FGFENFCCDFAKLEEKHRAY
+#=GR 058|WP_041604955.1/5-157   PP **********.............66...788*************9987
+059|WP_051918079.1/1-158           AIKLHDLVRT............KKQ...AHFVDVSCCFDDLEANFKS-
+#=GR 059|WP_051918079.1/1-158   PP **********............999...999999999*****99886.
+060|WP_006587790.1/7-159           ANILRMKVKK............HEL..eSKQLEICNDFETLERH----
+#=GR 060|WP_006587790.1/7-159   PP *******999............666..589999*********86....
+061|WP_119362912.1/1-175           AQIVYKLKKR............KSS..yNYIKLATVDFELLERNYDKW
+#=GR 061|WP_119362912.1/1-175   PP **********............999..9*****************998
+062|WP_013521357.1/1-157           AESLYQSVTKes.......ninRQD...RFYKKLSNDFKNLEEYI---
+#=GR 062|WP_013521357.1/1-157   PP *********999.......996677...9*************986...
+063|WP_013521357.1/1-157           AESLYQSVTKes.......ninRQD...RFYKKLSNDFKNLEEYI---
+#=GR 063|WP_013521357.1/1-157   PP *********999.......996677...9*************986...
+064|WP_013521357.1/1-157           AESLYQSVTKes.......ninRQD...RFYKKLSNDFKNLEEYI---
+#=GR 064|WP_013521357.1/1-157   PP *********999.......996677...9*************986...
+065|WP_013521357.1/1-157           AESLYQSVTKes.......ninRQD...RFYKKLSNDFKNLEEYI---
+#=GR 065|WP_013521357.1/1-157   PP *********999.......996677...9*************986...
+066|WP_032842743.1/4-163           FKKLYSLYLN............NKL..pKSLQERCCNFKLLEEKSLDY
+#=GR 066|WP_032842743.1/4-163   PP **********............999..9***************98766
+067|WP_051429460.1/4-163           FKKLYSLYLN............NKL..pKSLQERCCNFKLLEEKSLDY
+#=GR 067|WP_051429460.1/4-163   PP **********............999..9***************98766
+068|WP_111920784.1/1-173           AKVLYSKRKS............GDE...NRVVQSCLDFVALEKECDNW
+#=GR 068|WP_111920784.1/1-173   PP **********............99*...*****************998
+069|WP_002488419.1/24-179          AQKVYKNAVI............KKV...SFFESMCVDYLALERYVK--
+#=GR 069|WP_002488419.1/24-179  PP **********............9**...**************9986..
+070|WP_002488419.1/24-179          AQKVYKNAVI............KKV...SFFESMCVDYLALERYVK--
+#=GR 070|WP_002488419.1/24-179  PP **********............9**...**************9986..
+071|WP_002488419.1/24-179          AQKVYKNAVI............KKV...SFFESMCVDYLALERYVK--
+#=GR 071|WP_002488419.1/24-179  PP **********............9**...**************9986..
+072|WP_106086058.1/3-138           AQKLYDMVVQ............KKA..qPQLVQRCCDFSIVEAQYL--
+#=GR 072|WP_106086058.1/3-138   PP **********............776..59*************9886..
+073|WP_013291944.1/36-204          AKVIYNQKKA...........nYAN...INYLNDTVDFKKLEQAME--
+#=GR 073|WP_013291944.1/36-204  PP ******9999...........4566...99*************997..
+074|WP_083745839.1/2-158           AEKLYEAYVN............DTL..qDKIKKRCCDFKKLEKHYKEY
+#=GR 074|WP_083745839.1/2-158   PP *********9............555..59*****************99
+075|WP_000675351.1/1-159           SELLRKLVLQ............GK-...---MQGTCNFSLLEEKYRD-
+#=GR 075|WP_000675351.1/1-159   PP *********9............44.......4679*********986.
+076|WP_000675351.1/1-159           SELLRKLVLQ............GK-...---MQGTCNFSLLEEKYRD-
+#=GR 076|WP_000675351.1/1-159   PP *********9............44.......4679*********986.
+077|WP_014466439.1/4-159           AERLYEHVLTc..........sNPN...DFYLKFSCDFLALLKQ----
+#=GR 077|WP_014466439.1/4-159   PP ********998..........8999...**********988665....
+078|WP_039264110.1/1-158           SELLRSLVLQ............GK-...---MRGTCDFGLLEEKYR--
+#=GR 078|WP_039264110.1/1-158   PP *********9............44.......3569*********97..
+079|WP_063164501.1/1-175           AKKLYDLKCN............YPD...YFISKRCFDYKELEILAQ--
+#=GR 079|WP_063164501.1/1-175   PP **********............***...**************7665..
+080|WP_077713129.1/5-153           AEEVYKIGTN............-SN...HPLFYTCCNFKLLEEKSIEY
+#=GR 080|WP_077713129.1/5-153   PP *****99998.............88...9999************9887
+081|WP_082153303.1/1-159           AKKIYVNRTE............KDI...HFINKMCLDFKDLESRLTDY
+#=GR 081|WP_082153303.1/1-159   PP **********............999...***************99887
+082|WP_096228216.1/21-170          AQHVYDMATS............GKD...PHLAAVCCDFKRLEAHLR--
+#=GR 082|WP_096228216.1/21-170  PP **********............***...**************9886..
+083|WP_117346472.1/11-161          INNVVNAVFV............KKD...EFLTSFCCDYLKLQALC---
+#=GR 083|WP_117346472.1/11-161  PP **********............***...***********998877...
+084|WP_081172077.1/9-184           ANKLYEKTKS............-KG...QRISKFHCDYVLLESIM---
+#=GR 084|WP_081172077.1/9-184   PP ******9988.............67...899***********976...
+085|WP_081172077.1/9-184           ANKLYEKTKS............-KG...QRISKFHCDYVLLESIM---
+#=GR 085|WP_081172077.1/9-184   PP ******9988.............67...899***********976...
+086|WP_051611733.1/1-167           AEKLYEIISY............SSG..yENIKKRCLNFLKLEKIV---
+#=GR 086|WP_051611733.1/1-167   PP ******9877............555..6**************975...
+087|WP_051611733.1/1-167           AEKLYEIISY............SSG..yENIKKRCLNFLKLEKIV---
+#=GR 087|WP_051611733.1/1-167   PP ******9877............555..6**************975...
+088|WP_006886810.1/13-169          ITTFYKNKLN............NKF..vYGSTNLILDLKILENYIN--
+#=GR 088|WP_006886810.1/13-169  PP **********............998..77888999*******9986..
+089|WP_006886810.1/13-169          ITTFYKNKLN............NKF..vYGSTNLILDLKILENYIN--
+#=GR 089|WP_006886810.1/13-169  PP **********............998..77888999*******9986..
+090|WP_006268767.1/4-167           CTIIRSVKVEgk.......nkpQIN...EKTKEFCLNLLELEEAYKE-
+#=GR 090|WP_006268767.1/4-167   PP *******99988.......765667...899*************986.
+091|WP_006268767.1/4-167           CTIIRSVKVEgk.......nkpQIN...EKTKEFCLNLLELEEAYKE-
+#=GR 091|WP_006268767.1/4-167   PP *******99988.......765667...899*************986.
+092|WP_006268767.1/4-167           CTIIRSVKVEgk.......nkpQIN...EKTKEFCLNLLELEEAYKE-
+#=GR 092|WP_006268767.1/4-167   PP *******99988.......765667...899*************986.
+093|WP_014622601.1/4-167           CTIIRSVKVEgi.......krpQIN...ERTKEFCLDLIELEKAYKE-
+#=GR 093|WP_014622601.1/4-167   PP ********9999.......877778...999************9986.
+094|WP_013854341.1/1-178           AYKLYLRKQK............FPQ...DPISRRCFNYDKLIDLAKKW
+#=GR 094|WP_013854341.1/1-178   PP **********............***...************98887777
+095|WP_053108533.1/2-180           AIKLYKRKYQ............FPE...DRVSTRCLDYKDLEIIAKNY
+#=GR 095|WP_053108533.1/2-180   PP **********............***...**************988877
+096|WP_053108533.1/2-180           AIKLYKRKYQ............FPE...DRVSTRCLDYKDLEIIAKNY
+#=GR 096|WP_053108533.1/2-180   PP **********............***...**************988877
+097|WP_053108533.1/2-180           AIKLYKRKYQ............FPE...DRVSTRCLDYKDLEIIAKNY
+#=GR 097|WP_053108533.1/2-180   PP **********............***...**************988877
+098|WP_048733289.1/1-157           ALSVYHKRLS............SKV...PFFNQMCLDFRLLEHKYL--
+#=GR 098|WP_048733289.1/1-157   PP **********............99*...***************985..
+099|WP_123985655.1/9-142           AQKVYKNAVI............KKV...SFFESMCVDYLALERYVK--
+#=GR 099|WP_123985655.1/9-142   PP **********............9**...**************9986..
+100|WP_123866849.1/6-167           SNVVYRKTVY............EKN...AYFVKFSCDFKLLEAKATLY
+#=GR 100|WP_123866849.1/6-167   PP **********............***...***************98765
+101|WP_107775333.1/1-178           AYKLYLRKQK............FPQ...YPISRRCFNYDKLIDLAKKW
+#=GR 101|WP_107775333.1/1-178   PP **********............***...************98887777
+102|WP_107775333.1/1-178           AYKLYLRKQK............FPQ...YPISRRCFNYDKLIDLAKKW
+#=GR 102|WP_107775333.1/1-178   PP **********............***...************98887777
+103|WP_052263122.1/5-121           ----------............---...--------------------
+#=GR 103|WP_052263122.1/5-121   PP ................................................
+104|WP_014563839.1/5-175           AYKLYLRKQK............FPQ...DPISRRCFNYDKL-------
+#=GR 104|WP_014563839.1/5-175   PP **********............***...**********998.......
+105|WP_054607455.1/5-175           AYKLYLRKQK............FPQ...DPISRRCFNYDKL-------
+#=GR 105|WP_054607455.1/5-175   PP **********............***...**********998.......
+106|WP_006886323.1/17-167          VNTHYDKVMN............NKK..iKFSTNLPADINFL-------
+#=GR 106|WP_006886323.1/17-167  PP **********............999..44445555666666.......
+107|WP_006886323.1/17-167          VNTHYDKVMN............NKK..iKFSTNLPADINFL-------
+#=GR 107|WP_006886323.1/17-167  PP **********............999..44445555666666.......
+108|WP_072525221.1/15-171          SIAVYRERYD............KESrnyYFFNKTCCDFKKLEVECDRW
+#=GR 108|WP_072525221.1/15-171  PP *********9............55522467899************988
+109|WP_013700934.1/6-100           ----------............---...--------------------
+#=GR 109|WP_013700934.1/6-100   PP ................................................
+110|WP_012159700.1/26-135          ----------............---...--------------------
+#=GR 110|WP_012159700.1/26-135  PP ................................................
+111|WP_021165089.1/1-162           ALNIYKARYNk.........nhYKY...EMLQKNACDFKGLAQISKQY
+#=GR 111|WP_021165089.1/1-162   PP ******99995.........43444...899**********9999887
+112|WP_081146396.1/1-162           ALNIYKARYNk.........nhYKY...EMLQKNACDFKGLAQISKQY
+#=GR 112|WP_081146396.1/1-162   PP ******99995.........43444...899**********9999887
+113|WP_002317408.1/13-158          CELLYNSKLGkld.....psyfK--...--------------------
+#=GR 113|WP_002317408.1/13-158  PP *******998444.....44441.........................
+114|WP_002317408.1/13-158          CELLYNSKLGkld.....psyfK--...--------------------
+#=GR 114|WP_002317408.1/13-158  PP *******998444.....44441.........................
+115|WP_002317408.1/13-158          CELLYNSKLGkld.....psyfK--...--------------------
+#=GR 115|WP_002317408.1/13-158  PP *******998444.....44441.........................
+116|WP_125119801.1/3-156           ALRLYKQKVK............GYA...QSYLAVTLDFPVLEQECARW
+#=GR 116|WP_125119801.1/3-156   PP **********............999...*****************988
+117|WP_019034960.1/12-106          VEKIYKNQKK............--T...GIIRRANCNFSKLEKAMLDW
+#=GR 117|WP_019034960.1/12-106  PP *******999..............9...9**************99876
+118|WP_005960590.1/9-109           ----------............---...--------------------
+#=GR 118|WP_005960590.1/9-109   PP ................................................
+119|WP_082743202.1/9-160           STSVMLKSKH............--S...MLMRKICVNFPKLTKAAKIY
+#=GR 119|WP_082743202.1/9-160   PP *999877776..............8...999**********9988755
+120|WP_005953786.1/9-109           ----------............---...--------------------
+#=GR 120|WP_005953786.1/9-109   PP ................................................
+121|WP_080944650.1/2-96            AEKLYELVSI............KNH...AHYSALSCDFNLLEAKYRKF
+#=GR 121|WP_080944650.1/2-96    PP *********9............999...*****************986
+122|WP_134107340.1/129-293         AADMHELVCA...........eCGS...NRFIDRCCDFPLLEQACRDY
+#=GR 122|WP_134107340.1/129-293 PP ********99...........4455...999**************988
+123|WP_052721946.1/1-68            ----------............---...--------------------
+#=GR 123|WP_052721946.1/1-68    PP ................................................
+124|WP_012127504.1/53-150          ----------............---...--------------------
+#=GR 124|WP_012127504.1/53-150  PP ................................................
+125|WP_012127504.1/53-150          ----------............---...--------------------
+#=GR 125|WP_012127504.1/53-150  PP ................................................
+126|WP_107196733.1/3-73            ----------............---...--------------------
+#=GR 126|WP_107196733.1/3-73    PP ................................................
+127|WP_081454751.1/31-88           ANKLYYLVQK............TNC..sSMLKKRCNDFKKLEKVLE--
+#=GR 127|WP_081454751.1/31-88   PP *******999............555..49*************9886..
+128|WP_075395808.1/27-152          LDKYLEGYKK...........aEKS..gRISRDALFKFSTLQNYH---
+#=GR 128|WP_075395808.1/27-152  PP 9999888777...........4444..355566778888887766...
+129|WP_075395808.1/27-152          LDKYLEGYKK...........aEKS..gRISRDALFKFSTLQNYH---
+#=GR 129|WP_075395808.1/27-152  PP 9999888777...........4444..355566778888887766...
+130|WP_075395808.1/27-152          LDKYLEGYKK...........aEKS..gRISRDALFKFSTLQNYH---
+#=GR 130|WP_075395808.1/27-152  PP 9999888777...........4444..355566778888887766...
+131|WP_003299023.1/27-152          LDKYLEGYKK...........aEKS..gRISRDALFKFSTLQNYH---
+#=GR 131|WP_003299023.1/27-152  PP 9999888777...........4444..355566778888887766...
+132|WP_011244862.1/27-152          LDKYLEGYKK...........aEKS..gRISRDALFKFSTLQNYH---
+#=GR 132|WP_011244862.1/27-152  PP 9999888777...........4444..355566778888887766...
+133|YP_173316.1/27-152             LDKYLEGYKK...........aEKS..gRISRDALFKFSTLQNYH---
+#=GR 133|YP_173316.1/27-152     PP 9999888777...........4444..355566778888887766...
+134|WP_080638824.1/5-45            AKKLYQQKSK............NMS...MGYIKNTVDFLLLEERGKEY
+#=GR 134|WP_080638824.1/5-45    PP **********............***...***************99998
+#=GC PP_cons                       *******999............788...9999**********999888
+#=GC RF                            xxxxxxxxxx............xxx...xxxxxxxxxxxxxxxxxxxx
+//
