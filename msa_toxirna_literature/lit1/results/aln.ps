@@ -1,0 +1,201 @@
+%!PS-Adobe-3.0 EPSF-3.0
+%%Creator: ViennaRNA-2.4.13
+%%CreationDate: Fri Sep  4 14:32:25 2020
+%%Title: ViennaRNA Package - Alignment
+%%BoundingBox: 0 0 624 355
+%%DocumentFonts: Helvetica
+%%Pages: 1
+%%EndComments
+
+% Program options: 
+
+/ALNdict 100 dict def
+
+ALNdict begin
+
+%%BeginProlog
+
+% draws Vienna RNA like colored boxes
+/box { % x1 y1 x2 y2 hue saturation
+  gsave
+  dup 0.3 mul 1 exch sub sethsbcolor
+  exch 3 index sub exch 2 index sub rectfill
+  grestore
+} def
+% draws a box in current color
+/box2 { % x1 y1 x2 y2
+  exch 3 index sub exch 2 index sub rectfill
+} def
+/string { % (Text) x y
+ 6 add
+ moveto
+  show
+} def
+
+%%EndProlog
+
+0 355 translate
+1 -1 scale
+/Courier findfont
+[10 0 0 -10 0 0] makefont setfont
+0 setgray
+(..............................................) 306.0 2.0 string
+(Haemophilus_parasuis) 6.0 12.5 string
+(CUUAA---UUUGGUGUAGGC-UACCGUAU---AGUGCCG-------) 306.0 12.5 string
+(32) 588.0 12.5 string
+(Veillonella_parvula_ACS-068-V-Sch12) 6.0 21.0 string
+(ACAAAAAGAGCGGUAAAUCGCCACCAUAA---GAGCGAA-------) 306.0 21.0 string
+(36) 588.0 21.0 string
+(Leptotrichia_hofstadii_F0254) 6.0 29.5 string
+(UAAAAA-CAGGUGUUCCACUACCUUAA-----AAUGAAGGACA-GA) 306.0 29.5 string
+(39) 588.0 29.5 string
+(Leptotrichia_goodfellowii_F0264) 6.0 38.0 string
+(UAAAUU-CGGGUGUUCCACCACCUUUA-----AGUGAAGGGAC-UA) 306.0 38.0 string
+(39) 588.0 38.0 string
+(Clostridium_botulinum_BKT015925) 6.0 46.5 string
+(-AAAAAGUCAGUGAACCUCCACUGUAU-----AAGCGAGGAGC-UA) 306.0 46.5 string
+(39) 588.0 46.5 string
+(Clostridium_phage_D-1873) 6.0 55.0 string
+(UAAAAAGUCAGUGAGCCUCCACUGUAU-----AAGCGAGGAGC---) 306.0 55.0 string
+(38) 588.0 55.0 string
+(Finegoldia_magna_BVS033A4) 6.0 63.5 string
+(UAAAGA--AGGUGUCCCACUACCUAUAUC---AAAGGUGAAAC-AU) 306.0 63.5 string
+(40) 588.0 63.5 string
+(Lactobacillus_jensenii_208-1) 6.0 72.0 string
+(AAAGAG--GAGUGU-AUCUCAGCUC--UA---AGUGAGAAUU---A) 306.0 72.0 string
+(35) 588.0 72.0 string
+(Lactobacillus_jensenii_27-2-CHN) 6.0 80.5 string
+(AAAGAG--GAGUGU-AUCUCAGCUC--UA---AGUGAGAAUU---A) 306.0 80.5 string
+(35) 588.0 80.5 string
+(Fusobacterium_ulcerans_ATCC_49185) 6.0 89.0 string
+(AAAAAG--CGGUGU-ACCCUACCAU--CA---AGUGGGAGUU---A) 306.0 89.0 string
+(35) 588.0 89.0 string
+(Lactobacillus_jensenii_269-3) 6.0 97.5 string
+(UAAAAG--UCAGGUGAGCUCGGCCUUAUA---AGUGAGCGUU---A) 306.0 97.5 string
+(38) 588.0 97.5 string
+(Bacillus_cereus_Rock_1-15) 6.0 106.0 string
+(AAA-UU--UGGAGAGUCCAUGCCG---UA---AGUUGGGACCG-AU) 306.0 106.0 string
+(36) 588.0 106.0 string
+(Bryantella_formatexigens_DSM_14469) 6.0 114.5 string
+(AAA-AG--CGGUGAG-UCCUACUG---UA---AGU-GGAACCG-AU) 306.0 114.5 string
+(34) 588.0 114.5 string
+(Lactobacillus_gasseri_JV-V03) 6.0 123.0 string
+(AAA-GA--CGGUGUUUCCCAGCCA---CA---AGUGAGAAUCGAAU) 306.0 123.0 string
+(37) 588.0 123.0 string
+(Peptoniphilus_duerdenii_ATCC_BAA-1640) 6.0 131.5 string
+(AAA-AG--CGGUGUA-CGCAGCCA---UA---AAAUGCGAACU-AA) 306.0 131.5 string
+(35) 588.0 131.5 string
+(Eubacterium_yurii_subsp._margaretiae_ATCC_43715) 6.0 140.0 string
+(UAAAAGAGUAGGAGAACCCGAGCCUUAUA---AG-UGGGAGU----) 306.0 140.0 string
+(38) 588.0 140.0 string
+(Clostridium_sp._HGF2) 6.0 148.5 string
+(AAAAAGCGGUGUACUCUACCCUGGAGAAAUCUAAAAGUGAGAGCUA) 306.0 148.5 string
+(46) 588.0 148.5 string
+(Eubacterium_saphenum_ATCC_49989) 6.0 157.0 string
+(GUAAAGAGGGCGACCCGCUGCCGUGGAAACA-AAAAGG-UGGAACU) 306.0 157.0 string
+(44) 588.0 157.0 string
+(Eubacterium_rectale_DSM_17629) 6.0 165.5 string
+(UAUUCGGAGAGUCACUACCGUUAAGUGUGAGAUG-A-AAA------) 306.0 165.5 string
+(38) 588.0 165.5 string
+(Eubacterium_rectale_M104/1) 6.0 174.0 string
+(UAUUCGGAGAGUCACUACCGUUAAGUGUGAGAUG-A-AAA------) 306.0 174.0 string
+(38) 588.0 174.0 string
+(Taylorella_equigenitalis_MCE9) 6.0 182.5 string
+(--AUUGGUGA-CGUACUGCCUUAACGUACGGUUAAA-UUC------) 306.0 182.5 string
+(36) 588.0 182.5 string
+(Clostridium_nexile_DSM_1787) 6.0 191.0 string
+(U-AGGUGAG--UCUCCACCAUAAA--GAGGAAAC-C-UAAAAAAG-) 306.0 191.0 string
+(38) 588.0 191.0 string
+(Coprobacillus_sp._29_1) 6.0 199.5 string
+(U-AGGUGAG--UCUCCACCAUAAA--GAGGAAAC-C-UAAAAAAG-) 306.0 199.5 string
+(38) 588.0 199.5 string
+(Lachnospiraceae_bacterium_2_1_46FAA) 6.0 208.0 string
+(--AGGUGAG--UCUCCACCAUAAA--GAGAGAAC-C-UAAAAAAGC) 306.0 208.0 string
+(38) 588.0 208.0 string
+(Clostridium_cellulovorans_743B) 6.0 216.5 string
+(--GGUG-AG--GUCCUACCAUACAGUGGACAAUA----AAAAUUCA) 306.0 216.5 string
+(37) 588.0 216.5 string
+(Pectobacterium_atrosepticum_SCRI1039) 6.0 225.0 string
+(--AGGUGAU--UUGCUACCUUUAAGU---GCAGCUA-GAAAUUC--) 306.0 225.0 string
+(36) 588.0 225.0 string
+(Fusobacterium_sp._4_1_13) 6.0 233.5 string
+(--AGGUGUU--CCACCACCUCAAAAUGAAGCAGUUU-UAAAUUC--) 306.0 233.5 string
+(39) 588.0 233.5 string
+(Fusobacterium_sp._D12) 6.0 242.0 string
+(--AGGUGUU--CCACCACCUUAAAAUGAAGCAGUUA-UAAAUUC--) 306.0 242.0 string
+(39) 588.0 242.0 string
+(Fusobacterium_sp._3_1_5R) 6.0 250.5 string
+(--AGGUGUU--CCACCACCUUUAAAUGAAGCAGUUA-UAAAUUC--) 306.0 250.5 string
+(39) 588.0 250.5 string
+(Haemophilus_parasuis_SH0165) 6.0 259.0 string
+(--UGGUGAA---CGCUACCAUUAAAGUGCGAUGUAU-A----UG--) 306.0 259.0 string
+(34) 588.0 259.0 string
+(Treponema_vincentii_ATCC_35580) 6.0 267.5 string
+(--GUGAA-----CCCUACCGUAAAGUGG--AAUCCU-UAAAGCA--) 306.0 267.5 string
+(34) 588.0 267.5 string
+(Coprococcus_sp._ART55/1) 6.0 276.0 string
+(UACCAUACA----AAAAGGAACAA-UUUUAAUAU---GGAUGU-UC) 306.0 276.0 string
+(37) 588.0 276.0 string
+(Eubacterium_saburreum_DSM_3986) 6.0 284.5 string
+(AAAGGUGAA----GCAUUAAAGAAGGUGUCUCACUACCUAUAUCCC) 306.0 284.5 string
+(42) 588.0 284.5 string
+(Ruminococcus_sp._5_1_39B_FAA) 6.0 293.0 string
+(AGCGGUUAG----AGUGUC--CAACCAAAACAAU---CGAU-UAAA) 306.0 293.0 string
+(36) 588.0 293.0 string
+(Lactobacillus_kefiranofaciens_ZW3) 6.0 301.5 string
+(AUAGAGGCCACAGAGCCU-AUCAA-----------AACUGUUUUAU) 306.0 301.5 string
+(34) 588.0 301.5 string
+(Actinobacillus_ureae_ATCC_25976) 6.0 310.0 string
+(ACGCUAAAC-CGAUUUUACAUUCC-----------GACCAAGG---) 306.0 310.0 string
+(31) 588.0 310.0 string
+(.........10........20........30........40.....) 306.0 320.5 string
+0.6 setgray
+306.0 342.9 312.0 348.5 box2
+312.0 340.1 318.0 348.5 box2
+318.0 336.4 324.0 348.5 box2
+324.0 342.5 330.0 348.5 box2
+330.0 341.5 336.0 348.5 box2
+336.0 342.5 342.0 348.5 box2
+342.0 342.0 348.0 348.5 box2
+348.0 347.5 354.0 348.5 box2
+354.0 342.9 360.0 348.5 box2
+360.0 347.5 366.0 348.5 box2
+366.0 341.5 372.0 348.5 box2
+372.0 340.6 378.0 348.5 box2
+378.0 341.1 384.0 348.5 box2
+384.0 341.5 390.0 348.5 box2
+390.0 342.0 396.0 348.5 box2
+396.0 342.0 402.0 348.5 box2
+402.0 342.0 408.0 348.5 box2
+408.0 339.2 414.0 348.5 box2
+414.0 336.4 420.0 348.5 box2
+420.0 343.9 426.0 348.5 box2
+426.0 342.5 432.0 348.5 box2
+432.0 342.0 438.0 348.5 box2
+438.0 340.6 444.0 348.5 box2
+444.0 339.7 450.0 348.5 box2
+450.0 347.5 456.0 348.5 box2
+456.0 342.9 462.0 348.5 box2
+462.0 347.5 468.0 348.5 box2
+468.0 343.4 474.0 348.5 box2
+474.0 341.1 480.0 348.5 box2
+480.0 347.5 486.0 348.5 box2
+486.0 347.5 492.0 348.5 box2
+492.0 347.5 498.0 348.5 box2
+498.0 338.3 504.0 348.5 box2
+504.0 343.4 510.0 348.5 box2
+510.0 342.0 516.0 348.5 box2
+516.0 344.3 522.0 348.5 box2
+522.0 347.5 528.0 348.5 box2
+528.0 343.9 534.0 348.5 box2
+534.0 341.1 540.0 348.5 box2
+540.0 337.8 546.0 348.5 box2
+546.0 342.0 552.0 348.5 box2
+552.0 344.3 558.0 348.5 box2
+558.0 343.9 564.0 348.5 box2
+564.0 347.5 570.0 348.5 box2
+570.0 347.5 576.0 348.5 box2
+576.0 347.5 582.0 348.5 box2
+showpage
+end
+%%EOF

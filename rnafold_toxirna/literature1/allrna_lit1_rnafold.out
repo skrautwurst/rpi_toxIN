@@ -1,0 +1,252 @@
+>Actinobacillus_ureae_ATCC_25976
+ACGCUAAACCGAUUUUACAUUCCGACCAAGG
+.....................((......)) ( -0.30)
+.....................{{......}} [ -0.95]
+............................... {  0.00 d=1.99}
+......................(......). {  1.60 MEA=27.07}
+ frequency of mfe structure in ensemble 0.347667; ensemble diversity 2.97  
+>Bacillus_cereus_Rock_1-15
+AAAUUUGGAGAGUCCAUGCCGUAAGUUGGGACCGAU
+...........((((..((.....))..)))).... ( -5.70)
+.........,.((((..((.....))..))))}... [ -6.39]
+...........((((..((.....))..)))).... { -5.70 d=2.86}
+...........((((..((.....))..)))).... { -5.70 MEA=31.18}
+ frequency of mfe structure in ensemble 0.328278; ensemble diversity 4.85  
+>Bryantella_formatexigens_DSM_14469
+AAAAGCGGUGAGUCCUACUGUAAGUGGAACCGAU
+.....((((...(((.(((...)))))))))).. ( -7.40)
+.....((((...(((.(((...)))))))))).. [ -7.75]
+.....((((...(((.(((...)))))))))).. { -7.40 d=1.20}
+.....((((...(((.(((...)))))))))).. { -7.40 MEA=31.95}
+ frequency of mfe structure in ensemble 0.567546; ensemble diversity 2.07  
+>Clostridium_botulinum_BKT015925
+AAAAAGUCAGUGAACCUCCACUGUAUAAGCGAGGAGCUA
+.......(((((......)))))....(((.....))). ( -7.90)
+.......(((((......)))))..}.(((.....))). [ -8.60]
+.......(((((......)))))....(((.....))). { -7.90 d=1.29}
+.......(((((......)))))....(((.....))). { -7.90 MEA=36.56}
+ frequency of mfe structure in ensemble 0.319167; ensemble diversity 2.07  
+>Clostridium_cellulovorans_743B
+GGUGAGGUCCUACCAUACAGUGGACAAUAAAAAUUCA
+......((((.((......))))))............ ( -5.40)
+......((((.{(......)}))))............ [ -5.85]
+......((((.((......))))))............ { -5.40 d=2.04}
+......((((.((......))))))............ { -5.40 MEA=33.33}
+ frequency of mfe structure in ensemble 0.481802; ensemble diversity 3.46  
+>Clostridium_nexile_DSM_1787
+UAGGUGAGUCUCCACCAUAAAGAGGAAACCUAAAAAAG
+(((((...((((.........))))..)))))...... ( -6.90)
+(((((...((((.........)))}..)))))...... [ -7.33]
+(((((...((((.........))))..)))))...... { -6.90 d=3.54}
+(((((...((((.........))))..)))))...... { -6.90 MEA=32.68}
+ frequency of mfe structure in ensemble 0.500594; ensemble diversity 5.66  
+>Clostridium_phage_D-1873
+UAAAAAGUCAGUGAGCCUCCACUGUAUAAGCGAGGAGC
+........(((((......))))).....((.....)) ( -5.50)
+........(((((......)))))..,..|{.....}} [ -6.68]
+........(((((......))))).............. { -5.30 d=4.27}
+........(((((......))))).....(.......) { -0.60 MEA=30.09}
+ frequency of mfe structure in ensemble 0.147688; ensemble diversity 6.65  
+>Clostridium_sp._HGF2
+AAAAAGCGGUGUACUCUACCCUGGAGAAAUCUAAAAGUGAGAGCUA
+.............((((((..((((....))))...)).))))... ( -5.20)
+.......,,,,..((({||..((((....))))...}}}}}.)},. [ -6.84]
+.....................((((....))))............. { -1.60 d=7.53}
+.............((......((((....))))......)..)... {  5.20 MEA=31.82}
+ frequency of mfe structure in ensemble 0.0703161; ensemble diversity 12.14 
+>Coprobacillus_sp._29_1
+UAGGUGAGUCUCCACCAUAAAGAGGAAACCUAAAAAAG
+(((((...((((.........))))..)))))...... ( -6.90)
+(((((...((((.........)))}..)))))...... [ -7.33]
+(((((...((((.........))))..)))))...... { -6.90 d=3.54}
+(((((...((((.........))))..)))))...... { -6.90 MEA=32.68}
+ frequency of mfe structure in ensemble 0.500594; ensemble diversity 5.66  
+>Coprococcus_sp._ART55/1
+UACCAUACAAAAAGGAACAAUUUUAAUAUGGAUGUUC
+..(((((..((((.......))))..)))))...... ( -4.30)
+..(((((..((((.......))))..)))))...... [ -4.66]
+..(((((..((((.......))))..)))))...... { -4.30 d=2.86}
+..(((((..((((.......))))..)))))...... { -4.30 MEA=32.73}
+ frequency of mfe structure in ensemble 0.559288; ensemble diversity 4.82  
+>Eubacterium_rectale_DSM_17629
+UAUUCGGAGAGUCACUACCGUUAAGUGUGAGAUGAAAA
+..((((.....((((.((......))))))..)))).. ( -4.50)
+..((((.....((((.{{......))))))..)))}.. [ -5.20]
+..((((.....((((.((......))))))..)))).. { -4.50 d=3.51}
+..((((.....((((.((......))))))..)))).. { -4.50 MEA=32.33}
+ frequency of mfe structure in ensemble 0.320347; ensemble diversity 5.31  
+>Eubacterium_rectale_M104/1
+UAUUCGGAGAGUCACUACCGUUAAGUGUGAGAUGAAAA
+..((((.....((((.((......))))))..)))).. ( -4.50)
+..((((.....((((.{{......))))))..)))}.. [ -5.20]
+..((((.....((((.((......))))))..)))).. { -4.50 d=3.51}
+..((((.....((((.((......))))))..)))).. { -4.50 MEA=32.33}
+ frequency of mfe structure in ensemble 0.320347; ensemble diversity 5.31  
+>Eubacterium_saburreum_DSM_3986
+AAAGGUGAAGCAUUAAAGAAGGUGUCUCACUACCUAUAUCCC
+...(((((.(((((......))))).)))))........... ( -9.00)
+...(((((.(((((......))))).)))))........... [ -9.26]
+...(((((.(((((......))))).)))))........... { -9.00 d=0.82}
+...(((((.(((((......))))).)))))........... { -9.00 MEA=40.61}
+ frequency of mfe structure in ensemble 0.650945; ensemble diversity 1.48  
+>Eubacterium_saphenum_ATCC_49989
+GUAAAGAGGGCGACCCGCUGCCGUGGAAACAAAAAGGUGGAACU
+..............(((((....((....))....))))).... ( -7.90)
+........,,....(((((....((....)}....))))).... [ -8.46]
+..............(((((....((....))....))))).... { -7.90 d=5.58}
+..............(((((....((....))....))))).... { -7.90 MEA=35.58}
+ frequency of mfe structure in ensemble 0.4063; ensemble diversity 8.56  
+>Eubacterium_yurii_subsp._margaretiae_ATCC_43715
+UAAAAGAGUAGGAGAACCCGAGCCUUAUAAGUGGGAGU
+................((((...........))))... ( -2.80)
+.....,..,.,{....,||..,|||,......}}}... [ -3.94]
+...................................... {  0.00 d=5.19}
+.................((.............)).... {  0.50 MEA=28.05}
+ frequency of mfe structure in ensemble 0.156068; ensemble diversity 7.77  
+>Finegoldia_magna_BVS033A4
+UAAAGAAGGUGUCCCACUACCUAUAUCAAAGGUGAAACAU
+........((((..((((............))))..)))) ( -4.40)
+.......{(((,..|,,|||||.......,}))}...,.. [ -5.48]
+........................................ {  0.00 d=7.07}
+..........(......)(((.........)))....... {  4.40 MEA=26.72}
+ frequency of mfe structure in ensemble 0.173794; ensemble diversity 10.28 
+>Fusobacterium_sp._3_1_5R
+AGGUGUUCCACCACCUUUAAAUGAAGCAGUUAUAAAUUC
+(((((......)))))....................... ( -4.90)
+{((((......))))}....................... [ -5.41]
+(((((......)))))....................... { -4.90 d=2.98}
+(((((......)))))....................... { -4.90 MEA=34.02}
+ frequency of mfe structure in ensemble 0.435888; ensemble diversity 5.10  
+>Fusobacterium_sp._4_1_13
+AGGUGUUCCACCACCUCAAAAUGAAGCAGUUUUAAAUUC
+(((((......)))))....................... ( -4.90)
+{((((......))))}.,,,,{......,,},,...... [ -5.76]
+(((((......)))))....................... { -4.90 d=4.06}
+(((((......)))))....................... { -4.90 MEA=31.58}
+ frequency of mfe structure in ensemble 0.247015; ensemble diversity 5.92  
+>Fusobacterium_sp._D12
+AGGUGUUCCACCACCUUAAAAUGAAGCAGUUAUAAAUUC
+(((((......)))))....................... ( -4.90)
+{((((......))))}....................... [ -5.37]
+(((((......)))))....................... { -4.90 d=2.42}
+(((((......)))))....................... { -4.90 MEA=34.84}
+ frequency of mfe structure in ensemble 0.465392; ensemble diversity 4.22  
+>Fusobacterium_ulcerans_ATCC_49185
+AAAAAGCGGUGUACCCUACCAUCAAGUGGGAGUUA
+............(((((((......))))).)).. ( -5.90)
+............{{(((((......))))).}}.. [ -6.41]
+............(((((((......))))).)).. { -5.90 d=1.66}
+............(((((((......))))).)).. { -5.90 MEA=32.12}
+ frequency of mfe structure in ensemble 0.437085; ensemble diversity 2.43  
+>Haemophilus_parasuis
+CUUAAUUUGGUGUAGGCUACCGUAUAGUGCCG
+..............(((.((......))))). ( -4.20)
+........,,,...{((.{{......}}))). [ -4.85]
+..............(((...........))). { -3.60 d=4.91}
+..............(((...........))). { -3.60 MEA=23.48}
+ frequency of mfe structure in ensemble 0.346023; ensemble diversity 7.40  
+>Haemophilus_parasuis_SH0165
+UGGUGAACGCUACCAUUAAAGUGCGAUGUAUAUG
+(((((.....)))))................... ( -3.50)
+{((((.....))))}.....{{{{...,,,,... [ -4.38]
+(((((.....)))))................... { -3.50 d=4.05}
+(((((.....)))))................... { -3.50 MEA=26.41}
+ frequency of mfe structure in ensemble 0.239807; ensemble diversity 5.76  
+>Lachnospiraceae_bacterium_2_1_46FAA
+AGGUGAGUCUCCACCAUAAAGAGAGAACCUAAAAAAGC
+((((...((((.........))))..))))........ ( -7.10)
+((((...((((.........))))..))))........ [ -7.35]
+((((...((((.........))))..))))........ { -7.10 d=2.15}
+((((...((((.........))))..))))........ { -7.10 MEA=35.00}
+ frequency of mfe structure in ensemble 0.662415; ensemble diversity 3.61  
+>Lactobacillus_gasseri_JV-V03
+AAAGACGGUGUUUCCCAGCCACAAGUGAGAAUCGAAU
+.....((((.((((.(........).))))))))... ( -3.20)
+.....((((.{(((.{........}.)})}))))... [ -3.94]
+.....((((..(((............))).))))... { -0.90 d=5.32}
+.....((((.((((.(........).))))))))... { -3.20 MEA=28.29}
+ frequency of mfe structure in ensemble 0.29966; ensemble diversity 7.50  
+>Lactobacillus_jensenii_208-1
+AAAGAGGAGUGUAUCUCAGCUCUAAGUGAGAAUUA
+.....(((((........)))))............ ( -5.00)
+.....{{{{....,|||..||},...,,},..... [ -5.97]
+................................... {  0.00 d=5.88}
+................................... {  0.00 MEA=23.25}
+ frequency of mfe structure in ensemble 0.206923; ensemble diversity 9.12  
+>Lactobacillus_jensenii_269-3
+UAAAAGUCAGGUGAGCUCGGCCUUAUAAGUGAGCGUUA
+..............(((((..........))))).... ( -5.30)
+............,.(((((.........,))))).... [ -6.03]
+..............(((((..........))))).... { -5.30 d=2.23}
+..............(((((..........))))).... { -5.30 MEA=33.84}
+ frequency of mfe structure in ensemble 0.307907; ensemble diversity 3.87  
+>Lactobacillus_jensenii_27-2-CHN
+AAAGAGGAGUGUAUCUCAGCUCUAAGUGAGAAUUA
+.....(((((........)))))............ ( -5.00)
+.....{{{{....,|||..||},...,,},..... [ -5.97]
+................................... {  0.00 d=5.88}
+................................... {  0.00 MEA=23.25}
+ frequency of mfe structure in ensemble 0.206923; ensemble diversity 9.12  
+>Lactobacillus_kefiranofaciens_ZW3
+AUAGAGGCCACAGAGCCUAUCAAAACUGUUUUAU
+....((((......))))................ ( -5.00)
+....((((......))))................ [ -5.25]
+....((((......))))................ { -5.00 d=0.77}
+....((((......))))................ { -5.00 MEA=32.50}
+ frequency of mfe structure in ensemble 0.665695; ensemble diversity 1.46  
+>Leptotrichia_goodfellowii_F0264
+UAAAUUCGGGUGUUCCACCACCUUUAAGUGAAGGGACUA
+...........(((((..(((......)))..))))).. ( -8.40)
+...........(((((..(((......)))..))))).. [ -8.66]
+...........(((((..(((......)))..))))).. { -8.40 d=4.89}
+...........(((((..(((......)))..))))).. { -8.40 MEA=31.21}
+ frequency of mfe structure in ensemble 0.656039; ensemble diversity 7.52  
+>Leptotrichia_hofstadii_F0254
+UAAAAACAGGUGUUCCACUACCUUAAAAUGAAGGACAGA
+........((((...)))).((((......))))..... ( -4.00)
+........((((...},}}.{(({......}}))..... [ -4.68]
+....................((((......))))..... { -2.50 d=5.25}
+........((((...)))).((((......))))..... { -4.00 MEA=30.34}
+ frequency of mfe structure in ensemble 0.330604; ensemble diversity 7.19  
+>Pectobacterium_atrosepticum_SCRI1039
+AGGUGAUUUGCUACCUUUAAGUGCAGCUAGAAAUUC
+(((((......))))).................... ( -3.30)
+,((({...,,.}}}}}...,|,..,,,,........ [ -4.27]
+.((((......))))..................... { -2.60 d=6.02}
+.((((......))))..................... { -2.60 MEA=25.12}
+ frequency of mfe structure in ensemble 0.205845; ensemble diversity 9.34  
+>Peptoniphilus_duerdenii_ATCC_BAA-1640
+AAAAGCGGUGUACGCAGCCAUAAAAUGCGAACUAA
+.........((.((((.........)))).))... ( -4.90)
+......,..,,.((((.........)))).}}... [ -5.48]
+............((((.........))))...... { -3.80 d=3.87}
+............((((.........))))...... { -3.80 MEA=28.43}
+ frequency of mfe structure in ensemble 0.392175; ensemble diversity 5.57  
+>Ruminococcus_sp._5_1_39B_FAA
+AGCGGUUAGAGUGUCCAACCAAAACAAUCGAUUAAA
+...((((.((...)).))))................ ( -3.20)
+...((((.(,...}}.))))................ [ -3.75]
+...((((.(.....).))))................ { -2.50 d=3.24}
+...((((.(.....).))))................ { -2.50 MEA=30.59}
+ frequency of mfe structure in ensemble 0.409496; ensemble diversity 4.91  
+>Taylorella_equigenitalis_MCE9
+AUUGGUGACGUACUGCCUUAACGUACGGUUAAAUUC
+........(((((.........)))))......... ( -4.70)
+.....{,.(((((.,.....,,))))},}}}..... [ -5.78]
+........(((((.........)))))......... { -4.70 d=5.48}
+........(((((.........)))))......... { -4.70 MEA=25.39}
+ frequency of mfe structure in ensemble 0.172203; ensemble diversity 8.28  
+>Treponema_vincentii_ATCC_35580
+GUGAACCCUACCGUAAAGUGGAAUCCUUAAAGCA
+.......((((......))))............. ( -2.40)
+.......((((......))))............. [ -2.79]
+.......((((......))))............. { -2.40 d=2.49}
+.......((((......))))............. { -2.40 MEA=30.04}
+ frequency of mfe structure in ensemble 0.529998; ensemble diversity 4.03  
+>Veillonella_parvula_ACS-068-V-Sch12
+ACAAAAAGAGCGGUAAAUCGCCACCAUAAGAGCGAA
+.................(((((.......).)))). ( -3.50)
+.........,,{.....{||||.......,.}}},. [ -4.33]
+.................................... {  0.00 d=4.31}
+..................(((..........))).. { -1.80 MEA=28.70}
+ frequency of mfe structure in ensemble 0.261085; ensemble diversity 5.39  

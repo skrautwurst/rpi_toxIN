@@ -1,0 +1,7 @@
+725,YP_271719.1,Haemophilus_influenzae_biotype_aegyptius_pF1947
+1358,NP_862552.1,Lactococcus_lactis_subsp_lactis_W-37_pSRQ900
+29339,AAZ06636.1,Bacillus_thuringiensis_serovar_kurstaki_HD73_pAW63
+29471,FJ176937.1,Erwinia_carotovora_subsp_atroseptica_1039_pECA1039
+281309,CP000047.1,Bacillus_thuringiensis_serovar_konkukian_97-27_pBT9727
+315730,YP_001642731.1,Bacillus_weihenstephanensis_KBAB4_pBWB402
+350688,YP_001513384.1,Alkaliphilus_oremlandii_OhILAs

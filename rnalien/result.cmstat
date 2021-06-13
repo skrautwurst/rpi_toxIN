@@ -1,0 +1,11 @@
+# cmstat :: display summary statistics for CMs
+# INFERNAL 1.1.1 (July 2014)
+# Copyright (C) 2014 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+#                                                                                              rel entropy
+#                                                                                             ------------
+# idx   name                  accession      nseq  eff_nseq   clen      W   bps  bifs  model     cm    hmm
+# ----  --------------------  ---------  --------  --------  -----  -----  ----  ----  -----  -----  -----
+     1  newstructuremodel     -                 9      6.68     35     49     9     0     cm  1.551  1.470
+#

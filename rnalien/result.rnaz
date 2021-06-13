@@ -1,0 +1,45 @@
+
+############################  RNAz 2.1  ##############################
+
+ Sequences: 6
+ Columns: 35
+ Reading direction: forward
+ Mean pairwise identity:  96.19
+ Shannon entropy: 0.07429
+ G+C content: 0.40196
+ Mean single sequence MFE:  -7.03
+ Consensus MFE:  -6.21
+ Energy contribution:  -6.10
+ Covariance contribution:  -0.11
+ Combinations/Pair:   1.22
+ Mean z-score:  -0.65
+ Structure conservation index:   0.88
+ Background model: dinucleotide
+ Decision model: structural RNA alignment quality
+ SVM decision value:  -1.21
+ SVM RNA-class probability: 0.036525
+ Prediction: OTHER
+
+######################################################################
+
+>toxin
+-AAAUUGGUGUAGCCUUACCGUAGUAGGCACAAAA
+-.......(((.((((.((....)))))))))... (  -7.00, z-score =  -0.67, S)
+>CP024122-1-c6886-6852
+AAAAUUGGUGUAGCCUUACCGUAGUAGGCACAAAA
+........(((.((((.((....)))))))))... (  -7.00, z-score =  -0.73, S)
+>CP020746-1-c82934-82900
+AAAAUUGGUGUAGCCUUACCGUAGUAGGCACAAAA
+........(((.((((.((....)))))))))... (  -7.00, z-score =  -0.73, S)
+>CP000905-1-47241-47276
+AAAAUUGGUGUAGCCUUACCGUAGUAGGCACAAAA
+........(((.((((.((....)))))))))... (  -7.00, z-score =  -0.61, S)
+>CP007610-1-7445-7479
+AAAAUUGGUGUAGCCUUACCGUAGUAGGCAUAAAA
+............((((.((....))))))...... (  -5.80, z-score =  -0.36, S)
+>CP024687-1-50914-50948
+AAAAUUGGUGUAGCCUUACCGUAGUAGGCGCUAAA
+..........(((((((((....))))).)))).. (  -8.40, z-score =  -0.82, S)
+>consensus
+AAAAUUGGUGUAGCCUUACCGUAGUAGGCACAAAA
+........(((.((((.((....)))))))))... ( -6.21 =  -6.10 +  -0.11) 

@@ -1,0 +1,16 @@
+Input structure constraints using the following notation:
+| : paired with another base
+. : no constraint at all
+x : base must not pair
+< : base i is paired downstream with a base i < j
+> : base i is paired upstream with a base j < i
+matching brackets ( ): base i pairs base j
+
+; Ctrl-c to quit
+....,....1....,....2....,....3....,....4....,....5....,....6....,....7....,....8
+AWWgBHGGKGgauuyCSCY-MCCUUWa-aAGWGSSRRBYWWaa---
+.....((((...........))))...................... ( -4.45 =  -1.85 +  -2.60)
+.....((((...........))))...................... [ -4.61]
+.....((((...........))))...................... { -4.45 =  -1.85 +  -2.60 d=0.23}
+.....((((...........))))...................... { -4.45 =  -1.85 +  -2.60 MEA=45.54}
+ frequency of mfe structure in ensemble 0.988691; ensemble diversity 0.37  

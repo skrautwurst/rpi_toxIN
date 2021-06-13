@@ -1,0 +1,35 @@
+# STOCKHOLM 1.0
+#=GF ID newstructuremodel
+#=GF AU Infernal 1.1.1
+
+#=GS CP024122.1:c6886-6852   WT 0.96
+#=GS CP024687.1:50914-50948  WT 1.01
+#=GS CP001748.1:c88914-88880 WT 1.08
+#=GS CP020746.1:c82934-82900 WT 0.96
+#=GS CP007610.1:7445-7479    WT 0.98
+#=GS CP024687.1:50913-50948  WT 1.01
+#=GS CP001748.1:c88915-88880 WT 1.08
+#=GS CP000905.1:47241-47276  WT 0.96
+#=GS toxin                   WT 0.96
+
+#=GS CP024122.1:c6886-6852   DE Bacillus cytotoxicus strain CH_1 plasmid pCh1_67, complete sequence
+#=GS CP024687.1:50914-50948  DE Bacillus wiedmannii bv. thuringiensis strain FCC41 plasmid pFCC41-3-257K, complete sequencecmS_1_35_'+'
+#=GS CP001748.1:c88914-88880 DE Bacillus cereus biovar anthracis str. CI plasmid pCI-XO2, complete sequencecmS_1_35_'+'
+#=GS CP020746.1:c82934-82900 DE Bacillus mycoides strain Gnyt1 plasmid unnamed3, complete sequencecmS_1_35_'+'
+#=GS CP007610.1:7445-7479    DE Bacillus thuringiensis serovar kurstaki str. YBT-1520 plasmid pBMB8240, complete sequencecmS_1_35_'+'
+#=GS CP024687.1:50913-50948  DE Bacillus wiedmannii bv. thuringiensis strain FCC41 plasmid pFCC41-3-257K, complete sequencecmS_2_36_'+'
+#=GS CP001748.1:c88915-88880 DE Bacillus cereus biovar anthracis str. CI plasmid pCI-XO2, complete sequencecmS_2_36_'+'
+#=GS CP000905.1:47241-47276  DE Bacillus weihenstephanensis KBAB4 plasmid pBWB402, complete genomecmS_2_36_'+'
+
+CP024122.1:c6886-6852   AAAAUUGGUGUAGCCUUACCGUAGUAGGCACAAAA
+CP024687.1:50914-50948  AAAAUUGGUGUAGCCUUACCGUAGUAGGCGCUAAA
+CP001748.1:c88914-88880 AAAAUUGGUGUAGCCUUACCGUAGUAGGCAUUCAU
+CP020746.1:c82934-82900 AAAAUUGGUGUAGCCUUACCGUAGUAGGCACAAAA
+CP007610.1:7445-7479    AAAAUUGGUGUAGCCUUACCGUAGUAGGCAUAAAA
+CP024687.1:50913-50948  AAAAUUGGUGUAGCCUUACCGUAGUAGGCGCUAAA
+CP001748.1:c88915-88880 AAAAUUGGUGUAGCCUUACCGUAGUAGGCAUUCAU
+CP000905.1:47241-47276  AAAAUUGGUGUAGCCUUACCGUAGUAGGCACAAAA
+toxin                   -AAAUUGGUGUAGCCUUACCGUAGUAGGCACAAAA
+#=GC SS_cons            ::::::::<<<-<<<<-<<____>>>>>>>>>:::
+#=GC RF                 AAAAUUGGuGUAGCCUUACCGUAGUAGGCACaAAA
+//

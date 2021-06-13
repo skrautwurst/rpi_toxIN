@@ -1,0 +1,77 @@
+>YP_001513384|Alkaliphilus_oremlandii_OhILAs
+UAAUUCAAGGUAUUUCGCAACCUUCUAAAAAUGCGACUUG
+.....((((.....(((((............))))))))) ( -4.60)
+.....,{((.....(((((............)))))}}}} [ -5.27]
+..............(((((............))))).... { -4.10 d=3.94}
+......(((.....(((((............)))))))). { -2.70 MEA=32.95}
+ frequency of mfe structure in ensemble 0.338472; ensemble diversity 5.50  
+>CP000047|Bacillus_thuringiensis_serovar_konkukian_97-27_pBT9727
+GAUAGGAGCAGUUUUUCGGAGUACGCUCGGCUAAAUAAAAAACCGAUACUU
+..................(((((...((((............))))))))) ( -5.10)
+....,{{,,..,.,,,,.{{{{{..,||{{............))}}}}}}, [ -6.49]
+...................((((...((((............)))))))). { -4.10 d=8.52}
+..................(((((...((((............))))))))) { -5.10 MEA=35.79}
+ frequency of mfe structure in ensemble 0.104034; ensemble diversity 12.59 
+>AAZ06636|Bacillus_thuringiensis_serovar_kurstaki_HD73_pAW63
+GUAACCUUACCGUAGUAGGUGCUAAAAAAUUGGU
+...((((.((....))))))(((((....))))) ( -4.20)
+...{(({,((....))))))|{{{,....,}}}} [ -5.65]
+...(((..((....)).))).(((......))). {  0.00 d=6.12}
+...((((.((....))))))((((......)))) { -3.70 MEA=24.03}
+ frequency of mfe structure in ensemble 0.0948186; ensemble diversity 8.31  
+>YP_001642731|Bacillus_weihenstephanensis_KBAB4_pBWB402
+GUAGCCUUACCGUAGUAGGCACAAAAAAAUUGGU
+((.((((.((....))))))))............ ( -6.10)
+((.((({,((....))))))))............ [ -6.91]
+((.((((.((....))))))))............ { -6.10 d=2.09}
+((.((((.((....))))))))............ { -6.10 MEA=30.36}
+ frequency of mfe structure in ensemble 0.270324; ensemble diversity 2.96  
+>FJ176937|Erwinia_carotovora_subsp_atroseptica_1039_pECA1039
+AGGUGAUUUGCUACCUUUAAGUGCAGCUAGAAAUUC
+(((((......))))).................... ( -3.30)
+,((({...,,.}}}}}...,|,..,,,,........ [ -4.27]
+.((((......))))..................... { -2.60 d=6.02}
+.((((......))))..................... { -2.60 MEA=25.12}
+ frequency of mfe structure in ensemble 0.205845; ensemble diversity 9.34  
+>ZP_02272649|Fusobacterium_nucleatum_subsp_polymorphum_ATCC10953
+AAAAAGCGGAAAACCCUGCCGUUAAGUGGGAGUUA
+...........((((((((......))))).))). ( -6.30)
+...........((((((((......))))).))). [ -6.54]
+...........((((((((......))))).))). { -6.30 d=1.89}
+...........((((((((......))))).))). { -6.30 MEA=31.80}
+ frequency of mfe structure in ensemble 0.680743; ensemble diversity 3.28  
+>YP_271719|Haemophilus_influenzae_biotype_aegyptius_pF1947
+GGCGCAAGCUGCCAUAAGUGCUACUUAAUCA
+((((.....)))).(((((...))))).... ( -5.20)
+((((.....}))).{((({...})))}.... [ -5.91]
+((((.....)))).(((((...))))).... { -5.20 d=3.31}
+((((.....)))).(((((...))))).... { -5.20 MEA=25.33}
+ frequency of mfe structure in ensemble 0.313751; ensemble diversity 4.92  
+>ZP_00133190|Histophilus_somni_2336
+GGCGCAAGCUGCCAUAAGUGCUACUUAAUCA
+((((.....)))).(((((...))))).... ( -5.20)
+((((.....}))).{((({...})))}.... [ -5.91]
+((((.....)))).(((((...))))).... { -5.20 d=3.31}
+((((.....)))).(((((...))))).... { -5.20 MEA=25.33}
+ frequency of mfe structure in ensemble 0.313751; ensemble diversity 4.92  
+>NP_862552|Lactococcus_lactis_subsp_lactis_W-37_pSRQ900
+UAUCCAAGCCAUAGUUGGAAUUGAUAAAAUUGGAG
+((((....(((....)))....))))......... ( -4.60)
+,{(({{,.(((....)))..,.}}},......... [ -5.50]
+.((.....(((....))).....)).......... {  0.00 d=5.67}
+.(((....(((....)))....))).......... { -3.30 MEA=25.27}
+ frequency of mfe structure in ensemble 0.230594; ensemble diversity 8.15  
+>ZP_01968975|Ruminococcus_torques_ATCC_27756
+AGGUGAGUCUCCACCAUAAAGAGAGAACCUAAAAAAGC
+((((...((((.........))))..))))........ ( -7.10)
+((((...((((.........))))..))))........ [ -7.35]
+((((...((((.........))))..))))........ { -7.10 d=2.15}
+((((...((((.........))))..))))........ { -7.10 MEA=35.00}
+ frequency of mfe structure in ensemble 0.662415; ensemble diversity 3.61  
+>ZP_01667702|Thermosinus_carboxydivorans_Nor1
+AAAAAAGCGGGGAAACCUCGCCCCUAAACUGAGGAUG
+......((((((...)))))).(((......)))... (-10.30)
+......((((((...)))))).(((......)))... [-10.55]
+......((((((...)))))).(((......)))... {-10.30 d=1.52}
+......((((((...)))))).(((......)))... {-10.30 MEA=34.86}
+ frequency of mfe structure in ensemble 0.670831; ensemble diversity 2.56  

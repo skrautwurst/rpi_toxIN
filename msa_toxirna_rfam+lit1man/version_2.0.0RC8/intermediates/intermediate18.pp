@@ -1,0 +1,54 @@
+#PP 2.0
+
+AAEP01000052.1/71937-71904_Bacillus_anthracis_str._Vollum_cont82,_whole_genome_shotgun_sequence.                      AAAUUGGUGUAGCCUUACCGUAGUAGGCAUUCAU
+AE017335.3/88384-88351_Bacillus_anthracis_str._'Ames_Ancestor'_plasmid_pXO2,_complete_sequence.                       AAAUUGGUGUAGCCUUACCGUAGUAGGCAUUCAU
+AAJM01000236.1/1478-1445_Bacillus_thuringiensis_serovar_israelensis_ATCC_35646_sq1898,_whole_genome_shotgun_sequence. AAAUUGGUGUAUCCUUACCCUAGUAGGAACAAAA
+ACNL01000295.1/1429-1396_Bacillus_thuringiensis_IBL_4222_contig00548,_whole_genome_shotgun_sequence.                  AAAUUGGUGUAUCCUUACCCUAGUAGGAACAAAA
+CP000905.1/47243-47276_Bacillus_weihenstephanensis_KBAB4_plasmid_pBWB402,_complete_genome.                            AAAUUGGUGUAGCCUUACCGUAGUAGGCACAAAA
+DQ025752.1/63481-63448_Bacillus_thuringiensis_serovar_kurstaki_plasmid_pAW63,_complete_sequence.                      AAAUUGGUGUAGCCUUACCGUAGUAGGCGCUAAA
+
+#END
+
+#SECTION BASEPAIRS
+
+#BPCUT 0.001
+
+17 24 0.7797
+16 25 0.4412
+18 23 0.788
+16 22 0.001945
+15 25 0.4285
+14 27 0.03913
+14 26 0.738
+12 28 0.7271
+11 16 0.001109
+10 29 0.2209
+10 17 0.001123
+9 32 0.00139
+6 21 0.001024
+7 34 0.001316
+6 19 0.01207
+5 33 0.0375
+5 32 0.003929
+4 34 0.002154
+5 22 0.001059
+9 16 0.01164
+3 24 0.001035
+8 33 0.001375
+6 32 0.001367
+4 33 0.01166
+7 20 0.001023
+4 23 0.001052
+8 17 0.01226
+7 18 0.01227
+17 21 0.001709
+15 26 0.04896
+13 27 0.7409
+7 30 0.02529
+7 31 0.001273
+8 29 0.02779
+8 31 0.008008
+9 18 0.001123
+9 30 0.2184
+
+#END

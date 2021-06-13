@@ -1,0 +1,147 @@
+%!PS-Adobe-3.0 EPSF-3.0
+%%Creator: ViennaRNA-2.4.13
+%%CreationDate: Mon Nov 30 12:25:18 2020
+%%Title: ViennaRNA Package - Alignment
+%%BoundingBox: 0 0 600 100
+%%DocumentFonts: Helvetica
+%%Pages: 1
+%%EndComments
+
+% Program options: 
+
+/ALNdict 100 dict def
+
+ALNdict begin
+
+%%BeginProlog
+
+% draws Vienna RNA like colored boxes
+/box { % x1 y1 x2 y2 hue saturation
+  gsave
+  dup 0.3 mul 1 exch sub sethsbcolor
+  exch 3 index sub exch 2 index sub rectfill
+  grestore
+} def
+% draws a box in current color
+/box2 { % x1 y1 x2 y2
+  exch 3 index sub exch 2 index sub rectfill
+} def
+/string { % (Text) x y
+ 6 add
+ moveto
+  show
+} def
+
+%%EndProlog
+
+0 100 translate
+1 -1 scale
+/Courier findfont
+[10 0 0 -10 0 0] makefont setfont
+348.0 11.5 354.0 20.0 0.48 0.6 box
+348.0 20.0 354.0 28.5 0.48 0.6 box
+348.0 28.5 354.0 37.0 0.48 0.6 box
+348.0 45.5 354.0 54.0 0.48 0.6 box
+348.0 54.0 354.0 62.5 0.48 0.6 box
+438.0 11.5 444.0 20.0 0.48 0.6 box
+438.0 20.0 444.0 28.5 0.48 0.6 box
+438.0 28.5 444.0 37.0 0.48 0.6 box
+438.0 45.5 444.0 54.0 0.48 0.6 box
+438.0 54.0 444.0 62.5 0.48 0.6 box
+354.0 11.5 360.0 20.0 0.16 1 box
+354.0 20.0 360.0 28.5 0.16 1 box
+354.0 28.5 360.0 37.0 0.16 1 box
+354.0 37.0 360.0 45.5 0.16 1 box
+354.0 45.5 360.0 54.0 0.16 1 box
+354.0 54.0 360.0 62.5 0.16 1 box
+432.0 11.5 438.0 20.0 0.16 1 box
+432.0 20.0 438.0 28.5 0.16 1 box
+432.0 28.5 438.0 37.0 0.16 1 box
+432.0 37.0 438.0 45.5 0.16 1 box
+432.0 45.5 438.0 54.0 0.16 1 box
+432.0 54.0 438.0 62.5 0.16 1 box
+360.0 11.5 366.0 20.0 0.16 0.6 box
+360.0 20.0 366.0 28.5 0.16 0.6 box
+360.0 28.5 366.0 37.0 0.16 0.6 box
+360.0 45.5 366.0 54.0 0.16 0.6 box
+360.0 54.0 366.0 62.5 0.16 0.6 box
+426.0 11.5 432.0 20.0 0.16 0.6 box
+426.0 20.0 432.0 28.5 0.16 0.6 box
+426.0 28.5 432.0 37.0 0.16 0.6 box
+426.0 45.5 432.0 54.0 0.16 0.6 box
+426.0 54.0 432.0 62.5 0.16 0.6 box
+366.0 11.5 372.0 20.0 0.16 0.6 box
+366.0 20.0 372.0 28.5 0.16 0.6 box
+366.0 28.5 372.0 37.0 0.16 0.6 box
+366.0 45.5 372.0 54.0 0.16 0.6 box
+366.0 54.0 372.0 62.5 0.16 0.6 box
+420.0 11.5 426.0 20.0 0.16 0.6 box
+420.0 20.0 426.0 28.5 0.16 0.6 box
+420.0 28.5 426.0 37.0 0.16 0.6 box
+420.0 45.5 426.0 54.0 0.16 0.6 box
+420.0 54.0 426.0 62.5 0.16 0.6 box
+0 setgray
+(....\(\(\(\(\(........\)\)\)\)\)..................) 318.0 2.0 string
+(Clostridium_cellulovorans_743B) 6.0 12.5 string
+(AUUCAGGUGA--GGUCCUACCA-UACAGUGGACAAUAAAA) 318.0 12.5 string
+(37) 564.0 12.5 string
+(2XD0_2_Pectobacterium_atrosepticum) 6.0 21.0 string
+(AUUCAGGUGA--UUUGCUACCU-UUAAGUGCAG-CUAGAA) 318.0 21.0 string
+(36) 564.0 21.0 string
+(WP_012159700|Alkaliphilus_oremlandii_OhILAs(lit2)) 6.0 29.5 string
+(AUUCAAGGUAUUUCGCAACCUUCUAAAAAUGCGACUUGUA) 318.0 29.5 string
+(40) 564.0 29.5 string
+(4ATO_2_Bacillus_thuringiensis) 6.0 38.0 string
+(AAAUUGGUGUAACC-UUACCGU-AGUAGGU----GCUAAA) 318.0 38.0 string
+(34) 564.0 38.0 string
+(Glaesserella_[Haemophilus]_parasuis_SH0165(lit1)) 6.0 46.5 string
+(AUAUGUGGUGAACG-CUACCAU-UAAAGUG----CGAUGU) 318.0 46.5 string
+(34) 564.0 46.5 string
+(Clostridium_botulinum_BKT015925) 6.0 55.0 string
+(AAAGUCAGUGAACCUCCACUGU-AUAAGCGAGGAGCUAAA) 318.0 55.0 string
+(39) 564.0 55.0 string
+(.........10........20........30.........) 318.0 65.5 string
+0.6 setgray
+318.0 77.2 324.0 93.5 box2
+324.0 83.8 330.0 93.5 box2
+330.0 87.0 336.0 93.5 box2
+336.0 87.0 342.0 93.5 box2
+342.0 87.0 348.0 93.5 box2
+348.0 87.0 354.0 93.5 box2
+354.0 80.5 360.0 93.5 box2
+360.0 87.0 366.0 93.5 box2
+366.0 87.0 372.0 93.5 box2
+372.0 87.0 378.0 93.5 box2
+378.0 87.0 384.0 93.5 box2
+384.0 87.0 390.0 93.5 box2
+390.0 87.0 396.0 93.5 box2
+396.0 87.0 402.0 93.5 box2
+402.0 87.0 408.0 93.5 box2
+408.0 83.8 414.0 93.5 box2
+414.0 87.0 420.0 93.5 box2
+420.0 83.8 426.0 93.5 box2
+426.0 83.8 432.0 93.5 box2
+432.0 80.5 438.0 93.5 box2
+438.0 90.2 444.0 93.5 box2
+444.0 80.5 450.0 93.5 box2
+450.0 92.5 456.0 93.5 box2
+456.0 83.8 462.0 93.5 box2
+462.0 87.0 468.0 93.5 box2
+468.0 83.8 474.0 93.5 box2
+474.0 77.2 480.0 93.5 box2
+480.0 80.5 486.0 93.5 box2
+486.0 87.0 492.0 93.5 box2
+492.0 83.8 498.0 93.5 box2
+498.0 92.5 504.0 93.5 box2
+504.0 92.5 510.0 93.5 box2
+510.0 87.0 516.0 93.5 box2
+516.0 92.5 522.0 93.5 box2
+522.0 87.0 528.0 93.5 box2
+528.0 87.0 534.0 93.5 box2
+534.0 87.0 540.0 93.5 box2
+540.0 87.0 546.0 93.5 box2
+546.0 83.8 552.0 93.5 box2
+552.0 80.5 558.0 93.5 box2
+showpage
+end
+%%EOF

@@ -1,0 +1,19 @@
+# STOCKHOLM 1.0
+#=GF SQ 6
+WP_012159700.1_Alkaliphilus_oremlandii ------MRLVIQSEL-GFFLTHF--FMGRETMDKLKFYEINTNYIQYLKKYDHRVPNIDY--KEHNKFLCGVVLDVNGNKYYAPVSSLCK-------EQQTN------FIIK--NN---KGKSIASLRLSFMLPVPDRVLT---IKNFKDEDYKYRRLLMEELKYLVF----------------------------------------C-----QENGQ----------------------------------------
+#=GS WP_012159700.1_Alkaliphilus_oremlandii AC WP_012159700.1_Alkaliphilus_oremlandii
+WP_000182255.1_Bacillus_thuringiensis ----------------------------MTNKDNPKLYNISTEYIDYLREADSKVPFNKD--EQHSRPYVGVLERISGHDYFVPLTS------------RNDKNFNSQVSVKLFDN---DEKRIGVLLVNNMIPVPEKECKEIDIAEKTAADPQYGNLMLKQYLFLKE--NMDRVTNK-VEKVYKDVTVQGKPSHKQKFLK----GVCCDFTKLEEKCQEYKGRDQAKE------RDKARRMAYMRQMGRER-------
+#=GS WP_000182255.1_Bacillus_thuringiensis AC WP_000182255.1_Bacillus_thuringiensis
+#=GS WP_000182255.1_Bacillus_thuringiensis DE ____________________________________________________+++_*_!_______!__________________!!____________!______________________________+_______________________*______*___________*__**___*_____________*_______________________________________________________________
+#=GR WP_000182255.1_Bacillus_thuringiensis AS ____________________________________________________+++_*_!_______!__________________!!____________!______________________________+_______________________*______*___________*__**___*_____________*_______________________________________________________________
+WP_052306562.1_Clostridium_botulinum --------------------------------MGIKIYMIDSNYITYLRSFDTNVALNKK-IHEGIRKYTGIVFHVNDFKYFAPMSS-PK-------QKHKNISDEQIDCVK------IKKGQLGVVNLNNMIPVCDENLLPFHI-N--EQEESYKNLLFNQFKYLNK--SKQEVKDK-ARKLYSIVN-----SGKHKKIS----NRCCNFKLLEQKCMEYQYVKESFD------EAAVNITTYKE-------------
+#=GS WP_052306562.1_Clostridium_botulinum AC WP_052306562.1_Clostridium_botulinum
+D9SKR8_CLOC7_Clostridium_cellulovorans MDNKNSGEVLPNSGLSGGYITTFCVILGRYFFMCVSIYTVNTDYIEFLRSVDSRVLENEK-NFGNLRKYVGVLFKINNYDYFVPLSS-PKPSDYVYMDGFKTIRHSVVPIYRIIETSEDKINFLGKLKFSSMIPAPPSQLTLLDITSLTED---YKTLIFNQIRHIRK--KLTVLQNRHAKVIYN--------QKKANYANINYLNDTVDFKKLEQAMELFIKKDIITDKKLSLTETAAASADMNENNGQSSQSFNPQD
+#=GS D9SKR8_CLOC7_Clostridium_cellulovorans AC D9SKR8_CLOC7_Clostridium_cellulovorans
+WP_012621620.1_Glaesserella_parasuis ----------------------------MKQELQLKLCRINPEYTKFLHSIDTRISPEKELDKNKRRIFVGVVLTINHISYFAPLSSAPN-------TKNNKKPFDKRFVIKITTGF-DNKKTIAGIKLNNMFPVLDTVIEDIDLTKEFEEEHKYASLLMKEMLFINNPINQRKIKEK-ATKVYSKAI-----NKKDNFE-----QYCCNFKLLEEYYQGFEKSQ----------------------------------
+#=GS WP_012621620.1_Glaesserella_parasuis AC WP_012621620.1_Glaesserella_parasuis
+PDB_2XDO_1_Pectobacterium_atrosepticum ----------------------------------MKFYTISSKYIEYLKEFDDKVPNSEDPTYQNPKAFIGIVLEIQGHKYLAPLTS-PK-------KWHNNVKESSLSCFKLHENG-VPENQLGLINLKFMIPIIEAEVSLLDLGN--MPNTPYKRMLYKQLQFIRA--NSDKIASK-SDTLRNLVL-----QGKMQGT--------CNFSLLEEKYRDFGKEAEDTE------EGE---------------------
+#=GS PDB_2XDO_1_Pectobacterium_atrosepticum AC 2XD0_1_Pectobacterium_atrosepticum
+#=GS PDB_2XDO_1_Pectobacterium_atrosepticum DE ___________________________________*+_______________+_+_+_____!___!__________________!!__!_________!______________++_____+________*__________**_*_________*_+_***!*+__*____________________________________________________________________________________________
+#=GR PDB_2XDO_1_Pectobacterium_atrosepticum AS ___________________________________*+_______________+_+_+_____!___!__________________!!__!_________!______________++_____+________*__________**_*_________*_+_***!*+__*____________________________________________________________________________________________
+//

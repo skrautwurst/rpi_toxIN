@@ -1,0 +1,100 @@
+PROTEIN
+
+>2XD0_1_Pectobacterium_atrosepticum
+#msa-co
+#interaction-annotation_blower2011
+----------------------------------MKFYTISSKYIEYLKEFDDKVPNSED
+___________________________________*+_______________+_+_+___
+
+PTYQNPKAFIGIVLEIQGHKYLAPLTS-PK-------KWHNNVKESSLSCFKLHENG-VP
+__!___!__________________!!__!_________!______________++____
+
+ENQLGLINLKFMIPIIEAEVSLLDLGN--MPNTPYKRMLYKQLQFIRA--NSDKIASK-S
+_+________*__________**_*_________*_+_***!*+__*_____________
+
+DTLRNLVL-----QGKMQGT--------CNFSLLEEKYRDFGKEAEDTE------EGE--
+____________________________________________________________
+
+-------------------
+___________________
+
+#interacting-residue, type, properties, info, correspondence in bth, co-alignment, all-alignment
+Lys2, *, basic-positive, pocket for A6, no, well conserved, well conserved but multiple substitutions
+Phe3, +, aromatic/hydrophobic, pocket for A6, no, substitutions with leu and ile, substitutions with leu and ile
+Asp19, +, acidic-negative, hydrogen bonding, Ser25, substitutions with mostly ser and thr, substitutions with other aa
+Val21, +, aliphatic/hydrophobic, hydrogen bonding, Val27, well conserved, well conserved (few ile)
+Asn23, +, polar, hydrogen bonding, Phe29, substitutions with other aa, substitutions with other aa
+Tyr29, !, aromatic/hydrophobic, hydrogen bonds network for 2'-3' cyclic phosphate, no, substitutions with aromatic and charged aa, substitutions with other aa
+Lys33, !, basic-positive, hydrogen bonds network for 2'-3' cyclic phosphate, Arg37, lys and arg (both basic), lys and arg (both basic)
+Thr52, !, polar/OH, hydrogen bonds network for 2'-3' cyclic phosphate, Thr56, thr and ser (both polar/oh), thr and ser (both polar/oh)
+Ser53, !, polar/OH, hydrogen bonds network for 2'-3' cyclic phosphate, Ser57, highly conserved, highly conserved
+Lys55, !, basic-positive, hydrogen bonding bonds network for 2'-3' cyclic phosphate, (maybe Arg58), well conserved, well conserved (some charged aa?)
+His58, !, basic-positive/(aromatic), hydrogen bonds network for 2'-3' cyclic phosphate, Arg58, substitutions with charged or polar aa, well conserved (some charged aa)
+Glu73, +, acidic-negative, stabilizing hydrogen bonds, no, substitutions with charged aa, substitutions with other aa (mostly phe)
+Asn74, +, polar, -, no, some subs but ok?, substitutions with other aa
+Asn79, +, polar, stabilizing hydrogen bonds, no, asn and lys, substitutions with charged and aliphatic aa?
+Phe88, *, aromatic/hydrophobic, -, Asn86, phe and asn, some substitutions (mostly asn)
+Leu99, *, aliphatic/hydrophobic, pocket for A6, no, other aa, other aa but mostly charged
+Leu100, *, aliphatic/hydrophobic, pocket for A6, no, other aa, substitutions mostly with ile
+Leu102, *, aliphatic/hydrophobic, pocket for A6 + part of helix3, no, leu and ile (both hydrophobic), mostly leu ile phe
+Tyr110, *, aromatic/hydrophobic, hydrogen bond to A32, Tyr110, highly conserved, highly conserved
+Arg112, +, basic-positive, -, no, arg asn ser thr (polar tendency?), charged and other substitutions
+Leu114, *, aliphatic/hydrophobic, part of helix3, no, well conserved (hydrophobic subs), highly conserved (only once ile and met)
+Tyr115, *, aromatic/hydrophobic, part of helix3, no, tyr phe met (large aa?), substitutions with charged(?) aa
+Lys116, *, basic-positive, part of helix3, no, substitutions with charged aa, substitutions with charged aa
+Gln117, !, polar, multiple hydrogen bonds to A32 + part of helix3, Gln117, well conserved (subs with glu), well conserved (subs with glu)
+Leu118, *, aliphatic/hydrophobic, part of helix3, no, other hydrophobic(?) aa, substitutions with other aa
+Gln119, +, polar, -, no, substitutions with charged aa, substitutions with charged aa and leu ile
+Arg122, *, basic-positive, part of helix3, no, other aa (charged?), arg lys asn (charged aa)
+
+
+- 2'-3' cyclic phosphate: phosphate at 3'-end of RNA molecule (A32), bound in electropositive groove in ToxN
+- charged = basic / acidic aa
+
+______________________________________________________________________________
+
+
+>WP_000182255.1_Bacillus_thuringiensis/>4ATO_2_Bacillus_thuringiensis
+#msa-co
+#interaction-annotation_short2013
+----------------------------MTNKDNPKLYNISTEYIDYLREADSKVPFNKD
+____________________________________________________+++_*_!_
+
+--EQHSRPYVGVLERISGHDYFVPLTS------------RNDKNFNSQVSVKLFDN---D
+______!__________________!!____________!____________________
+
+EKRIGVLLVNNMIPVPEKECKEIDIAEKTAADPQYGNLMLKQYLFLKE--NMDRVTNK-V
+__________+_______________________*______*___________*__**__
+
+EKVYKDVTVQGKPSHKQKFLK----GVCCDFTKLEEKCQEYKGRDQAKE------RDKAR
+_*_____________*____________________________________________
+
+RMAYMRQMGRER-------
+___________________
+
+
+#interacting-residue, type, properties, info, correspondence in pat, co-alignment, all-alignment
+Ser25, +, polar/OH, -, Asp19, mostly ser and thr (polar), substitutions with other aa
+Lys26, +, basic-positive, -, (Lys20), lys and arg (both basic), lys arg and some charged aa
+Val27, +, aliphatic/hydrophobic, -, Val21, well conserved, well conserved (few ile)
+Phe29, *, aromatic/hydrophobic, -, Asn23, substitutions with other aa, substitutions with other aa
+Lys31, !, basic-positive, hydrogen bonds network for 2'-3' cyclic phosphate, no, substitutions with charged aa, well conserved but some substitutions
+Arg37, !, basic-positive, hydrogen bonds network for 2'-3' cyclic phosphate, Lys33, lys and arg (both basic), lys and arg (both basic)
+Thr56, !, polar/OH, hydrogen bonds network for 2'-3' cyclic phosphate, Thr52, thr and ser (both polar/oh), thr and ser (both polar/oh)
+Ser57, !, polar/OH, hydrogen bonds network for 2'-3' cyclic phosphate, Ser53, highly conserved, highly conserved
+Arg58, !, basic-positive, hydrogen bonds network for 2'-3' cyclic phosphate, (Lys55) or His58, substitutions with charged or polar aa, mostly pro at exact position
+Asn86, +, polar, -, Phe88, phe and asn, well conserved (some substitutions)
+Tyr110, *, aromatic/hydrophobic, binds A34 purine ring, Tyr110, highly conserved, highly conserved
+Gln117, *, polar, binds A34 purine ring, Gln117, well conserved (subs with glu), well conserved (subs with glu)
+Arg127, *, basic-positive, -, no, arg lys val thr, arg lys and other charged(?) aa
+Asn130, *, polar, -, no, asn asp ser glu, mostly asn lys and other charged(?) aa
+Lys131, *, basic-positive, -, no, well conserved (lys and arg), mostly lys and asn but also other subs
+Lys134, *, basic-positive, -, no, well conserved (with val and thr), substitutions with hydrophobic aa
+Lys148, *, basic-positive, only in ToxNBt, no, highly conserved, different substitutions but mainly charged aa
+
+_______________________________
+
+legend: 
+! active site
+* specific interaction (side chain)
++ backbone interaction or unknown which part is involved in interaction

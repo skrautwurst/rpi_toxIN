@@ -1,0 +1,28 @@
+>4ATO_2|Chain_G|TOXI|BACILLUS THURINGIENSIS_(1428)
+AAAUUGGUGUAACCUUACCGUAGUAGGUGCUAAA
+...(((((...((((.((....))))))))))). ( -5.30)
+...,((((...{((,{((....}})))))))),. [ -6.42]
+....((((...(((..((....)).))))))).. { -2.00 d=6.46}
+....((((...(((..((....)).))))))).. { -2.00 MEA=24.00}
+ frequency of mfe structure in ensemble 0.163652; ensemble diversity 9.27  
+>2XD0_2|Chains_G,H,I,U,V,W|TOXI|PECTOBACTERIUM_ATROSEPTICUM_(29471)
+AUUCAGGUGAUUUGCUACCUUUAAGUGCAGCUAGAA
+....(((((......)))))................ ( -3.80)
+..,,(({((,,,{{.,}},,.,,}}}.}}.)}.}}. [ -4.92]
+.................................... {  0.00 d=8.39}
+....((.((..................)).)).... { -0.10 MEA=20.30}
+ frequency of mfe structure in ensemble 0.161584; ensemble diversity 11.54 
+>2XDB_2|Chain_G|TOXI|PECTOBACTERIUM_ATROSEPTICUM_(29471)
+AUUCAGGUGAUUUGCUACCUUUAAGUGCAGCUAGAAAUUC
+.(((((.(((((((.......))))).)).)).))).... ( -4.20)
+.,{{((,((,,,{{.,,,,..,,}}}.}}.)).}},.... [ -5.12]
+..((.............................))..... {  3.20 d=8.84}
+..((((.((..................)).)).))..... { -1.00 MEA=24.47}
+ frequency of mfe structure in ensemble 0.223969; ensemble diversity 11.86 
+>2XDD_2|Chains_F,G,H|TOXI|PECTOBACTERIUM_ATROSEPTICUM_(29471)
+AUUCAGGUGAUUUGCUACCUUUAAGUGCAGCUAGAA
+....(((((......)))))................ ( -3.80)
+..,,(({((,,,{{.,}},,.,,}}}.}}.)}.}}. [ -4.92]
+.................................... {  0.00 d=8.39}
+....((.((..................)).)).... { -0.10 MEA=20.30}
+ frequency of mfe structure in ensemble 0.161584; ensemble diversity 11.54 

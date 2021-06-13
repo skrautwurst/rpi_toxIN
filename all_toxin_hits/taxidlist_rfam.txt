@@ -1,0 +1,6 @@
+261594,AE017335.3,Bacillus_anthracis_str._'Ames_Ancestor'_plasmid_pXO2
+339854,AAJM01000236.1,Bacillus_thuringiensis_serovar_israelensis_ATCC_35646_sq1898
+29339,DQ025752.1,Bacillus_thuringiensis_serovar_kurstaki_plasmid_pAW63
+261591,AAEP01000052.1,Bacillus_anthracis_str._Vollum_cont82
+315730,CP000905.1,Bacillus_weihenstephanensis_KBAB4_plasmid_pBWB402
+527020,ACNL01000295.1,Bacillus_thuringiensis_IBL_4222_contig00548

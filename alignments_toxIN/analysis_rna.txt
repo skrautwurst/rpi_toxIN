@@ -1,0 +1,52 @@
+RNA
+
+>2XD0_2_Pectobacterium_atrosepticum
+#msa-co
+#interaction-annotation_blower2011
+AUUCAGGUGA--UUUGCUACCU-UUAAGUGCAG-CUAGAA
+____*____*_____________+______________**
+
+numbering in annotation/sequence file is shifted 4 positions compared to literature annotation, e.g. A1 ist A5 in alignment
+
+#interacting-residue, type, properties, info, correspondence in bth, co-alignment, all-alignment, connection_sec_structure
+A1, *, purine, -, U5, half A one G two U, mostly A and U, first paring base in opening stem 1
+A6, *, purine, bound in hydrophobic pocket of ToxN (Lys2 Phe3 Leu99 Leu100 Leu102), U10, mostly A and G, A and G, unpaired
+U17, +, pyrimidine, -, A22?, well conserved but two A, well conserved (multiple gaps), unpaired
+A31, *, purine, -, A33, well conserved, well conserved, unpaired
+A32, *, purine, bound by electropositive active site (Tyr29 Lys33 Thr52 Ser53 Lys55) and specifically by Tyr110 and Gln117, A34, well conserved, highly conserved, unpaired
+
+
+_____________________________________________________________________
+
+>4ATO_2_Bacillus_thuringiensis
+#msa-co
+#interaction-annotation_short2013
+AAAUUGGUGUAACC-UUACCGU-AGUAGGU----GCUAAA
+*****____*______+++**_____________**+***
+
+#interacting-residue, type, properties, info, correspondence in pat, co-alignment, all-alignment, connection_sec_structure
+A1, *, purine, bound in pocket (Ser25 Lys26 Val27 Phe29), A-3, highly conserved, A and U, unpaired
+A2, *, purine, bound in pocket, U-2, A and U, A and U, unpaired
+A3, *, purine, bound in pocket, U-1, A and U, all bases present, unpaired
+U4, *, pyrimidine, bound in pocket, C0, three C two U one G, mostly U and A, unpaired (paired in all-alignment)
+U5, *, pyrimidine, hydrogen bonds and hydrophobic interaction with V2 and V5 of ToxN, A1, half A one G two U, all bases present, first paring base in opening stem 1
+U10, *, pyrimidine, bound in hydrophobic pocket of ToxN, A6, mostly A and G, U and A, unpaired
+U16, +, pyrimidine, -, C11/U12, multiple bases present, well conserved with some A, last paring base in opening stem 2 (first pairing base in closing stem 1 in all-alignment)
+A17, +, purine, bound by hydrogen bonds to helix3, U12/A13, well conserved with some U, well conserved with C and G, first pairing base in closing stem 1
+C18, +, pyrimidine, bound by hydrogen bonds to helix3, A13/C14, well conserved with some A, highly conserved, pairing base in closing stem 1
+C19, *, pyrimidine, bound by Lys148 + hydrogen bonds to helix3 and hydrophobic interaction to V2 and V5 of ToxN, C14/C15, highly conserved, well conserved with some U, pairing base in closing stem 1
+G20, *, purine, bound by Lys148 + bound by hydrogen bonds to helix3, C15/U16, all bases present, multiple bases present, pairing base in closing stem 1
+G29, *, purine, -, C27, mostly C and G, mostly A, unpaired
+C30, *, pyrimidine, -, C27/U28, multiple bases present, mostly C and G, unpaired
+U31, +, pyrimidine, involved in active site, U28/A29, half U and A, well conserved with some C, unpaired
+A32, *, purine, involved in active site, G30, mostly A and G, mostly A and G, unpaired
+A33, *, purine, involved in active site, A31, well conserved, highly conserved, unpaired
+A34, *, purine, bound by electropositive active site (Lys31 Arg37 Thr56 Ser57 Arg58) and specifically by Tyr110 and Gln117, A32, highly conserved, highly conserved, unpaired
+
+
+_______________________________
+
+legend:
+! active site
+* specific interaction (side chain)
++ backbone interaction or unknown which part is involved in interaction

@@ -1,0 +1,12 @@
+mLocARNA --- multiple Local (and global) Alignment of RNA --- LocARNA 1.8.11
+Copyright Sebastian Will
+
+Compute pair probs ...
+Perform progressive alignment ...
+
+
+
+toxin                 -AAAUUGGUGUAGCCUUACCGUAGUAGGCACAAAA
+CP024122.1:c6886-6852 AAAAUUGGUGUAGCCUUACCGUAGUAGGCACAAAA
+
+alifold               ........(((.((((.((....)))))))))... (-10.86 =  -6.80 +  -4.06) 

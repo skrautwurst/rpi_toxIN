@@ -1,0 +1,41 @@
+# STOCKHOLM 1.0
+#=GF ID RNAalifold_results_1
+#=GF NUM_COV           3
+#=GF WEIGHT_MAP Pectobacterium_atrosepticum_SCRI1039 1.01854 Haemophilus_parasuis 1.03583 Fusobacterium_ulcerans_ATCC_49185 0.835123 Peptoniphilus_duerdenii_ATCC_BAA-1640 0.835123 Haemophilus_parasuis_SH0165 0.93985 Clostridium_cellulovorans_743B 1.07853 Lactobacillus_gasseri_JV-V03 1.0339 Lactobacillus_jensenii_208-1 1.25655 Bacillus_cereus_Rock_1-15 1.22444 Bryantella_formatexigens_DSM_14469 1.29064 Eubacterium_yurii_subsp._margaretiae_ATCC_43715 1.17994 Eubacterium_rectale_DSM_17629 1.22444 Veillonella_parvula_ACS-068-V-Sch12 1.16302 Clostridium_phage_D-1873 0.62086 Clostridium_botulinum_BKT015925 0.62086 Finegoldia_magna_BVS033A4 1.25661 Lactobacillus_kefiranofaciens_ZW3 1.60621 Fusobacterium_sp._3_1_5R 0.446591 Fusobacterium_sp._D12 0.446591 Fusobacterium_sp._4_1_13 0.595455 Leptotrichia_goodfellowii_F0264 1.03429 Eubacterium_saburreum_DSM_3986 1.25661
+#=GF USED_GSC TRUE
+#=GF DID_FRAGMENTARY FALSE.  globalOuterFirst,Last=0,43
+#=GF R2R keep allpairs
+
+
+Pectobacterium_atrosepticum_SCRI1039            A-UUCAGGUGAUU--UGCU-ACCUUU--AAGUGCA-GCUAGAA
+Haemophilus_parasuis                            AU--UUGGUGUA---GGCU-ACCGUAU--AGUGCCGCUUA---
+Fusobacterium_ulcerans_ATCC_49185               AAAAGCGGUGUA---CCCU-ACCAUC--AAGUGGGAGUUAA--
+Peptoniphilus_duerdenii_ATCC_BAA-1640           AAAAGCGGUGUA---CGCA-GCCAUA--AAAUGCGAACUAA--
+Haemophilus_parasuis_SH0165                     AUAUGUGGUGAA---CGCU-ACCAUUA-AAGUGCGAUGU----
+Clostridium_cellulovorans_743B                  AUUC-AGGUGAG--GUCC-UACCAUAC--AGUGGACAAUAAAA
+Lactobacillus_gasseri_JV-V03                    AAAGACGGUGU---UUCCCAGCCAC---AAGUGAGAAUCGAAU
+Lactobacillus_jensenii_208-1                    AAAGAGGAGUGUA-UCUCAGCUCUA----AGUGAGAAUUA---
+Bacillus_cereus_Rock_1-15                       AAA-UUUGGAGAGU-CCAUGCCGUA----AGUUGGGACCGAU-
+Bryantella_formatexigens_DSM_14469              A---AGCGGUGA--GUCCU-ACUGUA---AGUGGAACCGAUAA
+Eubacterium_yurii_subsp._margaretiae_ATCC_43715 AAGAGUAGGAGAA-CCCGAGCCUUAUA--AGUGGGAGUUAA--
+Eubacterium_rectale_DSM_17629                   AAUAUUCGGAGA-GUCACUACCGUUA---AGUGUGAGAUGAA-
+Veillonella_parvula_ACS-068-V-Sch12             AGAGC-GGUAA--AUCGCC-ACCAUA---AGAGCGAAACAAAA
+Clostridium_phage_D-1873                        AAAGUCAGUGAG--CCUCC-ACUGUAU-AAGCGAGGAGCUAA-
+Clostridium_botulinum_BKT015925                 AAAGUCAGUGAA--CCUCC-ACUGUAU-AAGCGAGGAGCUAAA
+Finegoldia_magna_BVS033A4                       AAAGAAGGUG-UCCCACU--ACCUAUAUCAAA---GGUGAAAC
+Lactobacillus_kefiranofaciens_ZW3               UAUAGAGGCC----ACAGA-GCCUAUCAAAA----CUGUUUUA
+Fusobacterium_sp._3_1_5R                        A-UUCAGGUG--UUCCACC-ACCUUUAAAUGAAGCAGUUAUAA
+Fusobacterium_sp._D12                           AAUUCAGGUG--UUCCACC-ACCUUAAAAUGAAGCAGUUAUA-
+Fusobacterium_sp._4_1_13                        AUU-CAGGUG--UUCCACC-ACCUCAAAAUGAAGCAGUUUUAA
+Leptotrichia_goodfellowii_F0264                 AUU-CGGGUG---UUCCACCACCUUUAAGUGAAG-GGACUAUA
+Eubacterium_saburreum_DSM_3986                  AAAGAAGGUG--UCUCACU-ACCUAUAUCCCAAAGGUGAAGCA
+#=GC SS_cons ....<<<<<<<.....>>..>>>>>..................
+#=GC RF AWWgBHGGKGgauuyCSCY-MCCUUWa-aAGWGSSRRBYWWaa
+#=GC cons AnnnnnRGnRnn--nYnYn-RCYnnnn-nAGnRnnRnnYRnnn
+#=GC conss 2333223213440043133032311340433233331133344
+#=GC col_entropy_0 0112221011111121111110111111100112111111111
+#=GC col_entropy_1 ...........................................
+#=GC col_entropy_2 3551112315976612828633132671689441658955664
+#=GC col_entropy_3 7191728196669847796031296557115760894462898
+#=GC cov_SS_cons ......2.2...........2.2....................
+//

@@ -1,0 +1,12 @@
+# STOCKHOLM 1.0
+#=GF ID model
+#=GF AU Infernal 1.1.1
+
+#=GS toxin                 WT 0.99
+#=GS CP024122.1:c6886-6852 WT 1.01
+
+toxin                 -AAAUUGGUGUAGCCUUACCGUAGUAGGCACAAAA
+CP024122.1:c6886-6852 AAAAUUGGUGUAGCCUUACCGUAGUAGGCACAAAA
+#=GC SS_cons          ::::::::<<<-<<<<-<<____>>>>>>>>>:::
+#=GC RF               AAAAUUGGUGUAGCCUUACCGUAGUAGGCACAAAA
+//

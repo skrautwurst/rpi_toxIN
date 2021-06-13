@@ -1,0 +1,74 @@
+putative	c0ceb6
+active site	397211
+
+STARTGROUP	Jalview
+potential interacting position	Clostridium_botulinum_BKT015925	-1	1	4	putative	0.0
+potential interacting position	Clostridium_botulinum_BKT015925	-1	5	5	putative	0.0
+potential interacting position	Clostridium_botulinum_BKT015925	-1	10	10	putative	0.0
+potential interacting position	Clostridium_botulinum_BKT015925	-1	17	19	putative	0.0
+potential interacting position	Clostridium_botulinum_BKT015925	-1	20	20	putative	0.0
+potential interacting position	Clostridium_botulinum_BKT015925	-1	21	21	putative	0.0
+potential interacting position	Clostridium_botulinum_BKT015925	-1	23	23	putative	0.0
+potential interacting position	Clostridium_botulinum_BKT015925	-1	34	37	putative	0.0
+potential interacting position	Clostridium_botulinum_BKT015925	-1	38	38	putative	0.0
+potential interacting position	Clostridium_botulinum_BKT015925	-1	39	39	putative	0.0
+potential interacting position	Clostridium_cellulovorans_743B	-1	1	4	putative	0.0
+potential interacting position	Clostridium_cellulovorans_743B	-1	5	5	putative	0.0
+potential interacting position	Clostridium_cellulovorans_743B	-1	10	10	putative	0.0
+potential interacting position	Clostridium_cellulovorans_743B	-1	15	17	putative	0.0
+potential interacting position	Clostridium_cellulovorans_743B	-1	18	18	putative	0.0
+potential interacting position	Clostridium_cellulovorans_743B	-1	19	19	putative	0.0
+potential interacting position	Clostridium_cellulovorans_743B	-1	21	21	putative	0.0
+potential interacting position	Clostridium_cellulovorans_743B	-1	32	35	putative	0.0
+potential interacting position	Clostridium_cellulovorans_743B	-1	36	36	putative	0.0
+potential interacting position	Clostridium_cellulovorans_743B	-1	37	37	putative	0.0
+potential interacting position	Glaesserella_[Haemophilus]_parasuis_SH0165(lit1)	-1	1	4	putative	0.0
+potential interacting position 	Glaesserella_[Haemophilus]_parasuis_SH0165(lit1)	-1	5	5	putative	0.0
+potential interacting position	Glaesserella_[Haemophilus]_parasuis_SH0165(lit1)	-1	10	10	putative	0.0
+potential interacting position	Glaesserella_[Haemophilus]_parasuis_SH0165(lit1)	-1	16	18	putative	0.0
+potential interacting position	Glaesserella_[Haemophilus]_parasuis_SH0165(lit1)	-1	19	19	putative	0.0
+potential interacting position	Glaesserella_[Haemophilus]_parasuis_SH0165(lit1)	-1	20	20	putative	0.0
+potential interacting position	Glaesserella_[Haemophilus]_parasuis_SH0165(lit1)	-1	22	22	putative	0.0
+potential interacting position	Glaesserella_[Haemophilus]_parasuis_SH0165(lit1)	-1	29	32	putative	0.0
+potential interacting position	Glaesserella_[Haemophilus]_parasuis_SH0165(lit1)	-1	33	33	putative	0.0
+potential interacting position	Glaesserella_[Haemophilus]_parasuis_SH0165(lit1)	-1	34	34	putative	0.0
+potential interacting position	PDB_2XD0_2_Pectobacterium_atrosepticum	-1	1	4	putative	0.0
+potential interacting position	PDB_2XD0_2_Pectobacterium_atrosepticum	-1	15	17	putative	0.0
+potential interacting position	PDB_2XD0_2_Pectobacterium_atrosepticum	-1	18	18	putative	0.0
+potential interacting position	PDB_2XD0_2_Pectobacterium_atrosepticum	-1	19	19	putative	0.0
+potential interacting position	PDB_2XD0_2_Pectobacterium_atrosepticum	-1	31	34	putative	0.0
+potential interacting position	PDB_4ATO_2_Bacillus_thuringiensis	-1	22	22	putative	0.0
+potential interacting position	WP_012159700|Alkaliphilus_oremlandii_OhILAs(lit2)	-1	1	4	putative	0.0
+potential interacting position	WP_012159700|Alkaliphilus_oremlandii_OhILAs(lit2)	-1	5	5	putative	0.0
+potential interacting position	WP_012159700|Alkaliphilus_oremlandii_OhILAs(lit2)	-1	10	10	putative	0.0
+potential interacting position	WP_012159700|Alkaliphilus_oremlandii_OhILAs(lit2)	-1	17	19	putative	0.0
+potential interacting position	WP_012159700|Alkaliphilus_oremlandii_OhILAs(lit2)	-1	20	20	putative	0.0
+potential interacting position	WP_012159700|Alkaliphilus_oremlandii_OhILAs(lit2)	-1	21	21	putative	0.0
+potential interacting position	WP_012159700|Alkaliphilus_oremlandii_OhILAs(lit2)	-1	24	24	putative	0.0
+potential interacting position	WP_012159700|Alkaliphilus_oremlandii_OhILAs(lit2)	-1	35	38	putative	0.0
+potential interacting position	WP_012159700|Alkaliphilus_oremlandii_OhILAs(lit2)	-1	39	39	putative	0.0
+potential interacting position	WP_012159700|Alkaliphilus_oremlandii_OhILAs(lit2)	-1	40	40	putative	0.0
+ENDGROUP	Jalview
+
+active site	PDB_2XD0_2_Pectobacterium_atrosepticum	-1	5	5	active site	0.0
+active site	PDB_2XD0_2_Pectobacterium_atrosepticum	-1	10	10	active site	0.0
+active site	PDB_2XD0_2_Pectobacterium_atrosepticum	-1	21	21	active site	0.0
+active site	PDB_2XD0_2_Pectobacterium_atrosepticum	-1	35	35	active site	0.0
+active site	PDB_2XD0_2_Pectobacterium_atrosepticum	-1	36	36	active site	0.0
+active site	PDB_4ATO_2_Bacillus_thuringiensis	-1	1	1	active site	0.0
+active site	PDB_4ATO_2_Bacillus_thuringiensis	-1	2	2	active site	0.0
+active site	PDB_4ATO_2_Bacillus_thuringiensis	-1	3	3	active site	0.0
+active site	PDB_4ATO_2_Bacillus_thuringiensis	-1	4	4	active site	0.0
+active site	PDB_4ATO_2_Bacillus_thuringiensis	-1	5	5	active site	0.0
+active site	PDB_4ATO_2_Bacillus_thuringiensis	-1	10	10	active site	0.0
+active site	PDB_4ATO_2_Bacillus_thuringiensis	-1	16	16	active site	0.0
+active site	PDB_4ATO_2_Bacillus_thuringiensis	-1	17	17	active site	0.0
+active site	PDB_4ATO_2_Bacillus_thuringiensis	-1	18	18	active site	0.0
+active site	PDB_4ATO_2_Bacillus_thuringiensis	-1	19	19	active site	0.0
+active site	PDB_4ATO_2_Bacillus_thuringiensis	-1	20	20	active site	0.0
+active site	PDB_4ATO_2_Bacillus_thuringiensis	-1	29	29	active site	0.0
+active site	PDB_4ATO_2_Bacillus_thuringiensis	-1	30	30	active site	0.0
+active site	PDB_4ATO_2_Bacillus_thuringiensis	-1	31	31	active site	0.0
+active site	PDB_4ATO_2_Bacillus_thuringiensis	-1	32	32	active site	0.0
+active site	PDB_4ATO_2_Bacillus_thuringiensis	-1	33	33	active site	0.0
+active site	PDB_4ATO_2_Bacillus_thuringiensis	-1	34	34	active site	0.0

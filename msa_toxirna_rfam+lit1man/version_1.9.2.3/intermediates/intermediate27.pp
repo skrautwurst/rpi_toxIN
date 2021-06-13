@@ -1,0 +1,52 @@
+#PP 2.0
+
+Clostridium_phage_D-1873                        AAAGUCAGUGAGCCUCCACUGUAUAA---GCG-AGGAGCU--AA
+Clostridium_botulinum_BKT015925                 AAAGUCAGUGAACCUCCACUGUAUAA---GCG-AGGAGCUA-AA
+Fusobacterium_sp._4_1_13                        -AUUCAGGUGUUCCACCACCUC-AAA---AUGAAGCAGUUUUAA
+Fusobacterium_sp._3_1_5R                        -AUUCAGGUGUUCCACCACCUU-UAA---AUGAAGCAGUUAUAA
+Fusobacterium_sp._D12                           AAUUCAGGUGUUCCACCACCUU-AAA---AUGAAGCAGUUAU-A
+Leptotrichia_goodfellowii_F0264                 -AUUCGGGUGUUCCACCACCUU-UAA---GUGAAGGGACUAUAA
+Haemophilus_parasuis_SH0165                     AUAUGUGGUGAAC-GCUACCAUUAAA---GUG------CGAUGU
+Lactobacillus_kefiranofaciens_ZW3               -UAUAGAGGCCACAGAGCCUAUCAAA---ACU------GUUUUA
+Lactobacillus_jensenii_208-1                    AAAGAGGAGUGUAUCUCA---GCUCU---AAGUGAGA---AUUA
+AE017335.3/88384-88351                          AAAUUGGUGUA---GCCU--UACCGU---AGUAGGCAU--UCAU
+AAEP01000052.1/71937-71904                      AAAUUGGUGUA---GCCU--UACCGU---AGUAGGCAU--UCAU
+CP000905.1/47243-47276                          AAAUUGGUGUA---GCCU--UACCGU---AGUAGGCAC--AAAA
+AAJM01000236.1/1478-1445                        AAAUUGGUGUA---UCCU--UACCCU---AGUAGGAAC--AAAA
+ACNL01000295.1/1429-1396                        AAAUUGGUGUA---UCCU--UACCCU---AGUAGGAAC--AAAA
+DQ025752.1/63481-63448                          AAAUUGGUGUA---GCCU--UACCGU---AGUAGGCGC--UAAA
+Bryantella_formatexigens_DSM_14469              -AAGCGGUGAG---UCCU--ACU-GU---AAGUGGAACCGAUAA
+Haemophilus_parasuis                            -AUUUGGUGUA---GGCU--ACCGUA---UAGUGCCGC---UUA
+Bacillus_cereus_Rock_1-15                       AA-AUUUGGAGAGUCCAU--GCCG-U---AAGUUGGGAC-CGAU
+Eubacterium_rectale_DSM_17629                   AAUAUUCGGAGAGUCACU--ACCGUU---AAGUGUGAGA-UGAA
+Fusobacterium_ulcerans_ATCC_49185               AAAA-GCGGUGUACCCUA---CCAUC---AAGUGGGAG--UUAA
+Peptoniphilus_duerdenii_ATCC_BAA-1640           AAAA-GCGGUGUA-CGCA--GCCAUA---AAAUGCGAA--CUAA
+Pectobacterium_atrosepticum_SCRI1039            AUUCAGGUGAUU--UGCU--ACCUUU---AAGUGCAG-CUAGAA
+Clostridium_cellulovorans_743B                  AUUCAGGUGAGG--UCCU--ACCAUA---CAGUGGACAAUAAAA
+Veillonella_parvula_ACS-068-V-Sch12             AGAGCGGUAAAU--CGCC---ACCAU---AAGAGCGAAACAAAA
+Lactobacillus_gasseri_JV-V03                    AAAGACGG-UGU--UUCC-CAGCCAC---AAGUGAGAAUCGAAU
+Eubacterium_saburreum_DSM_3986                  AA-AGAAGGUGUCUCACUACCUAUAUCCCAAAGGUGAAG-CAUU
+Finegoldia_magna_BVS033A4                       AA-AGAAGGUGUCCCACUACCUAUAU--CAAAGGUGAAA-CAUU
+Eubacterium_yurii_subsp._margaretiae_ATCC_43715 AAGAGUAGGAGAACCCGAGCCU-UAU----AAGUGGGAG-UUAA
+
+#END
+
+#SECTION BASEPAIRS
+
+#BPCUT 0.0005
+
+7 20 7.35e-4
+21 33 7.72e-3
+6 21 5.05e-4
+22 32 9.32e-3
+17 34 0.0365
+9 18 7.38e-4
+8 19 7.38e-4
+18 33 1.85e-3
+18 34 1.18e-3
+15 36 0.0372
+23 31 5.57e-4
+16 35 0.0375
+10 17 7.32e-4
+
+#END

@@ -1,0 +1,42 @@
+#PP 2.0
+
+Leptotrichia_hofstadii_F0254                    UAAAAA-CAGGUGUUCCACUACCUUAA--AAUGAAGGACA-GA
+Leptotrichia_goodfellowii_F0264                 UAAAUU-CGGGUGUUCCACCACCUUUA--AGUGAAGGGAC-UA
+Clostridium_botulinum_BKT015925                 -AAAAAGUCAGUGAACCUCCACUGUAU--AAGCGAGGAGC-UA
+Clostridium_phage_D-1873                        UAAAAAGUCAGUGAGCCUCCACUGUAU--AAGCGAGGAGC---
+Finegoldia_magna_BVS033A4                       UAAAGA--AGGUGUCCCACUACCUAUAUCAAAGGUGAAAC-AU
+Lactobacillus_jensenii_208-1                    AAAGAG--GAGUGU-AUCUCAGCUC--UAAGUGAGAAUU---A
+Lactobacillus_jensenii_27-2-CHN                 AAAGAG--GAGUGU-AUCUCAGCUC--UAAGUGAGAAUU---A
+Fusobacterium_ulcerans_ATCC_49185               AAAAAG--CGGUGU-ACCCUACCAU--CAAGUGGGAGUU---A
+Lactobacillus_jensenii_269-3                    UAAAAG--UCAGGUGAGCUCGGCCUUAUAAGUGAGCGUU---A
+Bacillus_cereus_Rock_1-15                       AAA-UU--UGGAGAGUCCAUGCCG---UAAGUUGGGACCG-AU
+Bryantella_formatexigens_DSM_14469              AAA-AG--CGGUGAG-UCCUACUG---UAAGU-GGAACCG-AU
+Lactobacillus_gasseri_JV-V03                    AAA-GA--CGGUGUUUCCCAGCCA---CAAGUGAGAAUCGAAU
+Peptoniphilus_duerdenii_ATCC_BAA-1640           AAA-AG--CGGUGUA-CGCAGCCA---UAAAAUGCGAACU-AA
+Eubacterium_yurii_subsp._margaretiae_ATCC_43715 UAAAAGAGUAGGAGAACCCGAGCCUUAUAAG-UGGGAGU----
+
+#END
+
+#SECTION BASEPAIRS
+
+#BPCUT 0.0005
+
+21 32 0.0118
+13 20 1.08e-3
+12 21 0.0133
+10 39 1.18e-3
+22 32 5.63e-4
+19 34 0.0255
+20 33 0.0119
+17 36 0.0738
+9 24 0.0011
+23 31 4.01e-3
+22 31 6.83e-4
+18 35 0.0668
+13 39 2.07e-3
+10 19 7.07e-4
+11 22 1.13e-3
+11 38 1.08e-3
+10 23 1.13e-3
+
+#END

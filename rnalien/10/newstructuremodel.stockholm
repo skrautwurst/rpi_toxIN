@@ -1,0 +1,33 @@
+# STOCKHOLM 1.0
+#=GF AU Infernal 1.1.1
+
+#=GS CP024122.1:c6886-6852   DE Bacillus cytotoxicus strain CH_1 plasmid pCh1_67, complete sequence
+#=GS CP024687.1:50914-50948  DE Bacillus wiedmannii bv. thuringiensis strain FCC41 plasmid pFCC41-3-257K, complete sequencecmS_1_35_'+'
+#=GS CP001748.1:c88914-88880 DE Bacillus cereus biovar anthracis str. CI plasmid pCI-XO2, complete sequencecmS_1_35_'+'
+#=GS CP020746.1:c82934-82900 DE Bacillus mycoides strain Gnyt1 plasmid unnamed3, complete sequencecmS_1_35_'+'
+#=GS CP007610.1:7445-7479    DE Bacillus thuringiensis serovar kurstaki str. YBT-1520 plasmid pBMB8240, complete sequencecmS_1_35_'+'
+#=GS CP024687.1:50913-50948  DE Bacillus wiedmannii bv. thuringiensis strain FCC41 plasmid pFCC41-3-257K, complete sequencecmS_2_36_'+'
+#=GS CP001748.1:c88915-88880 DE Bacillus cereus biovar anthracis str. CI plasmid pCI-XO2, complete sequencecmS_2_36_'+'
+#=GS CP000905.1:47241-47276  DE Bacillus weihenstephanensis KBAB4 plasmid pBWB402, complete genomecmS_2_36_'+'
+
+toxin                           -AAAUUGGUGUAGCCUUACCGUAGUAGGCACAAAA
+#=GR toxin                   PP .**********************************
+CP024122.1:c6886-6852           AAAAUUGGUGUAGCCUUACCGUAGUAGGCACAAAA
+#=GR CP024122.1:c6886-6852   PP ***********************************
+CP024687.1:50914-50948          AAAAUUGGUGUAGCCUUACCGUAGUAGGCGCUAAA
+#=GR CP024687.1:50914-50948  PP ***********************************
+CP001748.1:c88914-88880         AAAAUUGGUGUAGCCUUACCGUAGUAGGCAUUCAU
+#=GR CP001748.1:c88914-88880 PP ***********************************
+CP020746.1:c82934-82900         AAAAUUGGUGUAGCCUUACCGUAGUAGGCACAAAA
+#=GR CP020746.1:c82934-82900 PP ***********************************
+CP007610.1:7445-7479            AAAAUUGGUGUAGCCUUACCGUAGUAGGCAUAAAA
+#=GR CP007610.1:7445-7479    PP ***********************************
+CP024687.1:50913-50948          AAAAUUGGUGUAGCCUUACCGUAGUAGGCGCUAAA
+#=GR CP024687.1:50913-50948  PP ***********************************
+CP001748.1:c88915-88880         AAAAUUGGUGUAGCCUUACCGUAGUAGGCAUUCAU
+#=GR CP001748.1:c88915-88880 PP ***********************************
+CP000905.1:47241-47276          AAAAUUGGUGUAGCCUUACCGUAGUAGGCACAAAA
+#=GR CP000905.1:47241-47276  PP ***********************************
+#=GC SS_cons                    ........(((.((((.((....)))))))))...
+#=GC RF                         AAAAUUGGUGUAGCCUUACCGUAGUAGGCACAAAA
+//

@@ -1,0 +1,35 @@
+#PP 2.0
+
+YP_271719|Haemophilus_influenzae_biotype_aegyptius_pF1947       -------GGCGCAAGC------UGCCAUAAGUGCUACUUAAUCA
+ZP_00133190|Histophilus_somni_2336                              -------GGCGCAAGC------UGCCAUAAGUGCUACUUAAUCA
+ZP_01667702|Thermosinus_carboxydivorans_Nor1                    AAAAAAGCGGGGAAAC------CUCGCCCCUAAACUGAGGAU-G
+ZP_02272649|Fusobacterium_nucleatum_subsp_polymorphum_ATCC10953 -AAAAAGCGG-AAAAC------CCUGCCGUUAAGUGGGAGUU-A
+YP_001513384|Alkaliphilus_oremlandii_OhILAs                     UAAUUCAAGGUAUUUCG---CAACCUUCUAAAAAUGCGACUU-G
+ZP_01968975|Ruminococcus_torques_ATCC_27756                     AGGUGAGUCUCCACCAUAAAGAGAGAACCUAAAAAAGC------
+FJ176937|Erwinia_carotovora_subsp_atroseptica_1039_pECA1039     AGGUGAUUUGCUACCUUUAAGUGCAG--CUAGAAAUUC------
+AAZ06636|Bacillus_thuringiensis_serovar_kurstaki_HD73_pAW63     ----GUAACCUUACCGU--AGUAGGU-GCUAAAAAAUUGGU---
+YP_001642731|Bacillus_weihenstephanensis_KBAB4_pBWB402          ----GUAGCCUUACCGU--AGUAGGC-ACAAAAAAAUUGGU---
+NP_862552|Lactococcus_lactis_subsp_lactis_W-37_pSRQ900          -----UAUCCAAGCCAU--AGUUGGAAUUGAUAAAAUUGGA--G
+
+#END
+
+#SECTION BASEPAIRS
+
+#BPCUT 0.0005
+
+10 24 0.311
+5 29 5.82e-4
+30 38 1.08e-3
+28 40 7.45e-4
+13 22 1.48e-3
+12 23 9.25e-4
+7 27 5.26e-4
+9 25 0.312
+14 21 0.0024
+8 26 0.28
+31 37 5.63e-4
+32 36 5.45e-4
+29 39 3.15e-3
+11 23 0.134
+
+#END
