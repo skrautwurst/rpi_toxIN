@@ -1,0 +1,63 @@
+>>RNA
+>based on upset plot
+Bacillus thuringiensis (all)
+Bacillus weihenstephanensis (cmrfam+rfam)
+
+>manually curated (list comparison of names)
+Pectobacterium atrosepticum (pdb+lit)
+Bacillus cereus (cmrfam+lit)
+Haemophilus_parasuis (lit+cmlit)
+Fusobacterium_ulcerans (lit+cmlit)
+
+>spezies which are multiple times in one set
+Bacillus_cereus (cmrfam)
+Bacillus_cytotoxicus (cmrfam)
+Bacillus mycoides (cmrfam)
+Bacillus toyonensis  (cmrfam)
+Escherichia_coli (cmpdb)
+Klebsiella_pneumoniae (cmpdb)
+Salmonella_enterica (cmpdb)
+Glaesserella_parasuis (cmlit) (/Haemophilus parasuis)
+
+>spezies in one set, but also in a protein set
+Clostridium botulinum (lit1)
+Clostridium cellulovorans (lit1)
+Haemophilus parasuis (lit1, cmlit)
+
+>cmsearch_lit above inclusion threshold
+Erysipelotrichaceae bacterium
+Alkaliphilus oremlandii
+Fusobacterium nucleatum
+
+______________________________________________________
+
+>>protein
+>based on upset plot
+Bacillus thuringiensis 		(both hmm)
+Blautia sp. N6H1-15			(hmmta+pfam)
+Desulfotomaculum ferrireducens	(hmmta+pfam)
+Fusobacterium necrophorum 		(both hmm)
+Fusobacterium nucleatum		(both hmm)
+Lactobacillus helveticus		(both hmm)
+Lactobacillus koreensis		(both hmm)
+Lactococcus lactis 			(both hmm)
+Megasphaera stantonii			(both hmm)
+Mycoplasma glycophilum			(hmmta+pfam)
+
+>manually curated (list comparison of names)
+Erysipelotrichaceae bacterium		(both hmm)
+Alkaliphilus oremlandii		(hmmhyp+pfam)
+Fusobacterium necrophorum 		(both hmms+pfam)
+Fusobacterium nucleatum		(both hmms+pfam)
+Lactobacillus helveticus		(both hmms+pfam)
+Clostridium botulinum 			(hmmta+pfam)
+Clostridium cellulovorans		(hmmta+pfam)
+Clostridium innocuum			(hmmta+pfam)
+Haemophilus parasuis   		(hmmta+pfam)
+Histophilus somni       		(hmmta+pfam)
+Paenibacillus riograndensis 		(hmmta+pfam)
+Taylorella_equigenitalis    		(hmmta+pfam)
+
+
+
+Pectobacterium_atrosepticum as reference

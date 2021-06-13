@@ -1,0 +1,89 @@
+1		pdb		lit1	cmslit1		cmslit1mid	cmsrfamlit1mid *
+	29471	NZ_CP009126.1,Pectobacterium_atrosepticum_strain_21A_plasmid_pPA21A
+1		pdb		cmsrfam		cmsrfamlit1mid	hmmta *
+	1428	NZ_NUCJ01000099.1,Bacillus_thuringiensis_strain_AFS018409_AFS018409_101_H11_Contig99_140514
+
+1		cmspdb	cmsrfamlit1mid	hmmta *
+	562		NZ_LLYK01000165.1,Escherichia_coli_strain_AZ71_20885
+1		cmspdb	cmsrfamlit1mid
+	28141	NZ_PVMY01000036.1,Cronobacter_sakazakii_strain_MOD1_LR745_LR745_contig_36
+
+2		rfam	cmsrfam		cmsrfamlit1mid
+	29339	NZ_PGEH01000397.1,Bacillus_thuringiensis_serovar_kurstaki_strain_7.1o_map_unlocalized_plasmid_p7.1o_54375
+	527020	NZ_CM000759.1,Bacillus_thuringiensis_IBL_4222_chromosome
+1		rfam	cmsrfamlit1mid
+	315730	NC_010181.1,Bacillus_weihenstephanensis_KBAB4_plasmid_pBWB402
+
+1		cmsrfam		cmsrfamlit1mid	hmmta *
+	1405	NZ_CP020746.1,Bacillus_mycoides_strain_Gnyt1_plasmid_unnamed3
+27		cmsrfam		cmsrfamlit1mid
+	1313	NZ_CMPX01000073.1,Streptococcus_pneumoniae_strain_10F
+	1396	NZ_NTYZ01000006.1,Bacillus_cereus_strain_AFS002848_AFS002848_108_F8_Contig9_140523
+	1430	NZ_PGDS01000096.1,Bacillus_thuringiensis_serovar_israelensis_strain_BGSC_4Q1_51146
+	1432	NZ_NFCE01000035.1,Bacillus_thuringiensis_serovar_thuringiensis_strain_BGSC_4A4_4A4_contig000035
+	1433	NZ_NFEP01000250.1,Bacillus_thuringiensis_serovar_aizawai_strain_T07019_T07019_contig000250
+	1434	NZ_PHSK01000018.1,Bacillus_thuringiensis_serovar_berliner_strain_Bt407_map_unlocalized_plasmid_pBt407_59970
+	1440	NZ_CP015180.1,Bacillus_thuringiensis_serovar_alesti_strain_BGSC_4C1_plasmid_pBMB71
+	1441	NZ_PGEC01000299.1,Bacillus_thuringiensis_serovar_morrisoni_strain_BGSC_4K1_53149
+	29338	NZ_CP010099.1,Bacillus_thuringiensis_serovar_galleriae_strain_HD-29_plasmid_pBMB8
+	155322	NZ_NUEH01000055.1,Bacillus_toyonensis_strain_AFS005430_AFS005430_100_E12_Contig55_140514
+	180868	NZ_JWJY01000111.1,Bacillus_thuringiensis_serovar_mexicanensis_strain_27_Btm27_contig000111
+	180896	NZ_MOOR01000008.1,Bacillus_thuringiensis_serovar_zhaodongensis_strain_BGSC_4BZ1_contig000008
+	257986	NZ_NFCT01000108.1,Bacillus_thuringiensis_serovar_novosibirsk_strain_BGSC_4AX1_4AX1_contig000108
+	527021	NC_018881.1,Bacillus_thuringiensis_Bt407_plasmid_BTB_8p
+	527023	NZ_CM000751.1,Bacillus_thuringiensis_serovar_kurstaki_str._T03a001_chromosome
+	570416	NZ_CP007610.1,Bacillus_thuringiensis_serovar_kurstaki_str._YBT-1520_plasmid_pBMB8240
+	1238885	NZ_AMXT02000312.1,Bacillus_thuringiensis_serovar_aizawai_str._Hu4-2_Contig_312
+	1261129	NZ_CP004874.1,Bacillus_thuringiensis_serovar_kurstaki_str._HD-1_plasmid_pBMB74
+	1279365	NC_020240.1,Bacillus_thuringiensis_serovar_kurstaki_str._HD73_plasmid_pAW63
+	1324966	NZ_ARXZ02000079.1,Bacillus_thuringiensis_T01-328_contig000079
+	1452729	NZ_CP009344.1,Bacillus_thuringiensis_HD1002_plasmid_7
+	1736425	NZ_LMJP01000033.1,Bacillus_sp._Root11_contig_39
+	1736451	NZ_LMJQ01000029.1,Bacillus_sp._Root131_contig_35
+	1761766	NZ_FNUW01000026.1,Bacillus_sp._ok061
+	2026186	NZ_FWYW01000117.1,Bacillus_cereus_strain_16-00174
+	2026189	NZ_SEIR01000210.1,Bacillus_albus_strain_PFYN01_NODE_210
+	2184001	NZ_QPKA01000051.1,Bacillus_sp._AG102_Ga0222358_151
+
+1		lit1	cmslit1		cmslit1mid	pfam *
+	557723	NC_011852.1,Haemophilus_parasuis_SH0165
+1		lit1	cmslit1		cmslit1mid	hmmta *
+	738		NZ_MNAL01000009.1,Glaesserella_parasuis_strain_131_Scaffold9
+2 	lit1	cmsrfamlit1mid
+	596323	NZ_ADAD01000181.1,Leptotrichia_goodfellowii_F0264_contig00130
+	866773	NZ_AEDP01000009.1,Finegoldia_magna_BVS033A4_contig00022
+
+2		cmslit1		cmslit1mid	cmsrfamlit1mid	hmmta	*
+	2663009	NZ_CP024704.1,Fusobacterium_periodonticum_strain_KCOM_2555_chromosome
+	861		NZ_CP028105.1,Fusobacterium_ulcerans_strain_ATCC_49185_chromosome
+9		cmslit1		cmslit1mid	cmsrfamlit1mid
+	850		NZ_QSTZ01000034.1,Fusobacterium_mortiferum_strain_OM06-15BH_OM06-15BH.Scaf34
+	76857	NZ_NIRQ01000001.1,Fusobacterium_nucleatum_subsp._polymorphum_strain_KCOM_1330_(=ChDC_F330)_F330_1
+	350688	NC_009922.1,Alkaliphilus_oremlandii_OhILAs
+	469605	NZ_GG657971.1,Fusobacterium_gonidiaformans_3-1-5R_strain_3_1_5R_supercont1.1
+	469617	NZ_JH815232.1,Fusobacterium_ulcerans_ATCC_49185_supercont2.5
+	1050201	NZ_KB913034.1,Allobaculum_stercoricanis_DSM_13633_AllstDRAFT_scaffold1.1
+	1401079	NZ_JALU01000020.1,Mogibacterium_timidum_ATCC_33093_ctg7180000004144
+	1473580	NZ_JWID01000021.1,Defluviitalea_phaphyphila_strain_Alg1_scaffold21
+	1982626	NZ_PYLQ01000027.1,Lachnoclostridium_sp._SNUG30099_scaffold_26
+14		cmslit1		cmslit1mid (die beiden sets sind gleichgroß und identisch)
+	1117322	NZ_ANKT01000043.1,Glaesserella_parasuis_str._Nagasaki_Contig158
+	1120992	NZ_KB894611.1,Anaeromusa_acidaminophila_DSM_3853_C508DRAFT_scaffold00030.30
+	1138429	NZ_AOSU01000002.1,Glaesserella_parasuis_gx033_Scaffold1_3
+	1275966	NZ_APBU01000003.1,Glaesserella_parasuis_SW114_ghpKR2.contig.2
+	1275967	NZ_APBV01000010.1,Glaesserella_parasuis_MN-H_KuehnKR3.contig.9
+	1275968	NZ_APBW01000006.1,Glaesserella_parasuis_12939_KR4_12939.contig.5
+	1275969	NZ_APBX01000002.1,Glaesserella_parasuis_84-15995_ghpKR6.contig.1
+	1275971	NZ_APBZ01000010.1,Glaesserella_parasuis_D74_ghpKR8.contig.9
+	1399771	NZ_JJNQ01000141.1,Glaesserella_parasuis_ST4-1_contig0143
+	1399772 NZ_JJNR01000207.1,Glaesserella_parasuis_ST4-2_contig0215
+	1437068	NZ_AZQU01000045.1,Glaesserella_parasuis_84-17975_contig045
+	1450513	NZ_JDSN01000024.1,Glaesserella_parasuis_HPS9_contig0024
+	1450514	NZ_JDSO01000193.1,Glaesserella_parasuis_HPS10_contig0196
+	1450515	NZ_JDSP01000234.1,Glaesserella_parasuis_HPS11_contig0236
+
+4 		cmsrfamlit1mid	hmmta *
+	580165	NZ_CP024122.1,Bacillus_cytotoxicus_strain_CH_1_plasmid_pCh1_67
+	637971	NZ_CP012033.1,Lactobacillus_koreensis_strain_26-25
+	2025949	NZ_CP022736.1,Herbaspirillum_sp._meg3_chromosome
+	2144175	NZ_CP029462.1,Megasphaera_stantonii_strain_AJH120_chromosome
