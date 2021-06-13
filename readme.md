@@ -124,12 +124,14 @@ build and calibrate covariane model
     /infernal-1.1.3/src/cmcalibrate /rpi_toxIN/model_toxirna_pdb/toxipdb_model.cm <!--optional: --cpu <n> -->
 
 homology search with covariance model  
+
     /infernal-1.1.3/src/cmsearch -o /rpi_toxIN/model_toxirna_pdb/toxipdb_cmsearch.out -A /rpi_toxIN/model_toxirna_pdb/toxipdb_cmsearch_msa.fa --tblout /rpi_toxIN/model_toxirna_pdb/toxipdb_cmsearch_hits.txt --cpu 16 --verbose --nohmmonly -E 1000 -Z 549862.597050 /rpi_toxIN/model_toxirna_pdb/toxipdb_model.cm /rpi_toxIN/all_genomes.fna
 
         for more relaxed prefilter add --mid (or --nohmm):
     /infernal-1.1.3/src/cmsearch -o /rpi_toxIN/model_toxirna_lit2/toxilit2_cmsearch--mid.out -A /rpi_toxIN/model_toxirna_lit2/toxilit2_cmsearch--mid_msa.fa --tblout /rpi_toxIN/model_toxirna_lit2/toxilit2_cmsearch--mid_hits.txt --mid --cpu 16 --verbose --nohmmonly -E 1000 -Z 549862.597050 /rpi_toxIN/model_toxirna_lit2/toxilit2_model.cm /rpi_toxIN/all_genomes.fna
 
 check covariance model  
+
     /infernal-1.1.3/src/cmpress /rpi_toxIN/model_toxirna_lit2/toxilit2_model.cm
     /infernal-1.1.3/src/cmscan -o /rpi_toxIN/cmscan_checkup/lit2_cmscan.out --tblout /rpi_toxIN/cmscan_checkup/lit2_cmscan_hits.txt /rpi_toxIN/model_toxirna_lit2/toxilit2_model.cm /rpi_toxIN/sequence_data/toxirna_seq_literature2.fasta
 
@@ -271,7 +273,6 @@ download bacterial proteomes from NCBI FTP server
 
 *Weblogos*  
   web service of WebLogo 3  
-  http://weblogo.threeplusone.com/create.cgi  
 
 *PyMOL*  
   annotation selection for PDB:2XD0  
