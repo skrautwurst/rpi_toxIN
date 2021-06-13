@@ -1,0 +1,147 @@
+%!PS-Adobe-3.0 EPSF-3.0
+%%Creator: ViennaRNA-2.4.13
+%%CreationDate: Wed May  5 11:36:28 2021
+%%Title: ViennaRNA Package - Alignment
+%%BoundingBox: 0 0 426 100
+%%DocumentFonts: Helvetica
+%%Pages: 1
+%%EndComments
+
+% Program options: --noLP 
+
+/ALNdict 100 dict def
+
+ALNdict begin
+
+%%BeginProlog
+
+% draws Vienna RNA like colored boxes
+/box { % x1 y1 x2 y2 hue saturation
+  gsave
+  dup 0.3 mul 1 exch sub sethsbcolor
+  exch 3 index sub exch 2 index sub rectfill
+  grestore
+} def
+% draws a box in current color
+/box2 { % x1 y1 x2 y2
+  exch 3 index sub exch 2 index sub rectfill
+} def
+/string { % (Text) x y
+ 6 add
+ moveto
+  show
+} def
+
+%%EndProlog
+
+0 100 translate
+1 -1 scale
+/Courier findfont
+[10 0 0 -10 0 0] makefont setfont
+246.0 11.5 252.0 20.0 0.16 1 box
+246.0 20.0 252.0 28.5 0.16 1 box
+246.0 28.5 252.0 37.0 0.16 1 box
+246.0 37.0 252.0 45.5 0.16 1 box
+246.0 45.5 252.0 54.0 0.16 1 box
+246.0 54.0 252.0 62.5 0.16 1 box
+342.0 11.5 348.0 20.0 0.16 1 box
+342.0 20.0 348.0 28.5 0.16 1 box
+342.0 28.5 348.0 37.0 0.16 1 box
+342.0 37.0 348.0 45.5 0.16 1 box
+342.0 45.5 348.0 54.0 0.16 1 box
+342.0 54.0 348.0 62.5 0.16 1 box
+252.0 11.5 258.0 20.0 0.0 1 box
+252.0 20.0 258.0 28.5 0.0 1 box
+252.0 28.5 258.0 37.0 0.0 1 box
+252.0 37.0 258.0 45.5 0.0 1 box
+252.0 45.5 258.0 54.0 0.0 1 box
+252.0 54.0 258.0 62.5 0.0 1 box
+336.0 11.5 342.0 20.0 0.0 1 box
+336.0 20.0 342.0 28.5 0.0 1 box
+336.0 28.5 342.0 37.0 0.0 1 box
+336.0 37.0 342.0 45.5 0.0 1 box
+336.0 45.5 342.0 54.0 0.0 1 box
+336.0 54.0 342.0 62.5 0.0 1 box
+258.0 11.5 264.0 20.0 0.0 1 box
+258.0 20.0 264.0 28.5 0.0 1 box
+258.0 28.5 264.0 37.0 0.0 1 box
+258.0 37.0 264.0 45.5 0.0 1 box
+258.0 45.5 264.0 54.0 0.0 1 box
+258.0 54.0 264.0 62.5 0.0 1 box
+330.0 11.5 336.0 20.0 0.0 1 box
+330.0 20.0 336.0 28.5 0.0 1 box
+330.0 28.5 336.0 37.0 0.0 1 box
+330.0 37.0 336.0 45.5 0.0 1 box
+330.0 45.5 336.0 54.0 0.0 1 box
+330.0 54.0 336.0 62.5 0.0 1 box
+264.0 11.5 270.0 20.0 0.0 1 box
+264.0 20.0 270.0 28.5 0.0 1 box
+264.0 28.5 270.0 37.0 0.0 1 box
+264.0 37.0 270.0 45.5 0.0 1 box
+264.0 45.5 270.0 54.0 0.0 1 box
+264.0 54.0 270.0 62.5 0.0 1 box
+324.0 11.5 330.0 20.0 0.0 1 box
+324.0 20.0 330.0 28.5 0.0 1 box
+324.0 28.5 330.0 37.0 0.0 1 box
+324.0 37.0 330.0 45.5 0.0 1 box
+324.0 45.5 330.0 54.0 0.0 1 box
+324.0 54.0 330.0 62.5 0.0 1 box
+0 setgray
+(...........\(\(\(\(.........\)\)\)\)......) 180.0 2.0 string
+(AE017335.3/88384-88351) 6.0 12.5 string
+(AAATTGGTGTAGCCTTACCGTAGTAGGCATTCAT) 180.0 12.5 string
+(34) 390.0 12.5 string
+(AAJM01000236.1/1478-1445) 6.0 21.0 string
+(AAATTGGTGTATCCTTACCCTAGTAGGAACAAAA) 180.0 21.0 string
+(34) 390.0 21.0 string
+(DQ025752.1/63481-63448) 6.0 29.5 string
+(AAATTGGTGTAGCCTTACCGTAGTAGGCGCTAAA) 180.0 29.5 string
+(34) 390.0 29.5 string
+(AAEP01000052.1/71937-71904) 6.0 38.0 string
+(AAATTGGTGTAGCCTTACCGTAGTAGGCATTCAT) 180.0 38.0 string
+(34) 390.0 38.0 string
+(CP000905.1/47243-47276) 6.0 46.5 string
+(AAATTGGTGTAGCCTTACCGTAGTAGGCACAAAA) 180.0 46.5 string
+(34) 390.0 46.5 string
+(ACNL01000295.1/1429-1396) 6.0 55.0 string
+(AAATTGGTGTATCCTTACCCTAGTAGGAACAAAA) 180.0 55.0 string
+(34) 390.0 55.0 string
+(.........10........20........30...) 180.0 65.5 string
+0.6 setgray
+180.0 77.2 186.0 93.5 box2
+186.0 77.2 192.0 93.5 box2
+192.0 77.2 198.0 93.5 box2
+198.0 77.2 204.0 93.5 box2
+204.0 77.2 210.0 93.5 box2
+210.0 77.2 216.0 93.5 box2
+216.0 77.2 222.0 93.5 box2
+222.0 77.2 228.0 93.5 box2
+228.0 77.2 234.0 93.5 box2
+234.0 77.2 240.0 93.5 box2
+240.0 77.2 246.0 93.5 box2
+246.0 83.8 252.0 93.5 box2
+252.0 77.2 258.0 93.5 box2
+258.0 77.2 264.0 93.5 box2
+264.0 77.2 270.0 93.5 box2
+270.0 77.2 276.0 93.5 box2
+276.0 77.2 282.0 93.5 box2
+282.0 77.2 288.0 93.5 box2
+288.0 77.2 294.0 93.5 box2
+294.0 83.8 300.0 93.5 box2
+300.0 77.2 306.0 93.5 box2
+306.0 77.2 312.0 93.5 box2
+312.0 77.2 318.0 93.5 box2
+318.0 77.2 324.0 93.5 box2
+324.0 77.2 330.0 93.5 box2
+330.0 77.2 336.0 93.5 box2
+336.0 77.2 342.0 93.5 box2
+342.0 83.8 348.0 93.5 box2
+348.0 80.5 354.0 93.5 box2
+354.0 83.8 360.0 93.5 box2
+360.0 87.0 366.0 93.5 box2
+366.0 83.8 372.0 93.5 box2
+372.0 77.2 378.0 93.5 box2
+378.0 83.8 384.0 93.5 box2
+showpage
+end
+%%EOF

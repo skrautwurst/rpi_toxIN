@@ -1,0 +1,866 @@
+# cmscan :: search sequence(s) against a CM database
+# INFERNAL 1.1.3 (Nov 2019)
+# Copyright (C) 2019 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query sequence file:                   msa_toxirna_literature/1_manual/manual_lit1.fasta
+# target CM database:                    model_toxirna_lit1manual/toxilit1man_model.cm
+# output directed to file:               cmscan_checkup/lit1man_cmscan.out
+# tabular output of hits:                cmscan_checkup/lit1man_cmscan_hits.txt
+# number of worker threads:              48
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       Pectobacterium_atrosepticum_SCRI1039  [L=36]
+Hit scores:
+ rank     E-value  score  bias  modelname           start    end   mdl trunc   gc  description
+ ----   --------- ------ -----  ------------------ ------ ------   --- ----- ----  -----------
+  (1) !   3.5e-05   19.0   0.0  RNAalifold_results      1     36 +  cm    no 0.39  -
+
+
+Hit alignments:
+>> RNAalifold_results  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   3.5e-05   19.0   0.0  cm        1       39 []           1          36 + [] 0.91    no 0.39
+
+                                                                                  NC
+                                          :::::<<<<________>>>>:::::::::::::::::: CS
+                    RNAalifold_results  1 AAAgaaGGuGgAuCcCuaCCuUaAAAGUGgGaauUAAAA 39
+                                          A +  AGGUG++U  CUACCUU+A AGUG  A+ UA AA
+  Pectobacterium_atrosepticum_SCRI1039  1 AUU-CAGGUGAUUUGCUACCUUUA-AGUGC-AGCUAGAA 36
+                                          *88.9*****8799999******5.*****.79999999 PP
+
+
+
+Internal CM pipeline statistics summary:
+----------------------------------------
+Query sequence(s):                                               1  (72 residues searched)
+Query sequences re-searched for truncated hits:                  1  (216.0 residues re-searched, avg per model)
+Target model(s):                                                 1  (39 consensus positions)
+Windows   passing  local HMM SSV           filter:               5  (0.6007); expected (0.35)
+Windows   passing  local HMM Viterbi       filter:                  (off)
+Windows   passing  local HMM Viterbi  bias filter:                  (off)
+Windows   passing  local HMM Forward       filter:               4  (0.5); expected (0.02)
+Windows   passing  local HMM Forward  bias filter:               4  (0.5); expected (0.02)
+Windows   passing glocal HMM Forward       filter:               4  (0.5); expected (0.02)
+Windows   passing glocal HMM Forward  bias filter:               4  (0.5); expected (0.02)
+Envelopes passing glocal HMM envelope defn filter:               4  (0.5); expected (0.02)
+Envelopes passing  local CM  CYK           filter:               3  (0.375); expected (0.0001)
+Total CM hits reported:                                          1  (0.125); includes 0 truncated hit(s)
+
+# CPU time: 0.04u 0.04s 00:00:00.08 Elapsed: 00:00:00.06
+//
+Query:       Haemophilus_parasuis  [L=32]
+Hit scores:
+ rank     E-value  score  bias  modelname  start    end   mdl trunc   gc  description
+ ----   --------- ------ -----  --------- ------ ------   --- ----- ----  -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Hit alignments:
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Internal CM pipeline statistics summary:
+----------------------------------------
+Query sequence(s):                                               1  (64 residues searched)
+Query sequences re-searched for truncated hits:                  1  (192.0 residues re-searched, avg per model)
+Target model(s):                                                 1  (39 consensus positions)
+Windows   passing  local HMM SSV           filter:               4  (0.5); expected (0.35)
+Windows   passing  local HMM Viterbi       filter:                  (off)
+Windows   passing  local HMM Viterbi  bias filter:                  (off)
+Windows   passing  local HMM Forward       filter:               4  (0.5); expected (0.02)
+Windows   passing  local HMM Forward  bias filter:               4  (0.5); expected (0.02)
+Windows   passing glocal HMM Forward       filter:               4  (0.5); expected (0.02)
+Windows   passing glocal HMM Forward  bias filter:               4  (0.5); expected (0.02)
+Envelopes passing glocal HMM envelope defn filter:               4  (0.5); expected (0.02)
+Envelopes passing  local CM  CYK           filter:               0  (0); expected (0.0001)
+Total CM hits reported:                                          0  (0); includes 0 truncated hit(s)
+
+# CPU time: 0.02u 0.02s 00:00:00.04 Elapsed: 00:00:00.03
+//
+Query:       Fusobacterium_ulcerans_ATCC_49185  [L=35]
+Hit scores:
+ rank     E-value  score  bias  modelname           start    end   mdl trunc   gc  description
+ ----   --------- ------ -----  ------------------ ------ ------   --- ----- ----  -----------
+  (1) !   1.2e-06   24.7   0.0  RNAalifold_results      1     35 +  cm    no 0.46  -
+
+
+Hit alignments:
+>> RNAalifold_results  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   1.2e-06   24.7   0.0  cm        1       39 []           1          35 + [] 0.95    no 0.46
+
+                                                                               NC
+                                       :::::<<<<________>>>>:::::::::::::::::: CS
+                 RNAalifold_results  1 AAAgaaGGuGgAuCcCuaCCuUaAAAGUGgGaauUAAAA 39
+                                       AAA+ :GGUG A CCCUACC:U A AGUGGGA+UUAA  
+  Fusobacterium_ulcerans_ATCC_49185  1 AAAAGCGGUGUA-CCCUACCAUCA-AGUGGGAGUUAA-- 35
+                                       **********77.9999******5.**********99.. PP
+
+
+
+Internal CM pipeline statistics summary:
+----------------------------------------
+Query sequence(s):                                               1  (70 residues searched)
+Query sequences re-searched for truncated hits:                  1  (210.0 residues re-searched, avg per model)
+Target model(s):                                                 1  (39 consensus positions)
+Windows   passing  local HMM SSV           filter:               4  (0.5); expected (0.35)
+Windows   passing  local HMM Viterbi       filter:                  (off)
+Windows   passing  local HMM Viterbi  bias filter:                  (off)
+Windows   passing  local HMM Forward       filter:               4  (0.5); expected (0.02)
+Windows   passing  local HMM Forward  bias filter:               4  (0.5); expected (0.02)
+Windows   passing glocal HMM Forward       filter:               4  (0.5); expected (0.02)
+Windows   passing glocal HMM Forward  bias filter:               4  (0.5); expected (0.02)
+Envelopes passing glocal HMM envelope defn filter:               4  (0.5); expected (0.02)
+Envelopes passing  local CM  CYK           filter:               4  (0.5); expected (0.0001)
+Total CM hits reported:                                          1  (0.125); includes 0 truncated hit(s)
+
+# CPU time: 0.04u 0.02s 00:00:00.06 Elapsed: 00:00:00.03
+//
+Query:       Peptoniphilus_duerdenii_ATCC_BAA-1640  [L=35]
+Hit scores:
+ rank     E-value  score  bias  modelname           start    end   mdl trunc   gc  description
+ ----   --------- ------ -----  ------------------ ------ ------   --- ----- ----  -----------
+  (1) !   3.2e-05   19.1   0.0  RNAalifold_results      1     35 +  cm    no 0.43  -
+
+
+Hit alignments:
+>> RNAalifold_results  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   3.2e-05   19.1   0.0  cm        1       39 []           1          35 + [] 0.95    no 0.43
+
+                                                                                   NC
+                                           :::::<<<<________>>>>:::::::::::::::::: CS
+                     RNAalifold_results  1 AAAgaaGGuGgAuCcCuaCCuUaAAAGUGgGaauUAAAA 39
+                                           AAA+ :GG:G A C C :CC:UAA A UG GAA UAA  
+  Peptoniphilus_duerdenii_ATCC_BAA-1640  1 AAAAGCGGUGUA-CGCAGCCAUAA-AAUGCGAACUAA-- 35
+                                           **********77.***9******5.******999999.. PP
+
+
+
+Internal CM pipeline statistics summary:
+----------------------------------------
+Query sequence(s):                                               1  (70 residues searched)
+Query sequences re-searched for truncated hits:                  1  (210.0 residues re-searched, avg per model)
+Target model(s):                                                 1  (39 consensus positions)
+Windows   passing  local HMM SSV           filter:               4  (0.5); expected (0.35)
+Windows   passing  local HMM Viterbi       filter:                  (off)
+Windows   passing  local HMM Viterbi  bias filter:                  (off)
+Windows   passing  local HMM Forward       filter:               4  (0.5); expected (0.02)
+Windows   passing  local HMM Forward  bias filter:               4  (0.5); expected (0.02)
+Windows   passing glocal HMM Forward       filter:               4  (0.5); expected (0.02)
+Windows   passing glocal HMM Forward  bias filter:               4  (0.5); expected (0.02)
+Envelopes passing glocal HMM envelope defn filter:               4  (0.5); expected (0.02)
+Envelopes passing  local CM  CYK           filter:               4  (0.5); expected (0.0001)
+Total CM hits reported:                                          1  (0.125); includes 0 truncated hit(s)
+
+# CPU time: 0.04u 0.01s 00:00:00.05 Elapsed: 00:00:00.04
+//
+Query:       Haemophilus_parasuis_SH0165  [L=34]
+Hit scores:
+ rank     E-value  score  bias  modelname           start    end   mdl trunc   gc  description
+ ----   --------- ------ -----  ------------------ ------ ------   --- ----- ----  -----------
+  (1) !   2.5e-05   19.5   0.0  RNAalifold_results      1     34 +  cm    no 0.41  -
+
+
+Hit alignments:
+>> RNAalifold_results  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   2.5e-05   19.5   0.0  cm        1       39 []           1          34 + [] 0.97    no 0.41
+
+                                                                         NC
+                                 :::::<<<<________>>>>:::::::::::::::::: CS
+           RNAalifold_results  1 AAAgaaGGuGgAuCcCuaCCuUaAAAGUGgGaauUAAAA 39
+                                 A A  :GGUG+A C CUACC:U+AAAGUG GA  U    
+  Haemophilus_parasuis_SH0165  1 AUAUGUGGUGAA-CGCUACCAUUAAAGUGCGAUGU---- 34
+                                 **********87.******************9999.... PP
+
+
+
+Internal CM pipeline statistics summary:
+----------------------------------------
+Query sequence(s):                                               1  (68 residues searched)
+Query sequences re-searched for truncated hits:                  1  (204.0 residues re-searched, avg per model)
+Target model(s):                                                 1  (39 consensus positions)
+Windows   passing  local HMM SSV           filter:               4  (0.5); expected (0.35)
+Windows   passing  local HMM Viterbi       filter:                  (off)
+Windows   passing  local HMM Viterbi  bias filter:                  (off)
+Windows   passing  local HMM Forward       filter:               4  (0.5); expected (0.02)
+Windows   passing  local HMM Forward  bias filter:               4  (0.5); expected (0.02)
+Windows   passing glocal HMM Forward       filter:               4  (0.5); expected (0.02)
+Windows   passing glocal HMM Forward  bias filter:               4  (0.5); expected (0.02)
+Envelopes passing glocal HMM envelope defn filter:               4  (0.5); expected (0.02)
+Envelopes passing  local CM  CYK           filter:               4  (0.5); expected (0.0001)
+Total CM hits reported:                                          1  (0.125); includes 0 truncated hit(s)
+
+# CPU time: 0.04u 0.02s 00:00:00.06 Elapsed: 00:00:00.04
+//
+Query:       Clostridium_cellulovorans_743B  [L=37]
+Hit scores:
+ rank     E-value  score  bias  modelname           start    end   mdl trunc   gc  description
+ ----   --------- ------ -----  ------------------ ------ ------   --- ----- ----  -----------
+  (1) !     4e-05   18.8   0.0  RNAalifold_results      1     37 +  cm    no 0.41  -
+
+
+Hit alignments:
+>> RNAalifold_results  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !     4e-05   18.8   0.0  cm        1       39 []           1          37 + [] 0.93    no 0.41
+
+                                         v              v                   NC
+                                    :::::<<<<________>>>>:::::::::::::::::: CS
+              RNAalifold_results  1 AAAgaaGGuGgAuCcCuaCCuUaAAAGUGgGaauUAAAA 39
+                                    A +   GGUG+   CCUACC UA  AGUGG  A UAAAA
+  Clostridium_cellulovorans_743B  1 AUU-CAGGUGAGGUCCUACCAUAC-AGUGGACAAUAAAA 37
+                                    *88.78****8779998******6.************** PP
+
+
+
+Internal CM pipeline statistics summary:
+----------------------------------------
+Query sequence(s):                                               1  (74 residues searched)
+Query sequences re-searched for truncated hits:                  1  (222.0 residues re-searched, avg per model)
+Target model(s):                                                 1  (39 consensus positions)
+Windows   passing  local HMM SSV           filter:               5  (0.6149); expected (0.35)
+Windows   passing  local HMM Viterbi       filter:                  (off)
+Windows   passing  local HMM Viterbi  bias filter:                  (off)
+Windows   passing  local HMM Forward       filter:               4  (0.5); expected (0.02)
+Windows   passing  local HMM Forward  bias filter:               4  (0.5); expected (0.02)
+Windows   passing glocal HMM Forward       filter:               4  (0.5); expected (0.02)
+Windows   passing glocal HMM Forward  bias filter:               4  (0.5); expected (0.02)
+Envelopes passing glocal HMM envelope defn filter:               4  (0.5); expected (0.02)
+Envelopes passing  local CM  CYK           filter:               3  (0.375); expected (0.0001)
+Total CM hits reported:                                          1  (0.125); includes 0 truncated hit(s)
+
+# CPU time: 0.04u 0.02s 00:00:00.06 Elapsed: 00:00:00.04
+//
+Query:       Lactobacillus_gasseri_JV-V03  [L=37]
+Hit scores:
+ rank     E-value  score  bias  modelname           start    end   mdl trunc   gc  description
+ ----   --------- ------ -----  ------------------ ------ ------   --- ----- ----  -----------
+  (1) !   1.1e-05   21.1   0.0  RNAalifold_results      1     37 +  cm    no 0.46  -
+
+
+Hit alignments:
+>> RNAalifold_results  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   1.1e-05   21.1   0.0  cm        1       39 []           1          37 + [] 0.96    no 0.46
+
+                                                                          NC
+                                  :::::<<<<________>>>>:::::::::::::::::: CS
+            RNAalifold_results  1 AAAgaaGGuGgAuCcCuaCCuUaAAAGUGgGaauUAAAA 39
+                                  AAAGA:GG:G +UCCC :CC: A  AGUG+GAAU+ AA 
+  Lactobacillus_gasseri_JV-V03  1 AAAGACGGUGUUUCCCAGCCACA--AGUGAGAAUCGAAU 37
+                                  **********8789998*****6..************** PP
+
+
+
+Internal CM pipeline statistics summary:
+----------------------------------------
+Query sequence(s):                                               1  (74 residues searched)
+Query sequences re-searched for truncated hits:                  1  (222.0 residues re-searched, avg per model)
+Target model(s):                                                 1  (39 consensus positions)
+Windows   passing  local HMM SSV           filter:               4  (0.5); expected (0.35)
+Windows   passing  local HMM Viterbi       filter:                  (off)
+Windows   passing  local HMM Viterbi  bias filter:                  (off)
+Windows   passing  local HMM Forward       filter:               4  (0.5); expected (0.02)
+Windows   passing  local HMM Forward  bias filter:               4  (0.5); expected (0.02)
+Windows   passing glocal HMM Forward       filter:               4  (0.5); expected (0.02)
+Windows   passing glocal HMM Forward  bias filter:               4  (0.5); expected (0.02)
+Envelopes passing glocal HMM envelope defn filter:               4  (0.5); expected (0.02)
+Envelopes passing  local CM  CYK           filter:               4  (0.5); expected (0.0001)
+Total CM hits reported:                                          1  (0.125); includes 0 truncated hit(s)
+
+# CPU time: 0.04u 0.02s 00:00:00.06 Elapsed: 00:00:00.04
+//
+Query:       Lactobacillus_jensenii_208-1  [L=35]
+Hit scores:
+ rank     E-value  score  bias  modelname           start    end   mdl trunc   gc  description
+ ----   --------- ------ -----  ------------------ ------ ------   --- ----- ----  -----------
+  (1) !   0.00013   16.6   0.0  RNAalifold_results      2     35 +  cm    no 0.38  -
+
+
+Hit alignments:
+>> RNAalifold_results  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   0.00013   16.6   0.0  cm        1       39 []           2          35 + .] 0.96    no 0.38
+
+                                                                          NC
+                                  :::::<<<<________>>>>:::::::::::::::::: CS
+            RNAalifold_results  1 AAAgaaGGuGgAuCcCuaCCuUaAAAGUGgGaauUAAAA 39
+                                  AA + ::G:G AUC C :C::UA  AGUG+GAAUUA   
+  Lactobacillus_jensenii_208-1  2 AAGAGGAGUGUAUCUCAGCUCUA--AGUGAGAAUUA--- 35
+                                  **********999***9*****6..***********... PP
+
+
+
+Internal CM pipeline statistics summary:
+----------------------------------------
+Query sequence(s):                                               1  (70 residues searched)
+Query sequences re-searched for truncated hits:                  1  (210.0 residues re-searched, avg per model)
+Target model(s):                                                 1  (39 consensus positions)
+Windows   passing  local HMM SSV           filter:               4  (0.5); expected (0.35)
+Windows   passing  local HMM Viterbi       filter:                  (off)
+Windows   passing  local HMM Viterbi  bias filter:                  (off)
+Windows   passing  local HMM Forward       filter:               4  (0.5); expected (0.02)
+Windows   passing  local HMM Forward  bias filter:               4  (0.5); expected (0.02)
+Windows   passing glocal HMM Forward       filter:               4  (0.5); expected (0.02)
+Windows   passing glocal HMM Forward  bias filter:               4  (0.5); expected (0.02)
+Envelopes passing glocal HMM envelope defn filter:               4  (0.5); expected (0.02)
+Envelopes passing  local CM  CYK           filter:               3  (0.375); expected (0.0001)
+Total CM hits reported:                                          1  (0.1214); includes 0 truncated hit(s)
+
+# CPU time: 0.06u 0.01s 00:00:00.06 Elapsed: 00:00:00.06
+//
+Query:       Bacillus_cereus_Rock_1-15  [L=36]
+Hit scores:
+ rank     E-value  score  bias  modelname  start    end   mdl trunc   gc  description
+ ----   --------- ------ -----  --------- ------ ------   --- ----- ----  -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Hit alignments:
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Internal CM pipeline statistics summary:
+----------------------------------------
+Query sequence(s):                                               1  (72 residues searched)
+Query sequences re-searched for truncated hits:                  1  (216.0 residues re-searched, avg per model)
+Target model(s):                                                 1  (39 consensus positions)
+Windows   passing  local HMM SSV           filter:               4  (0.5); expected (0.35)
+Windows   passing  local HMM Viterbi       filter:                  (off)
+Windows   passing  local HMM Viterbi  bias filter:                  (off)
+Windows   passing  local HMM Forward       filter:               4  (0.5); expected (0.02)
+Windows   passing  local HMM Forward  bias filter:               4  (0.5); expected (0.02)
+Windows   passing glocal HMM Forward       filter:               4  (0.5); expected (0.02)
+Windows   passing glocal HMM Forward  bias filter:               4  (0.5); expected (0.02)
+Envelopes passing glocal HMM envelope defn filter:               4  (0.5); expected (0.02)
+Envelopes passing  local CM  CYK           filter:               0  (0); expected (0.0001)
+Total CM hits reported:                                          0  (0); includes 0 truncated hit(s)
+
+# CPU time: 0.01u 0.02s 00:00:00.03 Elapsed: 00:00:00.02
+//
+Query:       Bryantella_formatexigens_DSM_14469  [L=34]
+Hit scores:
+ rank     E-value  score  bias  modelname           start    end   mdl trunc   gc  description
+ ----   --------- ------ -----  ------------------ ------ ------   --- ----- ----  -----------
+  (1) !    0.0013   12.6   0.0  RNAalifold_results      1     34 +  cm    no 0.47  -
+
+
+Hit alignments:
+>> RNAalifold_results  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !    0.0013   12.6   0.0  cm        1       39 []           1          34 + [] 0.93    no 0.47
+
+                                                                                NC
+                                        :::::<<<<________>>>>:::::::::::::::::: CS
+                  RNAalifold_results  1 AAAgaaGGuGgAuCcCuaCCuUaAAAGUGgGaauUAAAA 39
+                                        AA   : GUG+   CCUAC :UA  AGUGG A   A+AA
+  Bryantella_formatexigens_DSM_14469  1 AA--GCGGUGAG-UCCUACUGUA--AGUGGAACCGAUAA 34
+                                        *7..8*****65.9998*****6..************** PP
+
+
+
+Internal CM pipeline statistics summary:
+----------------------------------------
+Query sequence(s):                                               1  (68 residues searched)
+Query sequences re-searched for truncated hits:                  1  (204.0 residues re-searched, avg per model)
+Target model(s):                                                 1  (39 consensus positions)
+Windows   passing  local HMM SSV           filter:               5  (0.625); expected (0.35)
+Windows   passing  local HMM Viterbi       filter:                  (off)
+Windows   passing  local HMM Viterbi  bias filter:                  (off)
+Windows   passing  local HMM Forward       filter:               4  (0.5); expected (0.02)
+Windows   passing  local HMM Forward  bias filter:               4  (0.5); expected (0.02)
+Windows   passing glocal HMM Forward       filter:               4  (0.5); expected (0.02)
+Windows   passing glocal HMM Forward  bias filter:               4  (0.5); expected (0.02)
+Envelopes passing glocal HMM envelope defn filter:               4  (0.5); expected (0.02)
+Envelopes passing  local CM  CYK           filter:               1  (0.125); expected (0.0001)
+Total CM hits reported:                                          1  (0.125); includes 0 truncated hit(s)
+
+# CPU time: 0.02u 0.02s 00:00:00.04 Elapsed: 00:00:00.02
+//
+Query:       Eubacterium_yurii_subsp._margaretiae_ATCC_43715  [L=38]
+Hit scores:
+ rank     E-value  score  bias  modelname           start    end   mdl trunc   gc  description
+ ----   --------- ------ -----  ------------------ ------ ------   --- ----- ----  -----------
+  (1) !    0.0001   17.2   0.0  RNAalifold_results      2     38 +  cm    no 0.46  -
+
+
+Hit alignments:
+>> RNAalifold_results  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !    0.0001   17.2   0.0  cm        1       39 []           2          38 + .] 0.91    no 0.46
+
+                                                             v        v                      NC
+                                                     :::::<<<<________>>>>:::::::::::::::::: CS
+                               RNAalifold_results  1 AAAgaaGGuGgAuCcCuaCCuUaAAAGUGgGaauUAAAA 39
+                                                     A AG+AGG G+A+CC   CCUUA AAGUGGGA+UUAA  
+  Eubacterium_yurii_subsp._margaretiae_ATCC_43715  2 AGAGUAGGAGAACCCGAGCCUUAUAAGUGGGAGUUAA-- 38
+                                                     ***9999999887888899999999**********99.. PP
+
+
+
+Internal CM pipeline statistics summary:
+----------------------------------------
+Query sequence(s):                                               1  (76 residues searched)
+Query sequences re-searched for truncated hits:                  1  (228.0 residues re-searched, avg per model)
+Target model(s):                                                 1  (39 consensus positions)
+Windows   passing  local HMM SSV           filter:               5  (0.625); expected (0.35)
+Windows   passing  local HMM Viterbi       filter:                  (off)
+Windows   passing  local HMM Viterbi  bias filter:                  (off)
+Windows   passing  local HMM Forward       filter:               4  (0.5); expected (0.02)
+Windows   passing  local HMM Forward  bias filter:               4  (0.5); expected (0.02)
+Windows   passing glocal HMM Forward       filter:               4  (0.5); expected (0.02)
+Windows   passing glocal HMM Forward  bias filter:               4  (0.5); expected (0.02)
+Envelopes passing glocal HMM envelope defn filter:               4  (0.5); expected (0.02)
+Envelopes passing  local CM  CYK           filter:               3  (0.375); expected (0.0001)
+Total CM hits reported:                                          1  (0.1217); includes 0 truncated hit(s)
+
+# CPU time: 0.04u 0.02s 00:00:00.06 Elapsed: 00:00:00.04
+//
+Query:       Eubacterium_rectale_DSM_17629  [L=38]
+Hit scores:
+ rank     E-value  score  bias  modelname           start    end   mdl trunc   gc  description
+ ----   --------- ------ -----  ------------------ ------ ------   --- ----- ----  -----------
+  (1) !   7.2e-05   17.8   0.0  RNAalifold_results      1     38 +  cm    no 0.39  -
+
+
+Hit alignments:
+>> RNAalifold_results  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   7.2e-05   17.8   0.0  cm        1       39 []           1          38 + [] 0.97    no 0.39
+
+                                                                             NC
+                                   :::::<<<<___._____.>>>>:::::::::::::::::: CS
+             RNAalifold_results  1 AAAgaaGGuGgA.uCcCu.aCCuUaAAAGUGgGaauUAAAA 39
+                                   AA+++::G: GA UC+CU :C::UA  AGUG GA+ U AA 
+  Eubacterium_rectale_DSM_17629  1 AAUAUUCGGAGAgUCACUaCCGUUA--AGUGUGAGAUGAA- 38
+                                   ***********9*9**********6..**********999. PP
+
+
+
+Internal CM pipeline statistics summary:
+----------------------------------------
+Query sequence(s):                                               1  (76 residues searched)
+Query sequences re-searched for truncated hits:                  1  (228.0 residues re-searched, avg per model)
+Target model(s):                                                 1  (39 consensus positions)
+Windows   passing  local HMM SSV           filter:               4  (0.5); expected (0.35)
+Windows   passing  local HMM Viterbi       filter:                  (off)
+Windows   passing  local HMM Viterbi  bias filter:                  (off)
+Windows   passing  local HMM Forward       filter:               4  (0.5); expected (0.02)
+Windows   passing  local HMM Forward  bias filter:               4  (0.5); expected (0.02)
+Windows   passing glocal HMM Forward       filter:               4  (0.5); expected (0.02)
+Windows   passing glocal HMM Forward  bias filter:               4  (0.5); expected (0.02)
+Envelopes passing glocal HMM envelope defn filter:               4  (0.5); expected (0.02)
+Envelopes passing  local CM  CYK           filter:               3  (0.375); expected (0.0001)
+Total CM hits reported:                                          1  (0.125); includes 0 truncated hit(s)
+
+# CPU time: 0.04u 0.02s 00:00:00.06 Elapsed: 00:00:00.03
+//
+Query:       Veillonella_parvula_ACS-068-V-Sch12  [L=36]
+Hit scores:
+ rank     E-value  score  bias  modelname           start    end   mdl trunc   gc  description
+ ----   --------- ------ -----  ------------------ ------ ------   --- ----- ----  -----------
+  (1) !   4.7e-06   22.4   0.0  RNAalifold_results      1     36 +  cm    no 0.44  -
+
+
+Hit alignments:
+>> RNAalifold_results  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   4.7e-06   22.4   0.0  cm        1       39 []           1          36 + [] 0.95    no 0.44
+
+                                                                                 NC
+                                         :::::<<<<________>>>>:::::::::::::::::: CS
+                   RNAalifold_results  1 AAAgaaGGuGgAuCcCuaCCuUaAAAGUGgGaauUAAAA 39
+                                         A AG :GGU +AUC C+ACC:UA  AG+G GAA +AAAA
+  Veillonella_parvula_ACS-068-V-Sch12  1 AGAG-CGGUAAAUCGCCACCAUA--AGAGCGAAACAAAA 36
+                                         *995.8****999***9*****6..************** PP
+
+
+
+Internal CM pipeline statistics summary:
+----------------------------------------
+Query sequence(s):                                               1  (72 residues searched)
+Query sequences re-searched for truncated hits:                  1  (216.0 residues re-searched, avg per model)
+Target model(s):                                                 1  (39 consensus positions)
+Windows   passing  local HMM SSV           filter:               5  (0.6042); expected (0.35)
+Windows   passing  local HMM Viterbi       filter:                  (off)
+Windows   passing  local HMM Viterbi  bias filter:                  (off)
+Windows   passing  local HMM Forward       filter:               4  (0.5); expected (0.02)
+Windows   passing  local HMM Forward  bias filter:               4  (0.5); expected (0.02)
+Windows   passing glocal HMM Forward       filter:               4  (0.5); expected (0.02)
+Windows   passing glocal HMM Forward  bias filter:               4  (0.5); expected (0.02)
+Envelopes passing glocal HMM envelope defn filter:               4  (0.5); expected (0.02)
+Envelopes passing  local CM  CYK           filter:               4  (0.5); expected (0.0001)
+Total CM hits reported:                                          1  (0.125); includes 0 truncated hit(s)
+
+# CPU time: 0.04u 0.00s 00:00:00.04 Elapsed: 00:00:00.03
+//
+Query:       Clostridium_phage_D-1873  [L=38]
+Hit scores:
+ rank     E-value  score  bias  modelname           start    end   mdl trunc   gc  description
+ ----   --------- ------ -----  ------------------ ------ ------   --- ----- ----  -----------
+  (1) !   6.8e-06   21.9   0.0  RNAalifold_results      1     38 +  cm    no 0.47  -
+
+
+Hit alignments:
+>> RNAalifold_results  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   6.8e-06   21.9   0.0  cm        1       39 []           1          38 + [] 0.96    no 0.47
+
+                                                                      NC
+                              :::::<<<<________>>>>:::::::::::::::::: CS
+        RNAalifold_results  1 AAAgaaGGuGgAuCcCuaCCuUaAAAGUGgGaauUAAAA 39
+                              AAAG+::GUG+ +C C+AC::UA AAG G+G+A + AA 
+  Clostridium_phage_D-1873  1 AAAGUCAGUGAGCCUCCACUGUAUAAGCGAGGAGCUAA- 38
+                              **********8689999*********************. PP
+
+
+
+Internal CM pipeline statistics summary:
+----------------------------------------
+Query sequence(s):                                               1  (76 residues searched)
+Query sequences re-searched for truncated hits:                  1  (228.0 residues re-searched, avg per model)
+Target model(s):                                                 1  (39 consensus positions)
+Windows   passing  local HMM SSV           filter:               8  (1); expected (0.35)
+Windows   passing  local HMM Viterbi       filter:                  (off)
+Windows   passing  local HMM Viterbi  bias filter:                  (off)
+Windows   passing  local HMM Forward       filter:               8  (1); expected (0.02)
+Windows   passing  local HMM Forward  bias filter:               8  (1); expected (0.02)
+Windows   passing glocal HMM Forward       filter:               6  (0.75); expected (0.02)
+Windows   passing glocal HMM Forward  bias filter:               6  (0.75); expected (0.02)
+Envelopes passing glocal HMM envelope defn filter:               5  (0.6053); expected (0.02)
+Envelopes passing  local CM  CYK           filter:               4  (0.5); expected (0.0001)
+Total CM hits reported:                                          1  (0.125); includes 0 truncated hit(s)
+
+# CPU time: 0.06u 0.02s 00:00:00.08 Elapsed: 00:00:00.05
+//
+Query:       Clostridium_botulinum_BKT015925  [L=39]
+Hit scores:
+ rank     E-value  score  bias  modelname           start    end   mdl trunc   gc  description
+ ----   --------- ------ -----  ------------------ ------ ------   --- ----- ----  -----------
+  (1) !   4.6e-07   26.6   0.0  RNAalifold_results      1     39 +  cm    no 0.44  -
+
+
+Hit alignments:
+>> RNAalifold_results  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   4.6e-07   26.6   0.0  cm        1       39 []           1          39 + [] 0.98    no 0.44
+
+                                                                             NC
+                                     :::::<<<<________>>>>:::::::::::::::::: CS
+               RNAalifold_results  1 AAAgaaGGuGgAuCcCuaCCuUaAAAGUGgGaauUAAAA 39
+                                     AAAG+::GUG+A+C C+AC::UA AAG G+G+A + AAA
+  Clostridium_botulinum_BKT015925  1 AAAGUCAGUGAACCUCCACUGUAUAAGCGAGGAGCUAAA 39
+                                     **********9989999********************** PP
+
+
+
+Internal CM pipeline statistics summary:
+----------------------------------------
+Query sequence(s):                                               1  (78 residues searched)
+Query sequences re-searched for truncated hits:                  1  (234.0 residues re-searched, avg per model)
+Target model(s):                                                 1  (39 consensus positions)
+Windows   passing  local HMM SSV           filter:               8  (1); expected (0.35)
+Windows   passing  local HMM Viterbi       filter:                  (off)
+Windows   passing  local HMM Viterbi  bias filter:                  (off)
+Windows   passing  local HMM Forward       filter:               8  (1); expected (0.02)
+Windows   passing  local HMM Forward  bias filter:               8  (1); expected (0.02)
+Windows   passing glocal HMM Forward       filter:               6  (0.75); expected (0.02)
+Windows   passing glocal HMM Forward  bias filter:               6  (0.75); expected (0.02)
+Envelopes passing glocal HMM envelope defn filter:               6  (0.6827); expected (0.02)
+Envelopes passing  local CM  CYK           filter:               4  (0.5); expected (0.0001)
+Total CM hits reported:                                          1  (0.125); includes 0 truncated hit(s)
+
+# CPU time: 0.05u 0.00s 00:00:00.05 Elapsed: 00:00:00.04
+//
+Query:       Finegoldia_magna_BVS033A4  [L=40]
+Hit scores:
+ rank     E-value  score  bias  modelname           start    end   mdl trunc   gc  description
+ ----   --------- ------ -----  ------------------ ------ ------   --- ----- ----  -----------
+  (1) !   1.1e-05   21.2   0.0  RNAalifold_results      1     36 +  cm    no 0.39  -
+
+
+Hit alignments:
+>> RNAalifold_results  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   1.1e-05   21.2   0.0  cm        1       39 []           1          36 + [. 0.91    no 0.39
+
+                                                                         NC
+                               :::::<<<<___._____>>>>:::.::::::::::::::: CS
+         RNAalifold_results  1 AAAgaaGGuGgA.uCcCuaCCuUaA.AAGUGgGaauUAAAA 39
+                               AAAGAAGGUG   +C+CUACCU++A  A     A+ U AAA
+  Finegoldia_magna_BVS033A4  1 AAAGAAGGUGU-cCCACUACCUAUAuCAA----AGGUGAAA 36
+                               **********6.589998******99999....89999999 PP
+
+
+
+Internal CM pipeline statistics summary:
+----------------------------------------
+Query sequence(s):                                               1  (80 residues searched)
+Query sequences re-searched for truncated hits:                  1  (240.0 residues re-searched, avg per model)
+Target model(s):                                                 1  (39 consensus positions)
+Windows   passing  local HMM SSV           filter:               5  (0.5938); expected (0.35)
+Windows   passing  local HMM Viterbi       filter:                  (off)
+Windows   passing  local HMM Viterbi  bias filter:                  (off)
+Windows   passing  local HMM Forward       filter:               4  (0.5); expected (0.02)
+Windows   passing  local HMM Forward  bias filter:               4  (0.5); expected (0.02)
+Windows   passing glocal HMM Forward       filter:               4  (0.5); expected (0.02)
+Windows   passing glocal HMM Forward  bias filter:               4  (0.5); expected (0.02)
+Envelopes passing glocal HMM envelope defn filter:               4  (0.4875); expected (0.02)
+Envelopes passing  local CM  CYK           filter:               3  (0.3625); expected (0.0001)
+Total CM hits reported:                                          1  (0.1125); includes 0 truncated hit(s)
+
+# CPU time: 0.04u 0.03s 00:00:00.07 Elapsed: 00:00:00.04
+//
+Query:       Lactobacillus_kefiranofaciens_ZW3  [L=34]
+Hit scores:
+ rank     E-value  score  bias  modelname  start    end   mdl trunc   gc  description
+ ----   --------- ------ -----  --------- ------ ------   --- ----- ----  -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Hit alignments:
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Internal CM pipeline statistics summary:
+----------------------------------------
+Query sequence(s):                                               1  (68 residues searched)
+Query sequences re-searched for truncated hits:                  1  (204.0 residues re-searched, avg per model)
+Target model(s):                                                 1  (39 consensus positions)
+Windows   passing  local HMM SSV           filter:               0  (0); expected (0.35)
+Windows   passing  local HMM Viterbi       filter:                  (off)
+Windows   passing  local HMM Viterbi  bias filter:                  (off)
+Windows   passing  local HMM Forward       filter:               0  (0); expected (0.02)
+Windows   passing  local HMM Forward  bias filter:               0  (0); expected (0.02)
+Windows   passing glocal HMM Forward       filter:               0  (0); expected (0.02)
+Windows   passing glocal HMM Forward  bias filter:               0  (0); expected (0.02)
+Envelopes passing glocal HMM envelope defn filter:               0  (0); expected (0.02)
+Envelopes passing  local CM  CYK           filter:               0  (0); expected (0.0001)
+Total CM hits reported:                                          0  (0); includes 0 truncated hit(s)
+
+# CPU time: 0.01u 0.01s 00:00:00.02 Elapsed: 00:00:00.01
+//
+Query:       Fusobacterium_sp._3_1_5R  [L=39]
+Hit scores:
+ rank     E-value  score  bias  modelname           start    end   mdl trunc   gc  description
+ ----   --------- ------ -----  ------------------ ------ ------   --- ----- ----  -----------
+  (1) !   2.7e-06   23.5   0.0  RNAalifold_results      1     39 +  cm    no 0.36  -
+
+
+Hit alignments:
+>> RNAalifold_results  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   2.7e-06   23.5   0.0  cm        1       39 []           1          39 + [] 0.96    no 0.36
+
+                                                                       NC
+                              :::::<<<<________>>>>:::.::::::::::::::: CS
+        RNAalifold_results  1 AAAgaaGGuGgAuCcCuaCCuUaA.AAGUGgGaauUAAAA 39
+                              A +  AGGUG ++C+C+ACCUU+A A G+ G A+UUA+AA
+  Fusobacterium_sp._3_1_5R  1 AUU-CAGGUGUUCCACCACCUUUAaAUGAAGCAGUUAUAA 39
+                              *88.9*****8789999*********************** PP
+
+
+
+Internal CM pipeline statistics summary:
+----------------------------------------
+Query sequence(s):                                               1  (78 residues searched)
+Query sequences re-searched for truncated hits:                  1  (234.0 residues re-searched, avg per model)
+Target model(s):                                                 1  (39 consensus positions)
+Windows   passing  local HMM SSV           filter:               8  (0.8718); expected (0.35)
+Windows   passing  local HMM Viterbi       filter:                  (off)
+Windows   passing  local HMM Viterbi  bias filter:                  (off)
+Windows   passing  local HMM Forward       filter:               8  (0.8718); expected (0.02)
+Windows   passing  local HMM Forward  bias filter:               8  (0.8718); expected (0.02)
+Windows   passing glocal HMM Forward       filter:               5  (0.5929); expected (0.02)
+Windows   passing glocal HMM Forward  bias filter:               5  (0.5929); expected (0.02)
+Envelopes passing glocal HMM envelope defn filter:               5  (0.5705); expected (0.02)
+Envelopes passing  local CM  CYK           filter:               4  (0.5); expected (0.0001)
+Total CM hits reported:                                          1  (0.125); includes 0 truncated hit(s)
+
+# CPU time: 0.04u 0.02s 00:00:00.06 Elapsed: 00:00:00.04
+//
+Query:       Fusobacterium_sp._D12  [L=39]
+Hit scores:
+ rank     E-value  score  bias  modelname           start    end   mdl trunc   gc  description
+ ----   --------- ------ -----  ------------------ ------ ------   --- ----- ----  -----------
+  (1) !   2.5e-06   23.7   0.0  RNAalifold_results      1     39 +  cm    no 0.36  -
+
+
+Hit alignments:
+>> RNAalifold_results  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   2.5e-06   23.7   0.0  cm        1       39 []           1          39 + [] 0.94    no 0.36
+
+                                                                    NC
+                           :::::<<<<________>>>>:::.::::::::::::::: CS
+     RNAalifold_results  1 AAAgaaGGuGgAuCcCuaCCuUaA.AAGUGgGaauUAAAA 39
+                           AA+  AGGUG ++C+C+ACCUUAA A G+ G A+UUA+A 
+  Fusobacterium_sp._D12  1 AAUUCAGGUGUUCCACCACCUUAAaAUGAAGCAGUUAUA- 39
+                           **********8789999**************99999998. PP
+
+
+
+Internal CM pipeline statistics summary:
+----------------------------------------
+Query sequence(s):                                               1  (78 residues searched)
+Query sequences re-searched for truncated hits:                  1  (234.0 residues re-searched, avg per model)
+Target model(s):                                                 1  (39 consensus positions)
+Windows   passing  local HMM SSV           filter:               5  (0.5994); expected (0.35)
+Windows   passing  local HMM Viterbi       filter:                  (off)
+Windows   passing  local HMM Viterbi  bias filter:                  (off)
+Windows   passing  local HMM Forward       filter:               4  (0.5); expected (0.02)
+Windows   passing  local HMM Forward  bias filter:               4  (0.5); expected (0.02)
+Windows   passing glocal HMM Forward       filter:               4  (0.5); expected (0.02)
+Windows   passing glocal HMM Forward  bias filter:               4  (0.5); expected (0.02)
+Envelopes passing glocal HMM envelope defn filter:               4  (0.5); expected (0.02)
+Envelopes passing  local CM  CYK           filter:               4  (0.5); expected (0.0001)
+Total CM hits reported:                                          1  (0.125); includes 0 truncated hit(s)
+
+# CPU time: 0.04u 0.01s 00:00:00.05 Elapsed: 00:00:00.04
+//
+Query:       Fusobacterium_sp._4_1_13  [L=39]
+Hit scores:
+ rank     E-value  score  bias  modelname           start    end   mdl trunc   gc  description
+ ----   --------- ------ -----  ------------------ ------ ------   --- ----- ----  -----------
+  (1) !     2e-05   20.0   0.0  RNAalifold_results      1     39 +  cm    no 0.38  -
+
+
+Hit alignments:
+>> RNAalifold_results  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !     2e-05   20.0   0.0  cm        1       39 []           1          39 + [] 0.96    no 0.38
+
+                                                                       NC
+                              :::::<<<<________>>>>:::.::::::::::::::: CS
+        RNAalifold_results  1 AAAgaaGGuGgAuCcCuaCCuUaA.AAGUGgGaauUAAAA 39
+                              A +  AGGUG ++C+C+ACCU AA A G+ G A+UU +AA
+  Fusobacterium_sp._4_1_13  1 AUU-CAGGUGUUCCACCACCUCAAaAUGAAGCAGUUUUAA 39
+                              *88.9*****8789999*********************** PP
+
+
+
+Internal CM pipeline statistics summary:
+----------------------------------------
+Query sequence(s):                                               1  (78 residues searched)
+Query sequences re-searched for truncated hits:                  1  (234.0 residues re-searched, avg per model)
+Target model(s):                                                 1  (39 consensus positions)
+Windows   passing  local HMM SSV           filter:               5  (0.5962); expected (0.35)
+Windows   passing  local HMM Viterbi       filter:                  (off)
+Windows   passing  local HMM Viterbi  bias filter:                  (off)
+Windows   passing  local HMM Forward       filter:               4  (0.5); expected (0.02)
+Windows   passing  local HMM Forward  bias filter:               4  (0.5); expected (0.02)
+Windows   passing glocal HMM Forward       filter:               4  (0.5); expected (0.02)
+Windows   passing glocal HMM Forward  bias filter:               4  (0.5); expected (0.02)
+Envelopes passing glocal HMM envelope defn filter:               4  (0.5); expected (0.02)
+Envelopes passing  local CM  CYK           filter:               4  (0.5); expected (0.0001)
+Total CM hits reported:                                          1  (0.125); includes 0 truncated hit(s)
+
+# CPU time: 0.05u 0.02s 00:00:00.07 Elapsed: 00:00:00.05
+//
+Query:       Leptotrichia_goodfellowii_F0264  [L=39]
+Hit scores:
+ rank     E-value  score  bias  modelname           start    end   mdl trunc   gc  description
+ ----   --------- ------ -----  ------------------ ------ ------   --- ----- ----  -----------
+  (1) !   2.4e-05   19.8   0.0  RNAalifold_results      1     39 +  cm    no 0.44  -
+
+
+Hit alignments:
+>> RNAalifold_results  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   2.4e-05   19.8   0.0  cm        1       39 []           1          39 + [] 0.95    no 0.44
+
+                                                                              NC
+                                     :::::<<<<________>>>>:::.::::::::::::::: CS
+               RNAalifold_results  1 AAAgaaGGuGgAuCcCuaCCuUaA.AAGUGgGaauUAAAA 39
+                                     A +  :GGUG ++C+C+ACC:U+A   G+ GG+A UA+AA
+  Leptotrichia_goodfellowii_F0264  1 AUU-CGGGUGUUCCACCACCUUUAaGUGAAGGGACUAUAA 39
+                                     *88.8*****8789999*********************** PP
+
+
+
+Internal CM pipeline statistics summary:
+----------------------------------------
+Query sequence(s):                                               1  (78 residues searched)
+Query sequences re-searched for truncated hits:                  1  (234.0 residues re-searched, avg per model)
+Target model(s):                                                 1  (39 consensus positions)
+Windows   passing  local HMM SSV           filter:               8  (0.8718); expected (0.35)
+Windows   passing  local HMM Viterbi       filter:                  (off)
+Windows   passing  local HMM Viterbi  bias filter:                  (off)
+Windows   passing  local HMM Forward       filter:               8  (0.8718); expected (0.02)
+Windows   passing  local HMM Forward  bias filter:               8  (0.8718); expected (0.02)
+Windows   passing glocal HMM Forward       filter:               5  (0.5929); expected (0.02)
+Windows   passing glocal HMM Forward  bias filter:               5  (0.5929); expected (0.02)
+Envelopes passing glocal HMM envelope defn filter:               5  (0.5705); expected (0.02)
+Envelopes passing  local CM  CYK           filter:               4  (0.5); expected (0.0001)
+Total CM hits reported:                                          1  (0.125); includes 0 truncated hit(s)
+
+# CPU time: 0.06u 0.01s 00:00:00.06 Elapsed: 00:00:00.05
+//
+Query:       Eubacterium_saburreum_DSM_3986  [L=42]
+Hit scores:
+ rank     E-value  score  bias  modelname           start    end   mdl trunc   gc  description
+ ----   --------- ------ -----  ------------------ ------ ------   --- ----- ----  -----------
+  (1) !   0.00036   15.2   0.0  RNAalifold_results      1     40 +  cm    no 0.43  -
+
+
+Hit alignments:
+>> RNAalifold_results  
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   0.00036   15.2   0.0  cm        1       39 []           1          40 + [. 0.97    no 0.43
+
+                                                                              NC
+                                    :::::<<<<___._____>>>>:::.::::::::::::::: CS
+              RNAalifold_results  1 AAAgaaGGuGgA.uCcCuaCCuUaA.AAGUGgGaauUAAAA 39
+                                    AAAGAAGGUG   UC+CUACCU++A    + +G+   A  A
+  Eubacterium_saburreum_DSM_3986  1 AAAGAAGGUGU-cUCACUACCUAUAuCCCAAAGGUGAAGCA 40
+                                    **********6.69***9*********************** PP
+
+
+
+Internal CM pipeline statistics summary:
+----------------------------------------
+Query sequence(s):                                               1  (84 residues searched)
+Query sequences re-searched for truncated hits:                  1  (252.0 residues re-searched, avg per model)
+Target model(s):                                                 1  (39 consensus positions)
+Windows   passing  local HMM SSV           filter:               5  (0.6012); expected (0.35)
+Windows   passing  local HMM Viterbi       filter:                  (off)
+Windows   passing  local HMM Viterbi  bias filter:                  (off)
+Windows   passing  local HMM Forward       filter:               4  (0.5); expected (0.02)
+Windows   passing  local HMM Forward  bias filter:               4  (0.5); expected (0.02)
+Windows   passing glocal HMM Forward       filter:               4  (0.5); expected (0.02)
+Windows   passing glocal HMM Forward  bias filter:               4  (0.5); expected (0.02)
+Envelopes passing glocal HMM envelope defn filter:               4  (0.4881); expected (0.02)
+Envelopes passing  local CM  CYK           filter:               2  (0.2381); expected (0.0001)
+Total CM hits reported:                                          1  (0.119); includes 0 truncated hit(s)
+
+# CPU time: 0.06u 0.01s 00:00:00.06 Elapsed: 00:00:00.06
+//
+[ok]

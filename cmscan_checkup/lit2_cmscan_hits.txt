@@ -1,0 +1,16 @@
+#target name         accession query name                                  accession mdl mdl from   mdl to seq from   seq to strand trunc pass   gc  bias  score   E-value inc description of target
+#------------------- --------- ------------------------------------------- --------- --- -------- -------- -------- -------- ------ ----- ---- ---- ----- ------ --------- --- ---------------------
+result               -         AAZ06636|Bacillus_thuringiensis_serovar_kurstaki_HD73_pAW63 -          cm        5       41        1       34      +    5'    2 0.38   0.0   14.3   0.00079 !   -
+result               -         YP_001642731|Bacillus_weihenstephanensis_KBAB4_pBWB402 -          cm        5       41        1       34      +    5'    2 0.41   0.0   15.8    0.0003 !   -
+result               -         ZP_01968975|Ruminococcus_torques_ATCC_27756 -          cm        1       41        1       38      +    no    1 0.42   0.0   19.2   4.2e-05 !   -
+result               -         ZP_01667702|Thermosinus_carboxydivorans_Nor1 -          cm        1       41        1       37      +    no    1 0.51   0.0   16.5   0.00022 !   -
+#
+# Program:         cmscan
+# Version:         1.1.3 (Nov 2019)
+# Pipeline mode:   SCAN
+# Query file:      toxirna_seq_literature2.fasta
+# Target file:     model_toxirna_lit2/toxilit2_model.cm
+# Option settings: /home/he63rap/programs/infernal-1.1.3/src/cmscan -o cmscan_checkup/lit2_cmscan.out --tblout cmscan_checkup/lit2_cmscan_hits.txt model_toxirna_lit2/toxilit2_model.cm toxirna_seq_literature2.fasta 
+# Current dir:     /data/prostlocal2/projects/sk_rnaprotein/masterthesis/rnahomology_toxIN
+# Date:            Fri Feb  5 15:20:18 2021
+# [ok]

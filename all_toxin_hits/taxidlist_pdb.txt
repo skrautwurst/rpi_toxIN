@@ -1,0 +1,4 @@
+1428,4ATO_2,Bacillus_thuringiensis
+29471,2XD0_2,Pectobacterium_atrosepticum
+29471,2XDB_2,Pectobacterium_atrosepticum
+29471,2XDD_2,Pectobacterium_atrosepticum

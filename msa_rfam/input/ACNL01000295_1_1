@@ -1,0 +1,17 @@
+#PP 2.0
+
+ACNL01000295.1/1429-1396 AAAUUGGUGUAUCCUUACCCUAGUAGGAACAAAA
+#S                       xxxxxxxxxxx((((xxxxxxxxx))))xxxxxx
+
+#END
+
+#SECTION BASEPAIRS
+
+#BPCUT 0.0005
+
+12 28 0.864
+15 25 0.96
+14 26 0.988
+13 27 0.987
+
+#END
